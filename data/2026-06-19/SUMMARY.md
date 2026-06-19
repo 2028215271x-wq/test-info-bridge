@@ -1,38 +1,49 @@
-# Bridge 2026-06-19T15:15:31Z
+# Bridge 2026-06-19T15:17:39Z
 
-total 624K
--rw-r--r-- 1 runner runner   31 Jun 19 15:15 SUMMARY.md
--rw-r--r-- 1 runner runner  35K Jun 19 15:15 custom-2c5c5d74-150717.txt
--rw-r--r-- 1 runner runner 1.8K Jun 19 15:15 hn-best-150717.json
--rw-r--r-- 1 runner runner 1.8K Jun 19 15:15 hn-best-151114.json
--rw-r--r-- 1 runner runner 1.8K Jun 19 15:15 hn-best-151518.json
--rw-r--r-- 1 runner runner 1.1K Jun 19 15:15 hn-best-detail-151518.json
--rw-r--r-- 1 runner runner 4.4K Jun 19 15:15 hn-new-150717.json
--rw-r--r-- 1 runner runner 4.4K Jun 19 15:15 hn-new-151114.json
--rw-r--r-- 1 runner runner 4.4K Jun 19 15:15 hn-new-151518.json
--rw-r--r-- 1 runner runner 1.1K Jun 19 15:15 hn-new-detail-151518.json
--rw-r--r-- 1 runner runner 4.4K Jun 19 15:15 hn-top-150717.json
--rw-r--r-- 1 runner runner 4.4K Jun 19 15:15 hn-top-151114.json
--rw-r--r-- 1 runner runner 4.4K Jun 19 15:15 hn-top-151518.json
--rw-r--r-- 1 runner runner 1.1K Jun 19 15:15 hn-top-detail-151518.json
--rw-r--r-- 1 runner runner    0 Jun 19 15:15 nitter-151114.html
--rw-r--r-- 1 runner runner    0 Jun 19 15:15 nitter-151518.html
--rw-r--r-- 1 runner runner  66K Jun 19 15:15 reddit-MachineLearning-151114.rss
--rw-r--r-- 1 runner runner  66K Jun 19 15:15 reddit-MachineLearning-151518.rss
--rw-r--r-- 1 runner runner    0 Jun 19 15:15 reddit-golang-151114.rss
--rw-r--r-- 1 runner runner    0 Jun 19 15:15 reddit-golang-151518.rss
--rw-r--r-- 1 runner runner 186K Jun 19 15:15 reddit-ml-150717.json
--rw-r--r-- 1 runner runner 186K Jun 19 15:15 reddit-prog-150717.json
--rw-r--r-- 1 runner runner    0 Jun 19 15:15 reddit-programming-151114.rss
--rw-r--r-- 1 runner runner    0 Jun 19 15:15 reddit-programming-151518.rss
--rw-r--r-- 1 runner runner    0 Jun 19 15:15 reddit-rust-151114.rss
--rw-r--r-- 1 runner runner    0 Jun 19 15:15 reddit-rust-151518.rss
+total 724K
+-rw-r--r-- 1 runner runner   31 Jun 19 15:17 SUMMARY.md
+-rw-r--r-- 1 runner runner  35K Jun 19 15:17 custom-2c5c5d74-150717.txt
+-rw-r--r-- 1 runner runner 1.8K Jun 19 15:17 hn-best-150717.json
+-rw-r--r-- 1 runner runner 1.8K Jun 19 15:17 hn-best-151114.json
+-rw-r--r-- 1 runner runner 1.8K Jun 19 15:17 hn-best-151518.json
+-rw-r--r-- 1 runner runner 1.8K Jun 19 15:17 hn-best-151726.json
+-rw-r--r-- 1 runner runner 1.1K Jun 19 15:17 hn-best-detail-151518.json
+-rw-r--r-- 1 runner runner 1.1K Jun 19 15:17 hn-best-detail-151726.json
+-rw-r--r-- 1 runner runner 4.4K Jun 19 15:17 hn-new-150717.json
+-rw-r--r-- 1 runner runner 4.4K Jun 19 15:17 hn-new-151114.json
+-rw-r--r-- 1 runner runner 4.4K Jun 19 15:17 hn-new-151518.json
+-rw-r--r-- 1 runner runner 4.4K Jun 19 15:17 hn-new-151726.json
+-rw-r--r-- 1 runner runner 1.1K Jun 19 15:17 hn-new-detail-151518.json
+-rw-r--r-- 1 runner runner  974 Jun 19 15:17 hn-new-detail-151726.json
+-rw-r--r-- 1 runner runner 4.4K Jun 19 15:17 hn-top-150717.json
+-rw-r--r-- 1 runner runner 4.4K Jun 19 15:17 hn-top-151114.json
+-rw-r--r-- 1 runner runner 4.4K Jun 19 15:17 hn-top-151518.json
+-rw-r--r-- 1 runner runner 4.4K Jun 19 15:17 hn-top-151726.json
+-rw-r--r-- 1 runner runner 1.1K Jun 19 15:17 hn-top-detail-151518.json
+-rw-r--r-- 1 runner runner 1013 Jun 19 15:17 hn-top-detail-151726.json
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 nitter-151114.html
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 nitter-151518.html
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 nitter-151726.html
+-rw-r--r-- 1 runner runner  66K Jun 19 15:17 reddit-MachineLearning-151114.rss
+-rw-r--r-- 1 runner runner  66K Jun 19 15:17 reddit-MachineLearning-151518.rss
+-rw-r--r-- 1 runner runner  66K Jun 19 15:17 reddit-MachineLearning-151726.rss
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 reddit-golang-151114.rss
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 reddit-golang-151518.rss
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 reddit-golang-151726.rss
+-rw-r--r-- 1 runner runner 186K Jun 19 15:17 reddit-ml-150717.json
+-rw-r--r-- 1 runner runner 186K Jun 19 15:17 reddit-prog-150717.json
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 reddit-programming-151114.rss
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 reddit-programming-151518.rss
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 reddit-programming-151726.rss
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 reddit-rust-151114.rss
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 reddit-rust-151518.rss
+-rw-r--r-- 1 runner runner    0 Jun 19 15:17 reddit-rust-151726.rss
 
 ### HN top
 - Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 (https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 - DuckDB Internals: Why Is DuckDB Fast? (Part 1) (https://www.greybeam.ai/blog/duckdb-internals-part-1)
+- The Productivity J-Curve [pdf] (2018) (https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)
 - Zen and the Art of Machine Learning Research (https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
-- To study how chips work, MIT researchers built their own operating system (https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
 - Ten years of ClickHouse in open source (https://clickhouse.com/blog/open-source-10)
 
 ### HN best
@@ -43,9 +54,9 @@ total 624K
 - Volkswagen started blocking GrapheneOS users (https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3)
 
 ### HN new
-- Frank Land obituary: programmer of the first business computer (https://www.thetimes.com/uk/obituaries/article/frank-land-obituary-programmer-of-the-first-business-computer-52w8s0csz)
-- Show HN: Captorify – A Better Chrome Screenshot Extension (https://captorify.com/)
-- Open Source vs. the Invisible Hand (https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html)
-- Wordle's Hard Mode Is Easier, 730M Games Show (https://www.nytimes.com/2026/06/18/upshot/wordle-hard-mode.html)
-- How the FAA is using AI to prevent close calls on runways (https://www.politico.com/news/2026/06/19/faa-ai-close-calls-00963264)
+- An agile retrospective skill for your Claude collaboration sessions (https://github.com/cometogather/retro-bot)
+- Ask HN: How do you measure whether your coding agent follows its rules? ()
+- Toward Better Hip Kernel Generation for AMD GPUs (https://scalingintelligence.stanford.edu/blogs/hipkernels/)
+- Moving to Portugal: Complete Guide for Americans (https://www.relocora.com/blog/moving-to-portugal-guide-for-americans-2026)
+- CEO-Bench: Can AI run a simulated startup for 500 days? (https://ceobench.com/)
 
