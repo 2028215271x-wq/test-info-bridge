@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48595511,
+    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "score": 360,
+    "descendants": 198
+  },
+  {
+    "id": 48548695,
+    "title": "The Productivity J-Curve [pdf] (2018)",
+    "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+    "score": 12,
+    "descendants": 3
+  },
+  {
+    "id": 48553388,
+    "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "score": 309,
+    "descendants": 89
+  },
+  {
+    "id": 48546093,
+    "title": "\"No Feigning Surprise\"",
+    "url": "https://wizardzines.com/comics/surprise/",
+    "score": 49,
+    "descendants": 27
+  },
+  {
+    "id": 48549118,
+    "title": "Zen and the Art of Machine Learning Research",
+    "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+    "score": 148,
+    "descendants": 48
+  }
+]
