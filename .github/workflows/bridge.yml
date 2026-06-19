@@ -1,18 +1,15 @@
 name: Content Bridge
-# 🌉 GitHub Actions 内容桥 — 从海外 GitHub 服务器抓取被 GFW 封锁的内容
-# 定时抓取 → 存入 repo → 本地通过 gh API 读取
-
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 每 6 小时
-  workflow_dispatch:          # 手动触发
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
     inputs:
       urls:
-        description: '要抓取的 URL（逗号分隔）'
+        description: 'URLs to fetch (comma-separated)'
         required: false
         default: ''
       query:
-        description: '搜索关键词'
+        description: 'Search keyword'
         required: false
         default: ''
 
@@ -30,58 +27,103 @@ jobs:
           mkdir -p data/$(date +%Y-%m-%d)
           DATE=$(date +%Y-%m-%d)
           TIME=$(date +%H%M%S)
+          DT=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 
-          # ── Reddit: r/MachineLearning hot ──
-          echo "📡 Fetching Reddit r/MachineLearning..."
-          curl -s -H "User-Agent: ContentBridge/1.0" \
-            "https://www.reddit.com/r/MachineLearning/hot.json?limit=10" \
-            > "data/$DATE/reddit-ml-${TIME}.json" 2>/dev/null || \
-            echo '{"error":"fetch failed"}' > "data/$DATE/reddit-ml-${TIME}.json"
+          # ── Reddit RSS feeds (no auth needed) ──
+          for sub in MachineLearning programming rust golang; do
+            echo "📡 Fetching r/$sub RSS..."
+            curl -s -L -H "User-Agent: ContentBridge/1.0" \
+              "https://www.reddit.com/r/$sub/.rss?limit=25" \
+              > "data/$DATE/reddit-${sub}-${TIME}.rss" 2>/dev/null || \
+              echo "fetch failed" > "data/$DATE/reddit-${sub}-${TIME}.rss"
 
-          # ── Reddit: r/programming hot ──
-          echo "📡 Fetching Reddit r/programming..."
-          curl -s -H "User-Agent: ContentBridge/1.0" \
-            "https://www.reddit.com/r/programming/hot.json?limit=10" \
-            > "data/$DATE/reddit-prog-${TIME}.json" 2>/dev/null || \
-            echo '{"error":"fetch failed"}' > "data/$DATE/reddit-prog-${TIME}.json"
+            # Extract titles with Python
+            python3 -c "
+import xml.etree.ElementTree as ET
+import json, sys
+try:
+    tree = ET.parse('data/$DATE/reddit-${sub}-${TIME}.rss')
+    root = tree.getroot()
+    ns = {'atom': 'http://www.w3.org/2005/Atom'}
+    items = []
+    for entry in root.findall('.//{http://www.w3.org/2005/Atom}entry')[:15]:
+        title = entry.find('{http://www.w3.org/2005/Atom}title')
+        link = entry.find('{http://www.w3.org/2005/Atom}link')
+        items.append({
+            'title': title.text if title is not None else '',
+            'link': link.get('href') if link is not None else ''
+        })
+    with open('data/$DATE/reddit-${sub}-${TIME}.json', 'w') as f:
+        json.dump(items, f, indent=2)
+    print(f'  ✅ {len(items)} posts from r/$sub')
+except Exception as e:
+    print(f'  ⚠️ r/$sub parse error: {e}')
+    with open('data/$DATE/reddit-${sub}-${TIME}.json', 'w') as f:
+        json.dump({'error': str(e)}, f)
+" 2>/dev/null || true
+          done
 
-          # ── Hacker News top stories ──
-          echo "📡 Fetching HN top stories..."
-          curl -s -H "User-Agent: ContentBridge/1.0" \
-            "https://hacker-news.firebaseio.com/v0/topstories.json" \
-            > "data/$DATE/hn-top-${TIME}.json" 2>/dev/null || \
-            echo '{"error":"fetch failed"}' > "data/$DATE/hn-top-${TIME}.json"
+          # ── Hacker News API (no auth needed) ──
+          for type in top best new; do
+            echo "📡 Fetching HN $type..."
+            curl -s -H "User-Agent: ContentBridge/1.0" \
+              "https://hacker-news.firebaseio.com/v0/${type}stories.json" \
+              > "data/$DATE/hn-${type}-${TIME}.json" 2>/dev/null || \
+              echo '{"error":"fetch failed"}' > "data/$DATE/hn-${type}-${TIME}.json"
 
-          # ── Hacker News best stories ──
-          echo "📡 Fetching HN best stories..."
-          curl -s -H "User-Agent: ContentBridge/1.0" \
-            "https://hacker-news.firebaseio.com/v0/beststories.json" \
-            > "data/$DATE/hn-best-${TIME}.json" 2>/dev/null || \
-            echo '{"error":"fetch failed"}' > "data/$DATE/hn-best-${TIME}.json"
+            # Fetch top 5 story details
+            python3 -c "
+import json, urllib.request, time
+with open('data/$DATE/hn-${type}-${TIME}.json') as f:
+    ids = json.load(f)[:5]
+stories = []
+for sid in ids:
+    try:
+        req = urllib.request.Request(f'https://hacker-news.firebaseio.com/v0/item/{sid}.json')
+        req.add_header('User-Agent', 'ContentBridge/1.0')
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            stories.append(json.loads(resp.read()))
+        time.sleep(0.1)
+    except: pass
+with open(f'data/$DATE/hn-${type}-detail-${TIME}.json', 'w') as f:
+    json.dump(stories, f, indent=2)
+print(f'  ✅ {len(stories)} detail stories from HN $type')
+" 2>/dev/null || true
+          done
 
-          # ── Hacker News new stories ──
-          echo "📡 Fetching HN new stories..."
-          curl -s -H "User-Agent: ContentBridge/1.0" \
-            "https://hacker-news.firebaseio.com/v0/newstories.json" \
-            > "data/$DATE/hn-new-${TIME}.json" 2>/dev/null || \
-            echo '{"error":"fetch failed"}' > "data/$DATE/hn-new-${TIME}.json"
-
-          # ── Custom URLs (from workflow_dispatch) ──
+          # ── Custom URLs ──
           if [ -n "${{ github.event.inputs.urls }}" ]; then
             echo "📡 Fetching custom URLs..."
             IFS=',' read -ra URLS <<< "${{ github.event.inputs.urls }}"
             for url in "${URLS[@]}"; do
-              url=$(echo "$url" | xargs)  # trim
+              url=$(echo "$url" | xargs)
               slug=$(echo "$url" | md5sum | cut -c1-8)
               curl -s -L -H "User-Agent: ContentBridge/1.0" "$url" \
                 > "data/$DATE/custom-${slug}-${TIME}.txt" 2>/dev/null || true
             done
           fi
 
+          # ── Twitter/X trends (via nitter RSS) ──
+          echo "📡 Fetching nitter trending..."
+          curl -s -L -H "User-Agent: ContentBridge/1.0" \
+            "https://nitter.net/" \
+            > "data/$DATE/nitter-trending-${TIME}.html" 2>/dev/null || \
+            echo "fetch failed" > "data/$DATE/nitter-trending-${TIME}.html"
+
           # ── Summary ──
-          echo "📊 Content fetched at $(date -u)" > "data/$DATE/SUMMARY.md"
-          echo "" >> "data/$DATE/SUMMARY.md"
-          ls -la "data/$DATE/" >> "data/$DATE/SUMMARY.md"
+          {
+            echo "# Content Bridge Summary"
+            echo "**Fetched**: $DT"
+            echo ""
+            echo "## Files"
+            ls -lh data/$DATE/ | tail -n +2
+            echo ""
+            echo "## Coverage"
+            echo "- Reddit: r/MachineLearning, r/programming, r/rust, r/golang"
+            echo "- Hacker News: top, best, new (with details)"
+            echo "- Custom URLs: ${{ github.event.inputs.urls }}"
+            echo "- Twitter/X: via Nitter mirror"
+          } > "data/$DATE/SUMMARY.md"
 
       - name: Commit and Push
         run: |
