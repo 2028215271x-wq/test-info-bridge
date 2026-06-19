@@ -8,127 +8,60 @@ on:
         description: 'URLs to fetch (comma-separated)'
         required: false
         default: ''
-      query:
-        description: 'Search keyword'
-        required: false
-        default: ''
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Content Sources
+      - name: Fetch Content
         run: |
-          mkdir -p data/$(date +%Y-%m-%d)
-          DATE=$(date +%Y-%m-%d)
-          TIME=$(date +%H%M%S)
-          DT=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          mkdir -p "data/$(date +%Y-%m-%d)"
+          D="data/$(date +%Y-%m-%d)"
+          T=$(date +%H%M%S)
 
-          # ── Reddit RSS feeds (no auth needed) ──
+          # Reddit RSS
           for sub in MachineLearning programming rust golang; do
-            echo "📡 Fetching r/$sub RSS..."
-            curl -s -L -H "User-Agent: ContentBridge/1.0" \
+            curl -sL -H 'User-Agent: ContentBridge/1.0' \
               "https://www.reddit.com/r/$sub/.rss?limit=25" \
-              > "data/$DATE/reddit-${sub}-${TIME}.rss" 2>/dev/null || \
-              echo "fetch failed" > "data/$DATE/reddit-${sub}-${TIME}.rss"
-
-            # Extract titles with Python
-            python3 -c "
-import xml.etree.ElementTree as ET
-import json, sys
-try:
-    tree = ET.parse('data/$DATE/reddit-${sub}-${TIME}.rss')
-    root = tree.getroot()
-    ns = {'atom': 'http://www.w3.org/2005/Atom'}
-    items = []
-    for entry in root.findall('.//{http://www.w3.org/2005/Atom}entry')[:15]:
-        title = entry.find('{http://www.w3.org/2005/Atom}title')
-        link = entry.find('{http://www.w3.org/2005/Atom}link')
-        items.append({
-            'title': title.text if title is not None else '',
-            'link': link.get('href') if link is not None else ''
-        })
-    with open('data/$DATE/reddit-${sub}-${TIME}.json', 'w') as f:
-        json.dump(items, f, indent=2)
-    print(f'  ✅ {len(items)} posts from r/$sub')
-except Exception as e:
-    print(f'  ⚠️ r/$sub parse error: {e}')
-    with open('data/$DATE/reddit-${sub}-${TIME}.json', 'w') as f:
-        json.dump({'error': str(e)}, f)
-" 2>/dev/null || true
+              > "$D/reddit-${sub}-${T}.rss" 2>/dev/null || true
           done
 
-          # ── Hacker News API (no auth needed) ──
-          for type in top best new; do
-            echo "📡 Fetching HN $type..."
-            curl -s -H "User-Agent: ContentBridge/1.0" \
-              "https://hacker-news.firebaseio.com/v0/${type}stories.json" \
-              > "data/$DATE/hn-${type}-${TIME}.json" 2>/dev/null || \
-              echo '{"error":"fetch failed"}' > "data/$DATE/hn-${type}-${TIME}.json"
-
-            # Fetch top 5 story details
-            python3 -c "
-import json, urllib.request, time
-with open('data/$DATE/hn-${type}-${TIME}.json') as f:
-    ids = json.load(f)[:5]
-stories = []
-for sid in ids:
-    try:
-        req = urllib.request.Request(f'https://hacker-news.firebaseio.com/v0/item/{sid}.json')
-        req.add_header('User-Agent', 'ContentBridge/1.0')
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            stories.append(json.loads(resp.read()))
-        time.sleep(0.1)
-    except: pass
-with open(f'data/$DATE/hn-${type}-detail-${TIME}.json', 'w') as f:
-    json.dump(stories, f, indent=2)
-print(f'  ✅ {len(stories)} detail stories from HN $type')
-" 2>/dev/null || true
+          # HN story IDs
+          for t in top best new; do
+            curl -sL -H 'User-Agent: ContentBridge/1.0' \
+              "https://hacker-news.firebaseio.com/v0/${t}stories.json" \
+              > "$D/hn-${t}-${T}.json" 2>/dev/null || true
           done
 
-          # ── Custom URLs ──
-          if [ -n "${{ github.event.inputs.urls }}" ]; then
-            echo "📡 Fetching custom URLs..."
-            IFS=',' read -ra URLS <<< "${{ github.event.inputs.urls }}"
-            for url in "${URLS[@]}"; do
-              url=$(echo "$url" | xargs)
-              slug=$(echo "$url" | md5sum | cut -c1-8)
-              curl -s -L -H "User-Agent: ContentBridge/1.0" "$url" \
-                > "data/$DATE/custom-${slug}-${TIME}.txt" 2>/dev/null || true
+          # Custom URLs
+          URLS="${{ github.event.inputs.urls }}"
+          if [ -n "$URLS" ]; then
+            IFS=',' read -ra UA <<< "$URLS"
+            for u in "${UA[@]}"; do
+              u=$(echo "$u" | xargs)
+              s=$(echo "$u" | md5sum | cut -c1-8)
+              curl -sL -H 'User-Agent: ContentBridge/1.0' "$u" \
+                > "$D/custom-${s}-${T}.txt" 2>/dev/null || true
             done
           fi
 
-          # ── Twitter/X trends (via nitter RSS) ──
-          echo "📡 Fetching nitter trending..."
-          curl -s -L -H "User-Agent: ContentBridge/1.0" \
-            "https://nitter.net/" \
-            > "data/$DATE/nitter-trending-${TIME}.html" 2>/dev/null || \
-            echo "fetch failed" > "data/$DATE/nitter-trending-${TIME}.html"
+          # Try Twitter/X via Nitter
+          curl -sL -H 'User-Agent: ContentBridge/1.0' \
+            'https://nitter.net/' \
+            > "$D/nitter-${T}.html" 2>/dev/null || true
 
-          # ── Summary ──
-          {
-            echo "# Content Bridge Summary"
-            echo "**Fetched**: $DT"
-            echo ""
-            echo "## Files"
-            ls -lh data/$DATE/ | tail -n +2
-            echo ""
-            echo "## Coverage"
-            echo "- Reddit: r/MachineLearning, r/programming, r/rust, r/golang"
-            echo "- Hacker News: top, best, new (with details)"
-            echo "- Custom URLs: ${{ github.event.inputs.urls }}"
-            echo "- Twitter/X: via Nitter mirror"
-          } > "data/$DATE/SUMMARY.md"
+          # Summary
+          echo "# Bridge $(date -u +%Y-%m-%dT%H:%M:%SZ)" > "$D/SUMMARY.md"
+          ls -lh "$D/" >> "$D/SUMMARY.md"
 
-      - name: Commit and Push
+      - name: Commit
         run: |
-          git config user.name "content-bridge[bot]"
-          git config user.email "bridge@bot.local"
+          git config user.name 'bridge[bot]'
+          git config user.email 'bridge@bot.local'
           git add data/
-          git diff --staged --quiet || git commit -m "🌉 Bridge fetch $(date +%Y-%m-%d-%H%M)"
+          git diff --staged --quiet || git commit -m "🌉 $(date +%Y-%m-%d-%H%M)"
           git push
