@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48595511,
+    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "score": 355,
+    "descendants": 194
+  },
+  {
+    "id": 48553388,
+    "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "score": 302,
+    "descendants": 89
+  },
+  {
+    "id": 48549118,
+    "title": "Zen and the Art of Machine Learning Research",
+    "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+    "score": 145,
+    "descendants": 47
+  },
+  {
+    "id": 48543311,
+    "title": "To study how chips work, MIT researchers built their own operating system",
+    "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+    "score": 275,
+    "descendants": 39
+  },
+  {
+    "id": 48546890,
+    "title": "Ten years of ClickHouse in open source",
+    "url": "https://clickhouse.com/blog/open-source-10",
+    "score": 156,
+    "descendants": 47
+  }
+]
