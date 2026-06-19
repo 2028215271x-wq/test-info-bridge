@@ -17,83 +17,98 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Content
+      - name: Fetch content
         run: |
           D="data/$(date +%Y-%m-%d)"
           T=$(date +%H%M%S)
           mkdir -p "$D"
-
-          # ── Reddit RSS ──
+          echo "D=$D" >> "$GITHUB_ENV"
+          echo "T=$T" >> "$GITHUB_ENV"
           for sub in MachineLearning programming rust golang; do
             curl -sL -m 15 -H "User-Agent: ContentBridge/1.0" \
               "https://www.reddit.com/r/$sub/.rss?limit=25" \
               > "$D/reddit-${sub}-${T}.rss" 2>/dev/null || true
             sleep 2
           done
-
-          # ── HN story IDs ──
           for t in top best new; do
             curl -sL -m 10 -H "User-Agent: ContentBridge/1.0" \
               "https://hacker-news.firebaseio.com/v0/${t}stories.json" \
               > "$D/hn-${t}-${T}.json" 2>/dev/null || true
           done
-
-          # ── HN story details (top 5 of each type) ──
-          python3 << 'PYEOF'
-import json, urllib.request, time, os
-D = os.environ.get('D', 'data/2026-06-19')
-T = os.environ.get('T', '000000')
-for t in ['top', 'best', 'new']:
-    fn = f'{D}/hn-{t}-{T}.json'
-    try:
-        with open(fn) as f:
-            ids = json.load(f)
-    except: continue
-    stories = []
-    for sid in ids[:5]:
-        try:
-            req = urllib.request.Request(f'https://hacker-news.firebaseio.com/v0/item/{sid}.json')
-            req.add_header('User-Agent', 'ContentBridge/1.0')
-            with urllib.request.urlopen(req, timeout=5) as r:
-                s = json.loads(r.read())
-            stories.append({
-                'id': sid,
-                'title': s.get('title', ''),
-                'url': s.get('url', f'https://news.ycombinator.com/item?id={sid}'),
-                'score': s.get('score', 0),
-                'descendants': s.get('descendants', 0),
-            })
-            time.sleep(0.1)
-        except: pass
-    with open(f'{D}/hn-{t}-detail-{T}.json', 'w') as f:
-        json.dump(stories, f, indent=2)
-    print(f'  ✅ HN {t}: {len(stories)} stories saved')
-PYEOF
-
-          # ── Custom URLs ──
           URLS="${{ github.event.inputs.urls }}"
           if [ -n "$URLS" ]; then
             IFS="," read -ra UA <<< "$URLS"
             for u in "${UA[@]}"; do
               u=$(echo "$u" | xargs)
               s=$(echo "$u" | md5sum | cut -c1-8)
-              curl -sL -m 30 -H "User-Agent: ContentBridge/1.0" "$u" \
-                > "$D/custom-${s}-${T}.txt" 2>/dev/null || true
+              curl -sL -m 30 -H "User-Agent: ContentBridge/1.0" \
+                "$u" > "$D/custom-${s}-${T}.txt" 2>/dev/null || true
             done
           fi
-
-          # ── Nitter ──
           curl -sL -m 10 -H "User-Agent: ContentBridge/1.0" \
             "https://nitter.net/" > "$D/nitter-${T}.html" 2>/dev/null || true
 
-          # ── Summary ──
-          {
-            echo "# Bridge $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            echo ""
-            ls -lh "$D/"
-          } > "$D/SUMMARY.md"
+      - name: Enrich HN details
+        run: |
+          cat > /tmp/enrich.py << 'PYEOF'
+          import json, urllib.request, time, os
+          D = os.environ['D']
+          T = os.environ['T']
+          for t in ['top', 'best', 'new']:
+              fn = f'{D}/hn-{t}-{T}.json'
+              try:
+                  with open(fn) as f:
+                      ids = json.load(f)
+              except:
+                  continue
+              stories = []
+              for sid in ids[:5]:
+                  try:
+                      req = urllib.request.Request(
+                          f'https://hacker-news.firebaseio.com/v0/item/{sid}.json')
+                      req.add_header('User-Agent', 'ContentBridge/1.0')
+                      with urllib.request.urlopen(req, timeout=5) as r:
+                          s = json.loads(r.read())
+                      stories.append({
+                          'id': sid,
+                          'title': s.get('title', ''),
+                          'url': s.get('url', ''),
+                          'score': s.get('score', 0),
+                          'descendants': s.get('descendants', 0),
+                      })
+                      time.sleep(0.1)
+                  except Exception as ex:
+                      stories.append({'id': sid, 'error': str(ex)})
+              with open(f'{D}/hn-{t}-detail-{T}.json', 'w') as f:
+                  json.dump(stories, f, indent=2)
+              print(f'  HN {t}: {len(stories)} stories')
+          PYEOF
+          python3 /tmp/enrich.py
 
-      - name: Commit
+      - name: Generate summary
+        run: |
+          echo "# Bridge $(date -u +%Y-%m-%dT%H:%M:%SZ)" > "$D/SUMMARY.md"
+          echo "" >> "$D/SUMMARY.md"
+          ls -lh "$D/" >> "$D/SUMMARY.md"
+          echo "" >> "$D/SUMMARY.md"
+          python3 -c "
+          import json, os
+          D = os.environ['D']
+          T = os.environ['T']
+          for t in ['top', 'best', 'new']:
+              fn = f'{D}/hn-{t}-detail-{T}.json'
+              try:
+                  with open(fn) as f:
+                      stories = json.load(f)
+                  print(f'### HN {t}')
+                  for s in stories[:5]:
+                      print(f'- {s[\"title\"]} ({s.get(\"url\",\"#\")})')
+                  print()
+              except Exception:
+                  pass
+          " >> "$D/SUMMARY.md"
+
+      - name: Commit and push
         run: |
           git config user.name "bridge[bot]"
           git config user.email "bridge@bot.local"
