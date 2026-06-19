@@ -1,0 +1,92 @@
+name: Content Bridge
+# 🌉 GitHub Actions 内容桥 — 从海外 GitHub 服务器抓取被 GFW 封锁的内容
+# 定时抓取 → 存入 repo → 本地通过 gh API 读取
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 每 6 小时
+  workflow_dispatch:          # 手动触发
+    inputs:
+      urls:
+        description: '要抓取的 URL（逗号分隔）'
+        required: false
+        default: ''
+      query:
+        description: '搜索关键词'
+        required: false
+        default: ''
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Content Sources
+        run: |
+          mkdir -p data/$(date +%Y-%m-%d)
+          DATE=$(date +%Y-%m-%d)
+          TIME=$(date +%H%M%S)
+
+          # ── Reddit: r/MachineLearning hot ──
+          echo "📡 Fetching Reddit r/MachineLearning..."
+          curl -s -H "User-Agent: ContentBridge/1.0" \
+            "https://www.reddit.com/r/MachineLearning/hot.json?limit=10" \
+            > "data/$DATE/reddit-ml-${TIME}.json" 2>/dev/null || \
+            echo '{"error":"fetch failed"}' > "data/$DATE/reddit-ml-${TIME}.json"
+
+          # ── Reddit: r/programming hot ──
+          echo "📡 Fetching Reddit r/programming..."
+          curl -s -H "User-Agent: ContentBridge/1.0" \
+            "https://www.reddit.com/r/programming/hot.json?limit=10" \
+            > "data/$DATE/reddit-prog-${TIME}.json" 2>/dev/null || \
+            echo '{"error":"fetch failed"}' > "data/$DATE/reddit-prog-${TIME}.json"
+
+          # ── Hacker News top stories ──
+          echo "📡 Fetching HN top stories..."
+          curl -s -H "User-Agent: ContentBridge/1.0" \
+            "https://hacker-news.firebaseio.com/v0/topstories.json" \
+            > "data/$DATE/hn-top-${TIME}.json" 2>/dev/null || \
+            echo '{"error":"fetch failed"}' > "data/$DATE/hn-top-${TIME}.json"
+
+          # ── Hacker News best stories ──
+          echo "📡 Fetching HN best stories..."
+          curl -s -H "User-Agent: ContentBridge/1.0" \
+            "https://hacker-news.firebaseio.com/v0/beststories.json" \
+            > "data/$DATE/hn-best-${TIME}.json" 2>/dev/null || \
+            echo '{"error":"fetch failed"}' > "data/$DATE/hn-best-${TIME}.json"
+
+          # ── Hacker News new stories ──
+          echo "📡 Fetching HN new stories..."
+          curl -s -H "User-Agent: ContentBridge/1.0" \
+            "https://hacker-news.firebaseio.com/v0/newstories.json" \
+            > "data/$DATE/hn-new-${TIME}.json" 2>/dev/null || \
+            echo '{"error":"fetch failed"}' > "data/$DATE/hn-new-${TIME}.json"
+
+          # ── Custom URLs (from workflow_dispatch) ──
+          if [ -n "${{ github.event.inputs.urls }}" ]; then
+            echo "📡 Fetching custom URLs..."
+            IFS=',' read -ra URLS <<< "${{ github.event.inputs.urls }}"
+            for url in "${URLS[@]}"; do
+              url=$(echo "$url" | xargs)  # trim
+              slug=$(echo "$url" | md5sum | cut -c1-8)
+              curl -s -L -H "User-Agent: ContentBridge/1.0" "$url" \
+                > "data/$DATE/custom-${slug}-${TIME}.txt" 2>/dev/null || true
+            done
+          fi
+
+          # ── Summary ──
+          echo "📊 Content fetched at $(date -u)" > "data/$DATE/SUMMARY.md"
+          echo "" >> "data/$DATE/SUMMARY.md"
+          ls -la "data/$DATE/" >> "data/$DATE/SUMMARY.md"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "content-bridge[bot]"
+          git config user.email "bridge@bot.local"
+          git add data/
+          git diff --staged --quiet || git commit -m "🌉 Bridge fetch $(date +%Y-%m-%d-%H%M)"
+          git push
