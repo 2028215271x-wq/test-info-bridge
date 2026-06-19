@@ -25,36 +25,28 @@ jobs:
           echo "D=$D" >> "$GITHUB_ENV"
           echo "T=$T" >> "$GITHUB_ENV"
 
-          # Reddit RSS with rate-limit-aware delays
-          UA_BASE="ContentBridge/1.0"
+          # Reddit RSS — note: r/programming/rust/golang all rate-limit to 0 bytes
+          # r/MachineLearning is the only reliable subreddit via RSS
+          UA="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
           
-          fetch_reddit() {
-            local sub="$1" ua="$2"
-            curl -sL -m 20 -H "User-Agent: $ua" \
-              "https://www.reddit.com/r/$sub/.rss?limit=25" \
-              > "$D/reddit-${sub}-${T}.rss" 2>/dev/null
-            local sz=$(stat -c%s "$D/reddit-${sub}-${T}.rss" 2>/dev/null || echo 0)
-            echo "  r/$sub: $sz bytes"
-          }
+          # r/MachineLearning (reliable, limit=50 for more content)
+          curl -sL -m 20 -H "User-Agent: $UA" \
+            "https://www.reddit.com/r/MachineLearning/.rss?limit=50" \
+            > "$D/reddit-MachineLearning-${T}.rss" 2>/dev/null
+          sz=$(stat -c%s "$D/reddit-MachineLearning-${T}.rss" 2>/dev/null || echo 0)
+          echo "  r/MachineLearning: $sz bytes"
           
-          # r/MachineLearning first (highest priority)
-          fetch_reddit MachineLearning "$UA_BASE"
-          sleep 5
+          sleep 7
           
-          # r/programming with delay
-          fetch_reddit programming "Mozilla/5.0 (compatible; ContentBridge)"
-          sleep 5
-          
-          # r/rust with different UA
-          fetch_reddit rust "curl/8.0 (ContentBridge)"
-          sleep 3
-          
-          # r/golang
-          fetch_reddit golang "Python-urllib/3.10 (ContentBridge)"
+          # r/artificial (backup sub, smaller = less likely to be rate-limited)
+          curl -sL -m 20 -H "User-Agent: curl/8.8.0" \
+            "https://www.reddit.com/r/artificial/.rss?limit=25" \
+            > "$D/reddit-artificial-${T}.rss" 2>/dev/null
+          sz=$(stat -c%s "$D/reddit-artificial-${T}.rss" 2>/dev/null || echo 0)
+          echo "  r/artificial: $sz bytes"
 
       - name: Fetch HN
         run: |
-          D="$D" T="$T"
           for t in top best new; do
             curl -sL -m 10 -H "User-Agent: ContentBridge/1.0" \
               "https://hacker-news.firebaseio.com/v0/${t}stories.json" \
@@ -64,7 +56,6 @@ jobs:
 
       - name: Fetch custom URLs
         run: |
-          D="$D" T="$T"
           URLS="${{ github.event.inputs.urls }}"
           if [ -n "$URLS" ]; then
             IFS="," read -ra UA <<< "$URLS"
@@ -101,7 +92,7 @@ jobs:
                           "score": s.get("score", 0),
                           "descendants": s.get("descendants", 0),
                       })
-                      time.sleep(0.1)
+                      time.sleep(0.15)
                   except Exception as ex:
                       stories.append({"id": sid, "error": str(ex)})
               with open(f"{D}/hn-{t}-detail-{T}.json", "w") as f:
