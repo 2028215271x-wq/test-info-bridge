@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48583928,
+    "title": "I found 10k GitHub repositories distributing Trojan malware",
+    "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+    "score": 939,
+    "descendants": 243
+  },
+  {
+    "id": 48585746,
+    "title": "Swiss parliament lifts ban on new nuclear power plants",
+    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+    "score": 794,
+    "descendants": 827
+  },
+  {
+    "id": 48584207,
+    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+    "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+    "score": 721,
+    "descendants": 507
+  },
+  {
+    "id": 48600312,
+    "title": "Hyundai buys Boston Dynamics",
+    "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "score": 708,
+    "descendants": 325
+  },
+  {
+    "id": 48583356,
+    "title": ".gitignore Isn't the only way to ignore files in Git",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "score": 566,
+    "descendants": 169
+  }
+]
