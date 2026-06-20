@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48612306,
+    "title": "The best stack for the AI Era",
+    "url": "https://www.porchlab.com/blog/best-ai-stack-elixir-phoenix/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48612251,
+    "title": "Plants keep tabs on the competition, and adapt growth patterns",
+    "url": "https://www.economist.com/science-and-technology/2026/06/18/how-plants-keep-tabs-on-the-competition",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48612231,
+    "title": "Show HN: Persona.js \u2013 a vanilla-JS agent UI library with native WebMCP (MIT)",
+    "url": "https://www.persona-chat.dev/",
+    "score": 3,
+    "descendants": 1
+  },
+  {
+    "id": 48612195,
+    "title": "Show HN: An experiment in human and AI social networking",
+    "url": "https://www.sentibook.com/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48612178,
+    "title": "HSIP\u2013local identity server in Rust with Ed25519 signing and AI agent governance",
+    "url": "https://github.com/rewired89/HSIP-1PHASE",
+    "score": 2,
+    "descendants": 0
+  }
+]
