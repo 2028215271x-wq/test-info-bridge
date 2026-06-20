@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48608223,
+    "title": "CSSQuake",
+    "url": "https://cssquake.com/",
+    "score": 155,
+    "descendants": 26
+  },
+  {
+    "id": 48606619,
+    "title": "I Stored a Website in a Favicon",
+    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "score": 216,
+    "descendants": 77
+  },
+  {
+    "id": 48606140,
+    "title": "Where to Find the Colors Your Screen Can't Show You",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "score": 254,
+    "descendants": 58
+  },
+  {
+    "id": 48608255,
+    "title": "Bootimus \u2013 A Self-Contained PXE and HTTP Boot Server",
+    "url": "https://bootimus.com",
+    "score": 26,
+    "descendants": 5
+  },
+  {
+    "id": 48564480,
+    "title": "The Cold War's Accidental Whale Observatory",
+    "url": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
+    "score": 33,
+    "descendants": 9
+  }
+]
