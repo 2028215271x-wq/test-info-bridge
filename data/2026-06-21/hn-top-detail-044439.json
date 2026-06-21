@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48613755,
+    "title": "Renting a sewing machine from the library",
+    "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "score": 155,
+    "descendants": 74
+  },
+  {
+    "id": 48613872,
+    "title": "Epoll vs. io_uring in Linux",
+    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "score": 95,
+    "descendants": 24
+  },
+  {
+    "id": 48614844,
+    "title": "Developers don't understand CORS (2019)",
+    "url": "https://fosterelli.co/developers-dont-understand-cors",
+    "score": 53,
+    "descendants": 22
+  },
+  {
+    "id": 48608645,
+    "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+    "url": "https://github.com/mysk-research/loupe",
+    "score": 134,
+    "descendants": 34
+  },
+  {
+    "id": 48608570,
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "url": "https://townsquare.cauenapier.com/",
+    "score": 110,
+    "descendants": 50
+  }
+]
