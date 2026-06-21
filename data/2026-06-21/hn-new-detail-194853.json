@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48621959,
+    "title": "I built a social profile for vibecoders to share and store their projects",
+    "url": "https://kritive.com",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48621956,
+    "title": "CMS Trap (2013)",
+    "url": "https://max.engineer/cms-trap",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48621936,
+    "title": "Fastest Commodore PET Using the MCL65(2025)",
+    "url": "https://hackaday.io/project/204693-worlds-fastest-commodore-pet-using-the-mcl65",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48621930,
+    "title": "JustHTML 3.0.0: A new HTML5 parser architecture",
+    "url": "https://friendlybit.com/python/justhtml-3-parser-architecture/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48621926,
+    "title": "Thinking at the Edge",
+    "url": "https://mklyons.com/blog/thinking-at-the-edge",
+    "score": 1,
+    "descendants": 0
+  }
+]

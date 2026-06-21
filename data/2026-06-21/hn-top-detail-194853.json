@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48620090,
+    "title": "Prefer duplication over the wrong abstraction (2016)",
+    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "score": 297,
+    "descendants": 210
+  },
+  {
+    "id": 48621517,
+    "title": "JSON-LD Explained for Personal Websites",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "score": 23,
+    "descendants": 3
+  },
+  {
+    "id": 48617990,
+    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "url": "https://www.beyondallreason.info",
+    "score": 347,
+    "descendants": 194
+  },
+  {
+    "id": 48619831,
+    "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+    "url": "https://norvig.com/lispy.html",
+    "score": 111,
+    "descendants": 37
+  },
+  {
+    "id": 48620342,
+    "title": "The minimum viable unit of saleable software",
+    "url": "https://brandur.org/minimum-viable-unit",
+    "score": 58,
+    "descendants": 27
+  }
+]
