@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48616800,
+    "title": "Google Hits 50% IPv6",
+    "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+    "score": 73,
+    "descendants": 45
+  },
+  {
+    "id": 48616713,
+    "title": "A 3D voxel game engine written in APL",
+    "url": "https://github.com/namgyaaal/avoxelgame",
+    "score": 35,
+    "descendants": 6
+  },
+  {
+    "id": 48573902,
+    "title": "Zigzag Decoding with AVX-512",
+    "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+    "score": 74,
+    "descendants": 9
+  },
+  {
+    "id": 48614844,
+    "title": "Developers don't understand CORS (2019)",
+    "url": "https://fosterelli.co/developers-dont-understand-cors",
+    "score": 196,
+    "descendants": 104
+  },
+  {
+    "id": 48608645,
+    "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+    "url": "https://github.com/mysk-research/loupe",
+    "score": 283,
+    "descendants": 105
+  }
+]

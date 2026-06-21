@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48600312,
+    "title": "Hyundai buys Boston Dynamics",
+    "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "score": 942,
+    "descendants": 392
+  },
+  {
+    "id": 48600093,
+    "title": "Norway imposes near ban on AI in elementary school",
+    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "score": 797,
+    "descendants": 571
+  },
+  {
+    "id": 48600345,
+    "title": "Google workspace threatening to block Firefox access",
+    "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+    "score": 533,
+    "descendants": 178
+  },
+  {
+    "id": 48600167,
+    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+    "url": "https://arrowtsx.dev/bigger-models/",
+    "score": 527,
+    "descendants": 253
+  },
+  {
+    "id": 48599515,
+    "title": "There are no instances in ATProto",
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "score": 526,
+    "descendants": 302
+  }
+]
