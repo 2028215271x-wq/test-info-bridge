@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48626137,
+    "title": "Deno Desktop",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "score": 545,
+    "descendants": 204
+  },
+  {
+    "id": 48626930,
+    "title": "Codex logging bug may write TBs to local SSDs",
+    "url": "https://github.com/openai/codex/issues/28224",
+    "score": 155,
+    "descendants": 82
+  },
+  {
+    "id": 48605561,
+    "title": "Help I accidentally a wigglegram",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "score": 312,
+    "descendants": 70
+  },
+  {
+    "id": 48622867,
+    "title": "Did my old job only exist because of fraud?",
+    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+    "score": 628,
+    "descendants": 275
+  },
+  {
+    "id": 48622778,
+    "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
+    "url": "https://apertvs.ai/",
+    "score": 438,
+    "descendants": 141
+  }
+]
