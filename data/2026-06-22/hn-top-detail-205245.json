@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48632884,
+    "title": "Steam Machine launches today",
+    "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "score": 749,
+    "descendants": 643
+  },
+  {
+    "id": 48634787,
+    "title": "British Columbia, Time Zones, and Postgres",
+    "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+    "score": 40,
+    "descendants": 1
+  },
+  {
+    "id": 48597221,
+    "title": "My Mathematical Regression",
+    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+    "score": 122,
+    "descendants": 34
+  },
+  {
+    "id": 48609129,
+    "title": "Canyon HUD helmet for road riding",
+    "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
+    "score": 15,
+    "descendants": 0
+  },
+  {
+    "id": 48626137,
+    "title": "Deno Desktop",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "score": 959,
+    "descendants": 353
+  }
+]
