@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48649435,
+    "title": "Jerry's Map",
+    "url": "http://www.jerrysmap.com/the-map",
+    "score": 116,
+    "descendants": 15
+  },
+  {
+    "id": 48650311,
+    "title": "Anthropic updates their terms to verify age or identity",
+    "url": "https://www.anthropic.com/legal/privacy",
+    "score": 51,
+    "descendants": 12
+  },
+  {
+    "id": 48648779,
+    "title": "Swift Package Index joins Apple",
+    "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+    "score": 89,
+    "descendants": 26
+  },
+  {
+    "id": 48647799,
+    "title": "F3",
+    "url": "https://github.com/future-file-format/f3",
+    "score": 491,
+    "descendants": 117
+  },
+  {
+    "id": 48645437,
+    "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
+    "url": "https://tikz.dev/editor/",
+    "score": 269,
+    "descendants": 55
+  }
+]
