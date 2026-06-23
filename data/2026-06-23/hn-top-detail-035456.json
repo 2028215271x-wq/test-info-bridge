@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48632884,
+    "title": "Steam Machine launches today",
+    "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "score": 1317,
+    "descendants": 1190
+  },
+  {
+    "id": 48636377,
+    "title": "Runing GLM-5.2 on local hardware",
+    "url": "https://unsloth.ai/docs/models/glm-5.2",
+    "score": 235,
+    "descendants": 107
+  },
+  {
+    "id": 48638886,
+    "title": "In praise of memcached",
+    "url": "https://jchri.st/blog/in-praise-of-memcached/",
+    "score": 70,
+    "descendants": 24
+  },
+  {
+    "id": 48639240,
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "url": "https://arxiv.org/abs/2606.16140",
+    "score": 35,
+    "descendants": 11
+  },
+  {
+    "id": 48605776,
+    "title": "Cyberdecks, going analog, and convivial technology",
+    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+    "score": 60,
+    "descendants": 29
+  }
+]
