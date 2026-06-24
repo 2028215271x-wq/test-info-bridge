@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48663324,
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "score": 220,
+    "descendants": 170
+  },
+  {
+    "id": 48664384,
+    "title": "Thomann takes legal action against Fender",
+    "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+    "score": 49,
+    "descendants": 7
+  },
+  {
+    "id": 48660711,
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "score": 265,
+    "descendants": 40
+  },
+  {
+    "id": 48657030,
+    "title": "We\u2019re making Bunny DNS free",
+    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+    "score": 729,
+    "descendants": 235
+  },
+  {
+    "id": 48660579,
+    "title": "PR spam today looks like email spam in the early 2000s",
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "score": 94,
+    "descendants": 63
+  }
+]
