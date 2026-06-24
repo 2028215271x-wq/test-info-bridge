@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48653216,
+    "title": "Vulnerability reports are not special anymore",
+    "url": "https://words.filippo.io/vuln-reports/",
+    "score": 267,
+    "descendants": 148
+  },
+  {
+    "id": 48654676,
+    "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+    "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+    "score": 131,
+    "descendants": 43
+  },
+  {
+    "id": 48637868,
+    "title": "Why eval startups fail (2025)",
+    "url": "https://thomasliao.com/eval-startups",
+    "score": 19,
+    "descendants": 14
+  },
+  {
+    "id": 48649435,
+    "title": "Jerry's Map",
+    "url": "http://www.jerrysmap.com/the-map",
+    "score": 463,
+    "descendants": 54
+  },
+  {
+    "id": 48612025,
+    "title": "Show HN: An ASCII 3D Rendering Engine",
+    "url": "https://glyphcss.com",
+    "score": 125,
+    "descendants": 37
+  }
+]
