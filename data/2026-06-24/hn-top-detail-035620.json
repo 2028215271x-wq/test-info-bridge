@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48653216,
+    "title": "Vulnerability reports are not special anymore",
+    "url": "https://words.filippo.io/vuln-reports/",
+    "score": 119,
+    "descendants": 44
+  },
+  {
+    "id": 48649435,
+    "title": "Jerry's Map",
+    "url": "http://www.jerrysmap.com/the-map",
+    "score": 362,
+    "descendants": 49
+  },
+  {
+    "id": 48648619,
+    "title": "FUTO Swipe \u2013 A new swipe typing model",
+    "url": "https://swipe.futo.tech/",
+    "score": 344,
+    "descendants": 101
+  },
+  {
+    "id": 48633643,
+    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "score": 108,
+    "descendants": 49
+  },
+  {
+    "id": 48648959,
+    "title": "In memory of the man who put red and green squiggles under words",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+    "score": 209,
+    "descendants": 21
+  }
+]
