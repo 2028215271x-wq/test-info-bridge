@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48660671,
+    "title": "Running Windows Games on a Hobby OS with Wine",
+    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48660665,
+    "title": "World-Modeling the US vs. Anthropic on Claude Fable",
+    "url": "https://www.lesswrong.com/posts/zhRe3tdBpsZbGCdDK/world-modeling-the-us-vs-anthropic-standoff-on-claude-fable",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48660652,
+    "title": "Show HN: I just killed 40 SaaS unicorns",
+    "url": "https://openluxe.co/pro",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48660642,
+    "title": "Deep dive into iroh: Replacement for WireGuard or P2P layer for your application",
+    "url": "https://kerkour.com/iroh-v1-p2p",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48660631,
+    "title": "Mental health is not an individual matter, but a political one (2023)",
+    "url": "https://psyche.co/ideas/mental-health-is-not-an-individual-matter-but-a-political-one",
+    "score": 1,
+    "descendants": 0
+  }
+]
