@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48669534,
+    "title": "Half-Life 2 in a Browser",
+    "url": "https://hl2.slqnt.dev/",
+    "score": 212,
+    "descendants": 73
+  },
+  {
+    "id": 48669932,
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "score": 61,
+    "descendants": 52
+  },
+  {
+    "id": 48664814,
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "score": 407,
+    "descendants": 700
+  },
+  {
+    "id": 48663324,
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "score": 698,
+    "descendants": 390
+  },
+  {
+    "id": 48668033,
+    "title": "Cloudflare launched self-managed OAuth for all",
+    "url": "https://blog.cloudflare.com/oauth-for-all/",
+    "score": 159,
+    "descendants": 71
+  }
+]
