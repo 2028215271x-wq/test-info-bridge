@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48675179,
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "url": "https://scrollprize.org/firstscroll",
+    "score": 497,
+    "descendants": 122
+  },
+  {
+    "id": 48631450,
+    "title": "Oxide computer 3D rack guided tour",
+    "url": "https://explorer.oxide.computer/",
+    "score": 133,
+    "descendants": 57
+  },
+  {
+    "id": 48674967,
+    "title": "IBM debuts sub-1 nanometer chip technology",
+    "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+    "score": 161,
+    "descendants": 90
+  },
+  {
+    "id": 48675435,
+    "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "score": 43,
+    "descendants": 13
+  },
+  {
+    "id": 48673825,
+    "title": "Zig's new bitCast semantics and LLVM back end improvements",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "score": 166,
+    "descendants": 60
+  }
+]
