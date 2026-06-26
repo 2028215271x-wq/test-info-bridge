@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48689028,
+    "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "score": 484,
+    "descendants": 293
+  },
+  {
+    "id": 48642510,
+    "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+    "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+    "score": 183,
+    "descendants": 103
+  },
+  {
+    "id": 48690101,
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "score": 241,
+    "descendants": 476
+  },
+  {
+    "id": 48690231,
+    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+    "url": "https://gossamer-lang.org/",
+    "score": 19,
+    "descendants": 5
+  },
+  {
+    "id": 48688700,
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "url": "https://github.com/workweave/router",
+    "score": 89,
+    "descendants": 59
+  }
+]

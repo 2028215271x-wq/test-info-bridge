@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48691198,
+    "title": "Red-Teaming the Agentic Red-Team",
+    "url": "https://arxiv.org/abs/2606.24496",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48691190,
+    "title": "Apache Kafka's log compaction corrupts data",
+    "url": "https://www.redpanda.com/blog/kafka-log-compaction-bug-fix-streaming",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48691188,
+    "title": "Richard Scolyer, Cancer Expert Who 'Became His Own Subject,' Dies at 59",
+    "url": "https://www.nytimes.com/2026/06/26/science/richard-scolyer-dead.html",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 48691143,
+    "title": "An Interactive Map on a Microcontroller",
+    "url": "https://geastack.com/blog-maps-on-a-microcontroller",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48691123,
+    "title": "Hypersonic.js",
+    "url": "https://github.com/hypersonic-js/hypersonic-js",
+    "score": 1,
+    "descendants": 1
+  }
+]
