@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48675179,
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "url": "https://scrollprize.org/firstscroll",
+    "score": 1066,
+    "descendants": 234
+  },
+  {
+    "id": 48657030,
+    "title": "We\u2019re making Bunny DNS free",
+    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+    "score": 906,
+    "descendants": 267
+  },
+  {
+    "id": 48663324,
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "score": 806,
+    "descendants": 459
+  },
+  {
+    "id": 48664814,
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "score": 753,
+    "descendants": 1219
+  },
+  {
+    "id": 48673671,
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "url": "https://hackernewstrends.com",
+    "score": 678,
+    "descendants": 146
+  }
+]
