@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48696585,
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "score": 505,
+    "descendants": 179
+  },
+  {
+    "id": 48697560,
+    "title": "OpenRA",
+    "url": "https://www.openra.net/",
+    "score": 78,
+    "descendants": 26
+  },
+  {
+    "id": 48696982,
+    "title": "Fintech Engineering Handbook",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "score": 168,
+    "descendants": 55
+  },
+  {
+    "id": 48697335,
+    "title": "If you can't hold it, you don't own it",
+    "url": "https://dervis.de/physical/",
+    "score": 80,
+    "descendants": 43
+  },
+  {
+    "id": 48689028,
+    "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "score": 1042,
+    "descendants": 663
+  }
+]
