@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48698617,
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "score": 404,
+    "descendants": 166
+  },
+  {
+    "id": 48697560,
+    "title": "OpenRA",
+    "url": "https://www.openra.net/",
+    "score": 419,
+    "descendants": 76
+  },
+  {
+    "id": 48660021,
+    "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "score": 87,
+    "descendants": 41
+  },
+  {
+    "id": 48696585,
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "score": 673,
+    "descendants": 267
+  },
+  {
+    "id": 48700805,
+    "title": "Ships keep moving through Hormuz despite strike",
+    "url": "https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy",
+    "score": 7,
+    "descendants": 0
+  }
+]
