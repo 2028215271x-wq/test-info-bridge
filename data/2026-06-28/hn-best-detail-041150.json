@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48690101,
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "score": 1153,
+    "descendants": 1208
+  },
+  {
+    "id": 48689028,
+    "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "score": 1108,
+    "descendants": 722
+  },
+  {
+    "id": 48696585,
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "score": 737,
+    "descendants": 306
+  },
+  {
+    "id": 48698617,
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "score": 708,
+    "descendants": 279
+  },
+  {
+    "id": 48698684,
+    "title": "Zuckerberg's war on whistleblowers",
+    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+    "score": 662,
+    "descendants": 240
+  }
+]
