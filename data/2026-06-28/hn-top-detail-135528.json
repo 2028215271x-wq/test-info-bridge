@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48706714,
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "url": "https://github.com/openai/codex/issues/2847",
+    "score": 43,
+    "descendants": 25
+  },
+  {
+    "id": 48703759,
+    "title": "Marfa Public Radio Puts You to Sleep",
+    "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+    "score": 308,
+    "descendants": 83
+  },
+  {
+    "id": 48706560,
+    "title": "Kids act would require age checks to get online",
+    "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+    "score": 81,
+    "descendants": 53
+  },
+  {
+    "id": 48706796,
+    "title": "The MUMPS 76 Primer \u2013 anniversary edition",
+    "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+    "score": 10,
+    "descendants": 4
+  },
+  {
+    "id": 48705910,
+    "title": "DLL that was not present in memory despite not being formally unloaded",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+    "score": 47,
+    "descendants": 20
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48690101,
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "score": 1166,
+    "descendants": 1220
+  },
+  {
+    "id": 48689028,
+    "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "score": 1115,
+    "descendants": 731
+  },
+  {
+    "id": 48698617,
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "score": 874,
+    "descendants": 336
+  },
+  {
+    "id": 48696585,
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "score": 772,
+    "descendants": 334
+  },
+  {
+    "id": 48697560,
+    "title": "OpenRA",
+    "url": "https://www.openra.net/",
+    "score": 757,
+    "descendants": 141
+  }
+]
