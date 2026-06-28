@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48698617,
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "score": 918,
+    "descendants": 364
+  },
+  {
+    "id": 48696585,
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "score": 777,
+    "descendants": 347
+  },
+  {
+    "id": 48697560,
+    "title": "OpenRA",
+    "url": "https://www.openra.net/",
+    "score": 769,
+    "descendants": 146
+  },
+  {
+    "id": 48698684,
+    "title": "Zuckerberg's war on whistleblowers",
+    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+    "score": 740,
+    "descendants": 276
+  },
+  {
+    "id": 48696982,
+    "title": "Fintech Engineering Handbook",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "score": 611,
+    "descendants": 207
+  }
+]
