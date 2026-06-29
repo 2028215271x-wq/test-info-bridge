@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48721903,
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "score": 321,
+    "descendants": 239
+  },
+  {
+    "id": 48719485,
+    "title": "Rocketlab acquires Iridium",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "score": 271,
+    "descendants": 156
+  },
+  {
+    "id": 48722052,
+    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "url": "https://github.com/deepreinforce-ai/Ornith-1",
+    "score": 59,
+    "descendants": 7
+  },
+  {
+    "id": 48720758,
+    "title": "A native graphical shell for SSH",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "score": 152,
+    "descendants": 62
+  },
+  {
+    "id": 48721308,
+    "title": "The Radiation Exposure Lie",
+    "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+    "score": 72,
+    "descendants": 37
+  }
+]
