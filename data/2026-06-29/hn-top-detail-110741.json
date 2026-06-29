@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48713832,
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "score": 509,
+    "descendants": 202
+  },
+  {
+    "id": 48709670,
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "score": 878,
+    "descendants": 407
+  },
+  {
+    "id": 48716902,
+    "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "score": 175,
+    "descendants": 22
+  },
+  {
+    "id": 48708644,
+    "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+    "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+    "score": 89,
+    "descendants": 11
+  },
+  {
+    "id": 48662018,
+    "title": "NUMA: Cores, memory, and the distance between them",
+    "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+    "score": 33,
+    "descendants": 3
+  }
+]

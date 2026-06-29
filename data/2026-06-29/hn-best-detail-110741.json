@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48698617,
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "score": 930,
+    "descendants": 374
+  },
+  {
+    "id": 48709670,
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "score": 878,
+    "descendants": 407
+  },
+  {
+    "id": 48697560,
+    "title": "OpenRA",
+    "url": "https://www.openra.net/",
+    "score": 791,
+    "descendants": 158
+  },
+  {
+    "id": 48698684,
+    "title": "Zuckerberg's war on whistleblowers",
+    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+    "score": 766,
+    "descendants": 288
+  },
+  {
+    "id": 48707719,
+    "title": "EU to legislate about Chat Control behind closed doors",
+    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "score": 670,
+    "descendants": 385
+  }
+]

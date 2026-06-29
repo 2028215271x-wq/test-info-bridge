@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48717637,
+    "title": "DeepSeek Releasing Mid July",
+    "url": "https://files.catbox.moe/0j57v9.png",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48717621,
+    "title": "Compile differentiable audio models to real-time DSP",
+    "url": "https://github.com/cucuwritescode/adac",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48717603,
+    "title": "Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App",
+    "url": "https://www.wired.com/review/yeasound-ric800-hearing-aids/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48717601,
+    "title": "My Mac timeline app got MCP. Cron to vector DB was the real use",
+    "url": "https://sidefyapp.com/blog/mcp-automation-beyond-chat-2026-06-27/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48717597,
+    "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
+    "url": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/",
+    "score": 1,
+    "descendants": 0
+  }
+]
