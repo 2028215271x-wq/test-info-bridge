@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48736605,
+    "title": "Claude Sonnet 5",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "score": 506,
+    "descendants": 263
+  },
+  {
+    "id": 48734373,
+    "title": "Claude Code is steganographically marking requests",
+    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "score": 901,
+    "descendants": 248
+  },
+  {
+    "id": 48735770,
+    "title": "Claude Science",
+    "url": "https://claude.com/product/claude-science",
+    "score": 201,
+    "descendants": 79
+  },
+  {
+    "id": 48735444,
+    "title": "Nano Banana 2 Lite",
+    "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+    "score": 181,
+    "descendants": 64
+  },
+  {
+    "id": 48736137,
+    "title": "I built a mmWave material classification radar",
+    "url": "https://gauthier-lechevalier.com/radar",
+    "score": 67,
+    "descendants": 22
+  }
+]
