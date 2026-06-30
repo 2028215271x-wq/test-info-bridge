@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48709670,
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "score": 1084,
+    "descendants": 503
+  },
+  {
+    "id": 48721903,
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "score": 1021,
+    "descendants": 664
+  },
+  {
+    "id": 48714529,
+    "title": "Age verification is just a precursor to automated attribution of speech",
+    "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+    "score": 989,
+    "descendants": 608
+  },
+  {
+    "id": 48713832,
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "score": 983,
+    "descendants": 421
+  },
+  {
+    "id": 48716902,
+    "title": "Pollen tried to remove my article and Google is assisting with it",
+    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "score": 897,
+    "descendants": 126
+  }
+]
