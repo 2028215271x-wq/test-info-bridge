@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48728324,
+    "title": "Show HN: We made an Audio ML sharing platform",
+    "url": "https://www.noysr.com/explore",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48728316,
+    "title": "New EV-makers keep appearing in China",
+    "url": "https://www.economist.com/business/2026/06/24/strange-new-ev-makers-keep-appearing-in-china",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48728294,
+    "title": "Study suggests most Americans would be healthier without daylight saving time",
+    "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48728290,
+    "title": "Fastllm: A LLM inference library that runs DeepSeek-V4 with 10GB VRAM",
+    "url": "https://github.com/ztxz16/fastllm",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48728263,
+    "title": "Bandcamp has laid off most of their engineers",
+    "url": "https://bsky.app/profile/grmnygrmny.bandcamp.com/post/3mpgvo7l2v22t",
+    "score": 5,
+    "descendants": 0
+  }
+]
