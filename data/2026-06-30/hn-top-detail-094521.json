@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48683098,
+    "title": "Open Source Low Tech",
+    "url": "https://opensourcelowtech.org/",
+    "score": 200,
+    "descendants": 36
+  },
+  {
+    "id": 48721903,
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "score": 916,
+    "descendants": 613
+  },
+  {
+    "id": 48724230,
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "score": 510,
+    "descendants": 293
+  },
+  {
+    "id": 48698908,
+    "title": "Free the Icons",
+    "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+    "score": 460,
+    "descendants": 132
+  },
+  {
+    "id": 48727177,
+    "title": "Memory Safe Context Switching",
+    "url": "https://fil-c.org/context_switches",
+    "score": 127,
+    "descendants": 25
+  }
+]
