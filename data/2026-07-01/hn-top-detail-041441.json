@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48736605,
+    "title": "Claude Sonnet 5",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "score": 962,
+    "descendants": 546
+  },
+  {
+    "id": 48734373,
+    "title": "Claude Code is steganographically marking requests",
+    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "score": 1542,
+    "descendants": 444
+  },
+  {
+    "id": 48740698,
+    "title": "Google copybara: moving code between repositories",
+    "url": "https://github.com/google/copybara",
+    "score": 109,
+    "descendants": 13
+  },
+  {
+    "id": 48741654,
+    "title": "Supersonic flight returning to US after half-century ban",
+    "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
+    "score": 21,
+    "descendants": 15
+  },
+  {
+    "id": 48740771,
+    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+    "score": 398,
+    "descendants": 190
+  }
+]
