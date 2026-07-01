@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48734373,
+    "title": "Claude Code is steganographically marking requests",
+    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "score": 2024,
+    "descendants": 585
+  },
+  {
+    "id": 48736605,
+    "title": "Claude Sonnet 5",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "score": 1132,
+    "descendants": 669
+  },
+  {
+    "id": 48743472,
+    "title": "Godot will no longer accept AI-authored code contributions",
+    "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "score": 136,
+    "descendants": 69
+  },
+  {
+    "id": 48711052,
+    "title": "Newly discovered spider builds spring loaded snare to catch ants",
+    "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+    "score": 17,
+    "descendants": 1
+  },
+  {
+    "id": 48741748,
+    "title": "ArXiv's Next Chapter",
+    "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+    "score": 117,
+    "descendants": 40
+  }
+]
