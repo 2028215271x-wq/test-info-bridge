@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48755965,
+    "title": "Android Developer Verification: Threat masquerading as Protection",
+    "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+    "score": 1024,
+    "descendants": 409
+  },
+  {
+    "id": 48761493,
+    "title": "Show HN: ZeroFS \u2013 A log-structured filesystem for S3",
+    "url": "https://www.zerofs.net/",
+    "score": 16,
+    "descendants": 4
+  },
+  {
+    "id": 48760201,
+    "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+    "url": "https://arxiv.org/abs/2607.01232",
+    "score": 29,
+    "descendants": 6
+  },
+  {
+    "id": 48759870,
+    "title": "Many people misunderstand the purpose of code review",
+    "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+    "score": 34,
+    "descendants": 22
+  },
+  {
+    "id": 48756602,
+    "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+    "score": 258,
+    "descendants": 108
+  }
+]
