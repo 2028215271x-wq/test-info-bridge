@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48765663,
+    "title": "Exapunks (2018)",
+    "url": "https://www.zachtronics.com/exapunks/",
+    "score": 59,
+    "descendants": 17
+  },
+  {
+    "id": 48763035,
+    "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+    "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+    "score": 281,
+    "descendants": 141
+  },
+  {
+    "id": 48759634,
+    "title": "PeerTube is a free, decentralized and federated video platform",
+    "url": "https://github.com/Chocobozzz/PeerTube",
+    "score": 313,
+    "descendants": 121
+  },
+  {
+    "id": 48755965,
+    "title": "Android Developer Verification: Threat masquerading as protection",
+    "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+    "score": 1461,
+    "descendants": 599
+  },
+  {
+    "id": 48762098,
+    "title": "Podman v6.0.0",
+    "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "score": 123,
+    "descendants": 35
+  }
+]
