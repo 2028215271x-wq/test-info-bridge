@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48772859,
+    "title": "Make systemd better for Podman with Quadlet (2023)",
+    "url": "https://www.redhat.com/en/blog/quadlet-podman",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48772837,
+    "title": "Show HN: Codex Sidecar \u2013 A Local macOS Companion for Codex Desktop",
+    "url": "https://github.com/eshengsky/Codex-Sidecar",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48772822,
+    "title": "Show HN: I turned YouTube into a text-first experience so I could quit it",
+    "url": "https://chromewebstore.google.com/detail/quit-youtube/miopcbpeelainechoghechmlempbeodm",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48772730,
+    "title": "a11yShiny: Accessibility for R Shiny Apps",
+    "url": "https://bmbf.usercontent.opencode.de/datenlabor/a11yshiny/inst/pages/a11yshiny_blog.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48772717,
+    "title": "Commodore 64 Basic for PostgreSQL",
+    "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+    "score": 1,
+    "descendants": 0
+  }
+]
