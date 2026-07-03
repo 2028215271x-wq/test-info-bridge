@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48775921,
+    "title": "Jamesob's guide to running SOTA LLMs locally",
+    "url": "https://github.com/jamesob/local-llm",
+    "score": 149,
+    "descendants": 62
+  },
+  {
+    "id": 48776044,
+    "title": "Costco is the anti-Amazon",
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "score": 69,
+    "descendants": 26
+  },
+  {
+    "id": 48776035,
+    "title": "Factories are just rooms",
+    "url": "https://interconnected.org/home/2026/07/03/factories",
+    "score": 104,
+    "descendants": 48
+  },
+  {
+    "id": 48730953,
+    "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+    "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+    "score": 109,
+    "descendants": 6
+  },
+  {
+    "id": 48777144,
+    "title": "Show HN: Mcpsnoop \u2013 Wireshark for MCP (transparent proxy and live TUI)",
+    "url": "https://github.com/kerlenton/mcpsnoop",
+    "score": 22,
+    "descendants": 4
+  }
+]
