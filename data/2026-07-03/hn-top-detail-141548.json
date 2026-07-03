@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48772388,
+    "title": "Half-Baked Product",
+    "url": "https://weli.dev/blog/half-baked-product/",
+    "score": 609,
+    "descendants": 171
+  },
+  {
+    "id": 48774509,
+    "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+    "score": 36,
+    "descendants": 6
+  },
+  {
+    "id": 48767347,
+    "title": "Virginia bans sale of geolocation data",
+    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "score": 893,
+    "descendants": 133
+  },
+  {
+    "id": 48774518,
+    "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+    "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+    "score": 73,
+    "descendants": 7
+  },
+  {
+    "id": 48768951,
+    "title": "Right to Local Intelligence",
+    "url": "https://righttointelligence.org/",
+    "score": 358,
+    "descendants": 121
+  }
+]
