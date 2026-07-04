@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48782365,
+    "title": "MagicBookShelf \u2013 A modern reader for classic novels \u2013 Crime and Punishment",
+    "url": "https://magicbookshelf.org/read/crime-and-punishment/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48782359,
+    "title": "Four-Byte Burger [video]",
+    "url": "https://www.youtube.com/watch?v=i4EFkspO5p4",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48782358,
+    "title": "A Conflict-Free Multi-Agent Ensemble for Claude and Codex",
+    "url": "https://medium.com/@Koukyosyumei/a-conflict-free-multi-agent-ensemble-for-claude-and-codex-0ded61c5a35e",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48782327,
+    "title": "Cholibrium Reviews 2026 \u2013 Does This Mushroom Blend Work",
+    "url": "https://gamma.app/embed/Cholibrium-Reviews-2026-Does-This-Mushroom-Blend-Work-7rsn8kmry09nfdi?mode=doc",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48782254,
+    "title": "BrickSlider \u2013 TypeScript-first, Tailwind-first carousel",
+    "url": "https://sixsrc.github.io/brickslider/",
+    "score": 1,
+    "descendants": 1
+  }
+]

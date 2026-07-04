@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48780870,
+    "title": "Giant trees have no trouble pumping water to top branches",
+    "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+    "score": 121,
+    "descendants": 55
+  },
+  {
+    "id": 48780801,
+    "title": "Leanstral 1.5: Proof abundance for all",
+    "url": "https://mistral.ai/news/leanstral-1-5/",
+    "score": 112,
+    "descendants": 31
+  },
+  {
+    "id": 48780417,
+    "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+    "url": "https://www.wafer.ai/blog/glm52-amd",
+    "score": 121,
+    "descendants": 31
+  },
+  {
+    "id": 48781688,
+    "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
+    "url": "https://mrbruh.com/msicenter/",
+    "score": 34,
+    "descendants": 8
+  },
+  {
+    "id": 48780865,
+    "title": "Steam Controller Auto-Charge \u2013 pilot to magnetic charging puck using CV",
+    "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+    "score": 87,
+    "descendants": 19
+  }
+]
