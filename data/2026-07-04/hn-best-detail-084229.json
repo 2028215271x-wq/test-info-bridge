@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48772388,
+    "title": "Half-Baked Product",
+    "url": "https://weli.dev/blog/half-baked-product/",
+    "score": 1260,
+    "descendants": 382
+  },
+  {
+    "id": 48767347,
+    "title": "Virginia bans sale of precise geolocation data",
+    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "score": 941,
+    "descendants": 137
+  },
+  {
+    "id": 48762725,
+    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+    "score": 722,
+    "descendants": 296
+  },
+  {
+    "id": 48759634,
+    "title": "PeerTube is a free, decentralized and federated video platform",
+    "url": "https://github.com/Chocobozzz/PeerTube",
+    "score": 662,
+    "descendants": 344
+  },
+  {
+    "id": 48762098,
+    "title": "Podman v6.0.0",
+    "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "score": 629,
+    "descendants": 247
+  }
+]
