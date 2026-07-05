@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48791328,
+    "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+    "url": "https://ui.shadcn.com/docs/changelog",
+    "score": 110,
+    "descendants": 33
+  },
+  {
+    "id": 48791708,
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+    "score": 39,
+    "descendants": 31
+  },
+  {
+    "id": 48788283,
+    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+    "score": 553,
+    "descendants": 224
+  },
+  {
+    "id": 48790689,
+    "title": "If you're a button, you have one job",
+    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "score": 181,
+    "descendants": 86
+  },
+  {
+    "id": 48773079,
+    "title": "Pandoc Lua Filters",
+    "url": "https://pandoc.org/lua-filters.html",
+    "score": 58,
+    "descendants": 1
+  }
+]
