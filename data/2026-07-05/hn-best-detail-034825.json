@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48772388,
+    "title": "Half-Baked Product",
+    "url": "https://weli.dev/blog/half-baked-product/",
+    "score": 1341,
+    "descendants": 397
+  },
+  {
+    "id": 48783117,
+    "title": "The bottleneck might be the air in the room",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "score": 766,
+    "descendants": 441
+  },
+  {
+    "id": 48774518,
+    "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+    "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+    "score": 590,
+    "descendants": 111
+  },
+  {
+    "id": 48776044,
+    "title": "Costco is the anti-Amazon",
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "score": 546,
+    "descendants": 544
+  },
+  {
+    "id": 48770647,
+    "title": "Why Switzerland has 25 gbit internet and America doesn't",
+    "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+    "score": 539,
+    "descendants": 430
+  }
+]
