@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48806224,
+    "title": "Whimsy and the Literacy Crisis [video]",
+    "url": "https://www.youtube.com/watch?v=CkBgnfn9Y7g",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48806222,
+    "title": "There's a Good Reason You Can't Concentrate",
+    "url": "https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48806219,
+    "title": "Startup bets that investors want to trade compute like a commodity",
+    "url": "https://www.axios.com/2026/07/06/ornn-gpu-compute-commodity",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48806216,
+    "title": "Meko Is Open for Self Sign-Up",
+    "url": "https://www.yugabyte.com/blog/meko-self-sign-up-get-started/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48806200,
+    "title": "Microsoft says it is ramping up its quantum computing security work",
+    "url": "https://www.techradar.com/pro/security/advances-in-quantum-research-and-development-have-shifted-the-risk-horizon-microsoft-reveals-it-is-ramping-up-its-quantum-computing-security-work",
+    "score": 1,
+    "descendants": 1
+  }
+]

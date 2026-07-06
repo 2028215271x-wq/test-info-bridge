@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48805401,
+    "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
+    "url": "https://spectrum.ieee.org/stochastic-parrot",
+    "score": 50,
+    "descendants": 34
+  },
+  {
+    "id": 48804297,
+    "title": "Aluminum foil (2021)",
+    "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+    "score": 78,
+    "descendants": 23
+  },
+  {
+    "id": 48803364,
+    "title": "Road to Elm 1.0",
+    "url": "https://elm-lang.org/news/faster-builds",
+    "score": 169,
+    "descendants": 77
+  },
+  {
+    "id": 48805624,
+    "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "score": 21,
+    "descendants": 23
+  },
+  {
+    "id": 48802535,
+    "title": "Real-time map of Great Britain's rail network",
+    "url": "https://www.map.signalbox.io",
+    "score": 289,
+    "descendants": 110
+  }
+]
