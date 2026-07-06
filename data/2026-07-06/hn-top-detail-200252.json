@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48808482,
+    "title": "OpenWrt One \u2013 Open Hardware Router",
+    "url": "https://openwrt.org/toh/openwrt/one",
+    "score": 151,
+    "descendants": 74
+  },
+  {
+    "id": 48808002,
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "score": 79,
+    "descendants": 16
+  },
+  {
+    "id": 48805624,
+    "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "score": 212,
+    "descendants": 153
+  },
+  {
+    "id": 48808928,
+    "title": "CoMaps \u2013 FOSS Offline Maps",
+    "url": "https://www.comaps.app/",
+    "score": 19,
+    "descendants": 1
+  },
+  {
+    "id": 48808663,
+    "title": "Linux on the Atari Jaguar. No, really.",
+    "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+    "score": 25,
+    "descendants": 1
+  }
+]
