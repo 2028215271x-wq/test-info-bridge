@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48794446,
+    "title": "Organic Maps",
+    "url": "https://organicmaps.app/",
+    "score": 1159,
+    "descendants": 362
+  },
+  {
+    "id": 48797916,
+    "title": "OpenPrinter",
+    "url": "https://www.opentools.studio/",
+    "score": 1123,
+    "descendants": 283
+  },
+  {
+    "id": 48808482,
+    "title": "OpenWrt One \u2013 Open Hardware Router",
+    "url": "https://openwrt.org/toh/openwrt/one",
+    "score": 738,
+    "descendants": 280
+  },
+  {
+    "id": 48804993,
+    "title": "Resetting Xbox",
+    "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+    "score": 688,
+    "descendants": 812
+  },
+  {
+    "id": 48808928,
+    "title": "CoMaps \u2013 FOSS Offline Maps",
+    "url": "https://www.comaps.app/",
+    "score": 685,
+    "descendants": 169
+  }
+]
