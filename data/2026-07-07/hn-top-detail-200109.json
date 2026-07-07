@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48816883,
+    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+    "url": "https://streetcomplete.app/",
+    "score": 537,
+    "descendants": 125
+  },
+  {
+    "id": 48821576,
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "score": 48,
+    "descendants": 11
+  },
+  {
+    "id": 48821749,
+    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "score": 25,
+    "descendants": 0
+  },
+  {
+    "id": 48819608,
+    "title": "30papers.com \u2013 Ilya's 30 essential ML papers, in a beginner friendly format",
+    "url": "https://30papers.com/",
+    "score": 192,
+    "descendants": 32
+  },
+  {
+    "id": 48818311,
+    "title": "Chat Control 1.0 and 2.0 Explained",
+    "url": "https://fightchatcontrol.eu/chat-control-overview",
+    "score": 208,
+    "descendants": 60
+  }
+]
