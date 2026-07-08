@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48827858,
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "score": 117,
+    "descendants": 35
+  },
+  {
+    "id": 48827325,
+    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+    "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+    "score": 168,
+    "descendants": 93
+  },
+  {
+    "id": 48825749,
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "url": "https://kb.cert.org/vuls/id/213560",
+    "score": 186,
+    "descendants": 52
+  },
+  {
+    "id": 48827092,
+    "title": "Copy That Floppy \u2013 Cambridge guide for preserving data from fragile floppy disks",
+    "url": "https://www.digipres.org/the-floppy-guide/",
+    "score": 58,
+    "descendants": 13
+  },
+  {
+    "id": 48825664,
+    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "score": 153,
+    "descendants": 14
+  }
+]
