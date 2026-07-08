@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48829312,
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "score": 725,
+    "descendants": 134
+  },
+  {
+    "id": 48830565,
+    "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+    "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+    "score": 132,
+    "descendants": 85
+  },
+  {
+    "id": 48827858,
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "score": 337,
+    "descendants": 137
+  },
+  {
+    "id": 48780387,
+    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+    "score": 163,
+    "descendants": 48
+  },
+  {
+    "id": 48827325,
+    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+    "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+    "score": 257,
+    "descendants": 171
+  }
+]
