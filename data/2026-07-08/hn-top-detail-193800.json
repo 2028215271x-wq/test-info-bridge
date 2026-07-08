@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48834898,
+    "title": "What Do We Know About the Microplastics Inside Us?",
+    "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
+    "score": 97,
+    "descendants": 24
+  },
+  {
+    "id": 48833116,
+    "title": "Chatto is now Open Source",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "score": 421,
+    "descendants": 118
+  },
+  {
+    "id": 48832212,
+    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "score": 319,
+    "descendants": 73
+  },
+  {
+    "id": 48833866,
+    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+    "url": "https://cognition.com/blog/swe-1-7",
+    "score": 154,
+    "descendants": 90
+  },
+  {
+    "id": 48834924,
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "score": 71,
+    "descendants": 28
+  }
+]
