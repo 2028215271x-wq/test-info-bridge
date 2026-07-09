@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48845049,
+    "title": "Show HN: 18 Words",
+    "url": "https://18words.com/",
+    "score": 308,
+    "descendants": 131
+  },
+  {
+    "id": 48846281,
+    "title": "No leap second will be introduced at the end of December 2026",
+    "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+    "score": 59,
+    "descendants": 33
+  },
+  {
+    "id": 48846184,
+    "title": "Introducing Muse Spark 1.1",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
+    "score": 95,
+    "descendants": 55
+  },
+  {
+    "id": 48845422,
+    "title": "Show HN: FableCut \u2013 A browser video editor AI agents can drive (zero deps)",
+    "url": "https://github.com/ronak-create/FableCut",
+    "score": 59,
+    "descendants": 35
+  },
+  {
+    "id": 48846293,
+    "title": "PostHog Open Sourced",
+    "url": "https://github.com/PostHog/posthog-foss",
+    "score": 24,
+    "descendants": 11
+  }
+]
