@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48838876,
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "score": 821,
+    "descendants": 153
+  },
+  {
+    "id": 48841259,
+    "title": "Spider venom kills varroa mites without harming honeybees",
+    "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+    "score": 118,
+    "descendants": 47
+  },
+  {
+    "id": 48842611,
+    "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+    "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+    "score": 74,
+    "descendants": 44
+  },
+  {
+    "id": 48800596,
+    "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+    "url": "https://nexte.st/",
+    "score": 95,
+    "descendants": 28
+  },
+  {
+    "id": 48836233,
+    "title": "Cloudflare Drop",
+    "url": "https://www.cloudflare.com/drop/",
+    "score": 432,
+    "descendants": 229
+  }
+]
