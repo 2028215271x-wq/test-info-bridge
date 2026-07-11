@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48869826,
+    "title": "Make Europe Cool Again",
+    "url": "https://jacek.migdal.pl/2026/07/07/make-europe-cool-again",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48869794,
+    "title": "MCP-customs \u2013 NPM audit, but for MCP servers (offline, zero telemetry)",
+    "url": "https://github.com/mcpcustoms/mcp-customs",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48869786,
+    "title": "High-performance Go to TypeScript transpiler",
+    "url": "https://github.com/s4wave/goscript",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48869757,
+    "title": "MCP server for Hyperliquid trading perps",
+    "url": "https://github.com/Dakkshin/hyperliquid-mcp",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48869747,
+    "title": "A CIRCT (Circuit IR Compilers and Tools) Project Tutorial",
+    "url": "https://samuelcoward.co.uk/blog/2026/demo/",
+    "score": 1,
+    "descendants": 0
+  }
+]
