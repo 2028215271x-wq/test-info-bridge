@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48873940,
+    "title": "Prefer Strict Tables in SQLite",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "score": 40,
+    "descendants": 10
+  },
+  {
+    "id": 48874357,
+    "title": "How to Hide from Killer Drones",
+    "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+    "score": 18,
+    "descendants": 6
+  },
+  {
+    "id": 48874182,
+    "title": "Who manages the agents?",
+    "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+    "score": 24,
+    "descendants": 8
+  },
+  {
+    "id": 48872874,
+    "title": "We scaled PgBouncer to 4x throughput",
+    "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+    "score": 119,
+    "descendants": 15
+  },
+  {
+    "id": 48873424,
+    "title": "Modern decor may be straining people's brains",
+    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "score": 102,
+    "descendants": 85
+  }
+]
