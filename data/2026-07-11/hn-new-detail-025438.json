@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48868198,
+    "title": "ScanTailor Spectre",
+    "url": "https://github.com/abandoned-industries/scantailor-spectre",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 48868179,
+    "title": "Examining the machine code of a 100 KB HTTP server",
+    "url": "https://freelang.dev/machine-code-of-a-100kb-http-server/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48868167,
+    "title": "Lifting Terms: Making Well Scoped Syntax Dumber",
+    "url": "https://www.philipzucker.com/thin_term/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48868150,
+    "title": "Sheaves in Haskell",
+    "url": "https://www.tweag.io/blog/2026-06-18-sheaves-in-haskell/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48868139,
+    "title": "Edith Wilson",
+    "url": "https://en.wikipedia.org/wiki/Edith_Wilson",
+    "score": 1,
+    "descendants": 1
+  }
+]

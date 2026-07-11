@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48843923,
+    "title": "EU Parliament greenlights Chat Control 1.0",
+    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+    "score": 1587,
+    "descendants": 813
+  },
+  {
+    "id": 48849066,
+    "title": "GPT-5.6",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "score": 1520,
+    "descendants": 1078
+  },
+  {
+    "id": 48845049,
+    "title": "Show HN: 18 Words",
+    "url": "https://18words.com/",
+    "score": 1088,
+    "descendants": 348
+  },
+  {
+    "id": 48842459,
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "url": "https://github.com/JustVugg/colibri",
+    "score": 833,
+    "descendants": 206
+  },
+  {
+    "id": 48841676,
+    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "url": "https://github.com/malisper/pgrust",
+    "score": 788,
+    "descendants": 705
+  }
+]
