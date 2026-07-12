@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48879363,
+    "title": "Political Neutrality Benchmark of popular AI models",
+    "url": "https://neutralityproject.org/results.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48879333,
+    "title": "Short Reflection on being Offline for 24 hours",
+    "url": "https://lewiscampbell.tech/blog/260712.html",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 48879331,
+    "title": "xs: Concatenative array language inspired by kdb+/q in OCaml",
+    "url": "https://cryptm.org/xs/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 48879321,
+    "title": "Edge Password Bulk Manager",
+    "url": "https://github.com/marinfrankovic/EdgePasswordManager",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 48879306,
+    "title": "NetBSD as a Desktop: A Nostalgic '90s Experience",
+    "url": "https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/",
+    "score": 2,
+    "descendants": 0
+  }
+]
