@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48883275,
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "score": 62,
+    "descendants": 23
+  },
+  {
+    "id": 48881874,
+    "title": "The shingles vaccine may reduce the risk of dementia",
+    "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+    "score": 110,
+    "descendants": 86
+  },
+  {
+    "id": 48880170,
+    "title": "Old and new apps, via modern coding agents",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "score": 347,
+    "descendants": 98
+  },
+  {
+    "id": 48881830,
+    "title": "Don't you mean extinct?",
+    "url": "https://fabiensanglard.net/extinct/index.html",
+    "score": 117,
+    "descendants": 48
+  },
+  {
+    "id": 48882554,
+    "title": "Automation Without Understanding",
+    "url": "https://arxiv.org/abs/2607.06377",
+    "score": 37,
+    "descendants": 21
+  }
+]
