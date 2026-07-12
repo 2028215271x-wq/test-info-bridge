@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48876505,
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "score": 128,
+    "descendants": 31
+  },
+  {
+    "id": 48877668,
+    "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+    "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+    "score": 16,
+    "descendants": 0
+  },
+  {
+    "id": 48877371,
+    "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "score": 72,
+    "descendants": 30
+  },
+  {
+    "id": 48877314,
+    "title": "A pure scheme web programming tool",
+    "url": "https://goeteia.dev",
+    "score": 25,
+    "descendants": 13
+  },
+  {
+    "id": 48875377,
+    "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+    "url": "https://antjs.org",
+    "score": 199,
+    "descendants": 86
+  }
+]
