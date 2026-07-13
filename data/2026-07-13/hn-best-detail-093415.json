@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48886741,
+    "title": "Ask HN: Add flag for AI-generated articles",
+    "url": "",
+    "score": 653,
+    "descendants": 301
+  },
+  {
+    "id": 48883275,
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "score": 586,
+    "descendants": 322
+  },
+  {
+    "id": 48877371,
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "score": 473,
+    "descendants": 173
+  },
+  {
+    "id": 48880170,
+    "title": "Old and new apps, via modern coding agents",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "score": 435,
+    "descendants": 126
+  },
+  {
+    "id": 48883343,
+    "title": "I love LLMs, I hate hype",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "score": 422,
+    "descendants": 267
+  }
+]
