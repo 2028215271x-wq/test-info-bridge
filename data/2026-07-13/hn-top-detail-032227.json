@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48884853,
+    "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "score": 352,
+    "descendants": 167
+  },
+  {
+    "id": 48834309,
+    "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+    "url": "https://nebusec.ai/research/ionstack-part-2/",
+    "score": 122,
+    "descendants": 43
+  },
+  {
+    "id": 48885643,
+    "title": "Cyberpunk Comics, Manga and Graphic Novels",
+    "url": "https://shellzine.net/cyberpunk-comics/",
+    "score": 96,
+    "descendants": 23
+  },
+  {
+    "id": 48884395,
+    "title": "Tiny Emulators",
+    "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+    "score": 165,
+    "descendants": 10
+  },
+  {
+    "id": 48885728,
+    "title": "Designing and assembling my first PCB",
+    "url": "https://vilkeliskis.com/b/2026/0711.html",
+    "score": 64,
+    "descendants": 12
+  }
+]
