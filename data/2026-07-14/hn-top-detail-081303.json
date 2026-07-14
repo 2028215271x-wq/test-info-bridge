@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48901569,
+    "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+    "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+    "score": 385,
+    "descendants": 92
+  },
+  {
+    "id": 48902026,
+    "title": "YouTrackDB is a general-use object-oriented graph database",
+    "url": "https://github.com/JetBrains/youtrackdb",
+    "score": 100,
+    "descendants": 27
+  },
+  {
+    "id": 48901010,
+    "title": "The Git history command deserves more attention",
+    "url": "https://lalitm.com/post/git-history/",
+    "score": 257,
+    "descendants": 145
+  },
+  {
+    "id": 48901454,
+    "title": "Fundamentals of Wireless Communication (2005)",
+    "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+    "score": 118,
+    "descendants": 3
+  },
+  {
+    "id": 48872833,
+    "title": "How to build a circular LCD clock",
+    "url": "https://blinry.org/lcd-clock/",
+    "score": 72,
+    "descendants": 24
+  }
+]
