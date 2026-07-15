@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48917755,
+    "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+    "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48917712,
+    "title": "The State of Age Verification in 2026",
+    "url": "https://aztec-labs.com/blog/age-verification-state-2026",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48917710,
+    "title": "How to Build 1-Minute OHLC Bars from Non-Uniform Market Snapshot Data",
+    "url": "https://medium.com/@DolphinDB_Inc/how-to-build-1-minute-ohlc-bars-from-non-uniform-market-snapshot-data-00d218863ea4",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48917697,
+    "title": "Ask HN: How do you track feedback when you post across multiple places?",
+    "url": "",
+    "score": 3,
+    "descendants": 0
+  },
+  {
+    "id": 48917667,
+    "title": "Ask HN: What Are You Building with AI?",
+    "url": "",
+    "score": 1,
+    "descendants": 3
+  }
+]
