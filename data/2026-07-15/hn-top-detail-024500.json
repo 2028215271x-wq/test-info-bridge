@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48914644,
+    "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "url": "https://vpd.ca/",
+    "score": 118,
+    "descendants": 41
+  },
+  {
+    "id": 48915004,
+    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "url": "https://tailscale.com/security-bulletins",
+    "score": 45,
+    "descendants": 19
+  },
+  {
+    "id": 48910545,
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "score": 454,
+    "descendants": 170
+  },
+  {
+    "id": 48913050,
+    "title": "Dependabot version updates introduce default package cooldown",
+    "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+    "score": 107,
+    "descendants": 68
+  },
+  {
+    "id": 48909785,
+    "title": "The Tower Keeps Rising",
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "score": 359,
+    "descendants": 170
+  }
+]
