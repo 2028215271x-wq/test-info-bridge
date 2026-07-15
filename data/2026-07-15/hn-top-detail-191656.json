@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48924912,
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "score": 73,
+    "descendants": 28
+  },
+  {
+    "id": 48923079,
+    "title": "Codex Micro",
+    "url": "https://openai.com/supply/co-lab/work-louder/",
+    "score": 164,
+    "descendants": 140
+  },
+  {
+    "id": 48922434,
+    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "score": 139,
+    "descendants": 75
+  },
+  {
+    "id": 48915953,
+    "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
+    "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+    "score": 110,
+    "descendants": 63
+  },
+  {
+    "id": 48920475,
+    "title": "Mysteries of Telegram Data Centers (2022)",
+    "url": "https://dev.moe/en/3025",
+    "score": 187,
+    "descendants": 68
+  }
+]
