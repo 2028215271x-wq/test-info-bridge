@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48901569,
+    "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+    "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+    "score": 733,
+    "descendants": 190
+  },
+  {
+    "id": 48915709,
+    "title": "Jurassic Park computers in excruciating detail",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "score": 650,
+    "descendants": 158
+  },
+  {
+    "id": 48910545,
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "score": 649,
+    "descendants": 230
+  },
+  {
+    "id": 48905248,
+    "title": "How to stop Claude from saying load-bearing",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "score": 569,
+    "descendants": 584
+  },
+  {
+    "id": 48894752,
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "score": 560,
+    "descendants": 234
+  }
+]
