@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48924912,
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "score": 1086,
+    "descendants": 269
+  },
+  {
+    "id": 48915709,
+    "title": "Jurassic Park computers in excruciating detail",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "score": 906,
+    "descendants": 241
+  },
+  {
+    "id": 48919363,
+    "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+    "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+    "score": 713,
+    "descendants": 385
+  },
+  {
+    "id": 48910545,
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "score": 687,
+    "descendants": 243
+  },
+  {
+    "id": 48916975,
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "score": 647,
+    "descendants": 290
+  }
+]
