@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48935342,
+    "title": "Kimi K3 is now live",
+    "url": "https://www.kimi.com/en",
+    "score": 576,
+    "descendants": 303
+  },
+  {
+    "id": 48936426,
+    "title": "Microsoft Comic Chat is now open source",
+    "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+    "score": 252,
+    "descendants": 70
+  },
+  {
+    "id": 48936584,
+    "title": "Decoy Font",
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "score": 157,
+    "descendants": 61
+  },
+  {
+    "id": 48936880,
+    "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "score": 77,
+    "descendants": 39
+  },
+  {
+    "id": 48936451,
+    "title": "NotebookLM is now Gemini Notebook",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "score": 94,
+    "descendants": 66
+  }
+]
