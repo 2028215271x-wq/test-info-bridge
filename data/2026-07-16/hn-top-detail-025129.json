@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48924912,
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "score": 739,
+    "descendants": 185
+  },
+  {
+    "id": 48928135,
+    "title": "SQLite should have (Rust-style) editions",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "score": 134,
+    "descendants": 57
+  },
+  {
+    "id": 48926590,
+    "title": "Grok Build is open source",
+    "url": "https://github.com/xai-org/grok-build",
+    "score": 290,
+    "descendants": 333
+  },
+  {
+    "id": 48871721,
+    "title": "G# \u2013 A modern .NET language with Go, Kotlin, and Swift ergonomics",
+    "url": "https://davidobando.github.io/gsharp/",
+    "score": 33,
+    "descendants": 4
+  },
+  {
+    "id": 48927095,
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "score": 98,
+    "descendants": 45
+  }
+]

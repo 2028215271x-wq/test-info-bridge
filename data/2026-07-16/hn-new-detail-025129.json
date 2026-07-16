@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48929804,
+    "title": "Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs",
+    "url": "https://dl.acm.org/doi/full/10.1145/3806645.3807580",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48929797,
+    "title": "You didn't live a life. You doomscrolled [video]",
+    "url": "https://www.youtube.com/watch?v=KPLEmp9CinU",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48929776,
+    "title": "Local-first agent governance: keeping an AI agent contained",
+    "url": "https://vektorgeist.com/blog/local-first-agent-governance",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 48929775,
+    "title": "No Space Like J-Space",
+    "url": "https://thezvi.substack.com/p/no-space-like-j-space",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 48929761,
+    "title": "Is a \"Phi-Zero\" AI architecture viable for safe robotics?",
+    "url": "https://github.com/GorrihmAI/fbai-nonconscious-ai/tree/main",
+    "score": 2,
+    "descendants": 1
+  }
+]
