@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48935342,
+    "title": "Kimi K3: Open Frontier Intelligence",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "score": 1232,
+    "descendants": 764
+  },
+  {
+    "id": 48936426,
+    "title": "Microsoft Comic Chat is now open source",
+    "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+    "score": 565,
+    "descendants": 124
+  },
+  {
+    "id": 48939662,
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "score": 174,
+    "descendants": 64
+  },
+  {
+    "id": 48936584,
+    "title": "Decoy Font",
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "score": 430,
+    "descendants": 103
+  },
+  {
+    "id": 48942125,
+    "title": "M 3.9 Experimental Explosion \u2013 147 Km ENE of Ponce Inlet, Florida",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+    "score": 33,
+    "descendants": 9
+  }
+]
