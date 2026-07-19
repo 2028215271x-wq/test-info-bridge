@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48966190,
+    "title": "Qwen 3.8 Max Preview",
+    "url": "https://www.qwencloud.com/pricing/token-plan",
+    "score": 154,
+    "descendants": 84
+  },
+  {
+    "id": 48966713,
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "score": 90,
+    "descendants": 47
+  },
+  {
+    "id": 48967256,
+    "title": "Minecraft: Java Edition now uses SDL3",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "score": 26,
+    "descendants": 5
+  },
+  {
+    "id": 48911021,
+    "title": "Blender 5.2 LTS",
+    "url": "https://www.blender.org/download/releases/5-2/",
+    "score": 104,
+    "descendants": 42
+  },
+  {
+    "id": 48967355,
+    "title": "I burned all my tokens researching how to save tokens",
+    "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+    "score": 24,
+    "descendants": 5
+  }
+]
