@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48966120,
+    "title": "Qwen 3.8",
+    "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "score": 615,
+    "descendants": 449
+  },
+  {
+    "id": 48968606,
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "url": "",
+    "score": 278,
+    "descendants": 23
+  },
+  {
+    "id": 48969983,
+    "title": "HMD Touch 4G",
+    "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+    "score": 31,
+    "descendants": 33
+  },
+  {
+    "id": 48966713,
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "score": 326,
+    "descendants": 149
+  },
+  {
+    "id": 48966569,
+    "title": "Claude Code uses Bun written in Rust now",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "score": 287,
+    "descendants": 372
+  }
+]
