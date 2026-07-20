@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48968606,
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "url": "",
+    "score": 1694,
+    "descendants": 181
+  },
+  {
+    "id": 48966569,
+    "title": "Claude Code uses Bun written in Rust now",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "score": 413,
+    "descendants": 576
+  },
+  {
+    "id": 48966713,
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "score": 424,
+    "descendants": 197
+  },
+  {
+    "id": 48907390,
+    "title": "The Zen of Parallel Programming",
+    "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+    "score": 123,
+    "descendants": 14
+  },
+  {
+    "id": 48967256,
+    "title": "Minecraft: Java Edition now uses SDL3",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "score": 280,
+    "descendants": 187
+  }
+]
