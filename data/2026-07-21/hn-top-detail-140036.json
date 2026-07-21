@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48989701,
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "score": 300,
+    "descendants": 132
+  },
+  {
+    "id": 48991139,
+    "title": "New US homeownership measure puts people first",
+    "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+    "score": 114,
+    "descendants": 111
+  },
+  {
+    "id": 48918140,
+    "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode \u2013 Ken Jin's Blog",
+    "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+    "score": 57,
+    "descendants": 0
+  },
+  {
+    "id": 48987822,
+    "title": "Incremental \u2013 A library for incremental computations",
+    "url": "https://github.com/janestreet/incremental",
+    "score": 274,
+    "descendants": 52
+  },
+  {
+    "id": 48977128,
+    "title": "Who's afraid of Chinese models?",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "score": 785,
+    "descendants": 598
+  }
+]
