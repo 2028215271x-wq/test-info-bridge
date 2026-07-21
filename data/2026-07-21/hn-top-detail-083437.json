@@ -1,0 +1,37 @@
+[
+  {
+    "id": 48987822,
+    "title": "Incremental \u2013 A library for incremental computations",
+    "url": "https://github.com/janestreet/incremental",
+    "score": 160,
+    "descendants": 23
+  },
+  {
+    "id": 48977128,
+    "title": "Who's afraid of Chinese models?",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "score": 597,
+    "descendants": 404
+  },
+  {
+    "id": 48987846,
+    "title": "Running Doom on Our Custom CPU and Going Viral",
+    "url": "https://www.armaangomes.com/blogs/doom/",
+    "score": 56,
+    "descendants": 10
+  },
+  {
+    "id": 48981703,
+    "title": "Kimi Work",
+    "url": "https://www.kimi.com/products/kimi-work",
+    "score": 526,
+    "descendants": 227
+  },
+  {
+    "id": 48981620,
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "url": "https://jelly-ui.com/",
+    "score": 469,
+    "descendants": 153
+  }
+]
