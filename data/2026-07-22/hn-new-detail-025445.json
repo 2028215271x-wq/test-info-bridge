@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49001248,
+    "title": "A mechanical light bulb from 1675 [video]",
+    "url": "https://www.youtube.com/watch?v=0Y-9GbsS9Fg",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49001227,
+    "title": "Volkswagen blocks Android devices running GrapheneOS from myVW App",
+    "url": "https://www.autoevolution.com/news/volkswagen-bans-security-focused-grapheneos-cites-security-reasons-continues-to-support-android-10-272431.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49001210,
+    "title": "The AI Bubble Is No Ordinary Bubble",
+    "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49001191,
+    "title": "Yubikey 5.8",
+    "url": "https://www.yubico.com/press-releases/yubico-extends-passkeys-beyond-trusted-authentication-to-verified-authorization-with-launch-of-yubikey-5-8/",
+    "score": 3,
+    "descendants": 0
+  },
+  {
+    "id": 49001138,
+    "title": "D\u00e9j\u00e0 View: Someone already tried this",
+    "url": "https://dejaview.bsct.so/",
+    "score": 3,
+    "descendants": 2
+  }
+]
