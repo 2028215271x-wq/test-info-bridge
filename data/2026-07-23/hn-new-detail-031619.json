@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49016436,
+    "title": "Open Hardware and Free Software: Teufel Mynd, a Case Study",
+    "url": "https://fsfe.org/news/2026/news-20260629-01.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49016399,
+    "title": "Locality-Sensitive Hashing and Privacy",
+    "url": "https://arxiv.org/abs/2302.13635",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49016384,
+    "title": "The worse class in the elder scrolls games is the thief explained",
+    "url": "https://www.youtube.com/watch?v=VkQiolFoOXw",
+    "score": 2,
+    "descendants": 1
+  },
+  {
+    "id": 49016378,
+    "title": "Why the OpenAI escape is the most worrying AI mishap yet",
+    "url": "https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet",
+    "score": 3,
+    "descendants": 1
+  },
+  {
+    "id": 49016372,
+    "title": "Indie game studios are supposed to love GenAI, so why do 25 devs to avoid it?",
+    "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+    "score": 1,
+    "descendants": 0
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49015735,
+    "title": "Run large language models at home, BitTorrent\u2011style",
+    "url": "https://petals.dev/",
+    "score": 49,
+    "descendants": 20
+  },
+  {
+    "id": 49010345,
+    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "score": 661,
+    "descendants": 397
+  },
+  {
+    "id": 49007247,
+    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "score": 188,
+    "descendants": 80
+  },
+  {
+    "id": 49010167,
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "url": "https://github.com/marcelroed/gigatoken/",
+    "score": 390,
+    "descendants": 77
+  },
+  {
+    "id": 49015588,
+    "title": "Codeberg Bans Cryptocurrency Projects",
+    "url": "https://codeberg.org/Codeberg/org/pulls/1254",
+    "score": 128,
+    "descendants": 138
+  }
+]
