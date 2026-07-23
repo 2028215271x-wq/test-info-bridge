@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49022152,
+    "title": "Writing by hand is good for your brain",
+    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "score": 593,
+    "descendants": 297
+  },
+  {
+    "id": 49024691,
+    "title": "What happened to TheNumbers.com",
+    "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+    "score": 141,
+    "descendants": 53
+  },
+  {
+    "id": 49025984,
+    "title": "Building on ATProto",
+    "url": "https://lukekanies.com/writing/building-on-atproto/",
+    "score": 40,
+    "descendants": 12
+  },
+  {
+    "id": 49025831,
+    "title": "A solid-state \u201catomic channel\u201d for separating rare earth elements",
+    "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+    "score": 19,
+    "descendants": 0
+  },
+  {
+    "id": 49022038,
+    "title": "Software rendering in 500 lines of bare C++",
+    "url": "https://haqr.eu/tinyrenderer/",
+    "score": 172,
+    "descendants": 30
+  }
+]
