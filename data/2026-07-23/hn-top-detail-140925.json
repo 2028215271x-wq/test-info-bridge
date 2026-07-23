@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49021783,
+    "title": "Astronomers may have found the first exomoon",
+    "url": "https://www.eso.org/public/news/eso2610/",
+    "score": 9,
+    "descendants": 0
+  },
+  {
+    "id": 49020868,
+    "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+    "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+    "score": 138,
+    "descendants": 111
+  },
+  {
+    "id": 48945139,
+    "title": "Scanning for Pangram Errors",
+    "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
+    "score": 29,
+    "descendants": 11
+  },
+  {
+    "id": 49021006,
+    "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+    "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+    "score": 114,
+    "descendants": 98
+  },
+  {
+    "id": 49010345,
+    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "score": 1003,
+    "descendants": 571
+  }
+]
