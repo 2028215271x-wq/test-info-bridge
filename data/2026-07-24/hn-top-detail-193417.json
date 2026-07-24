@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49038433,
+    "title": "Claude Opus 5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "score": 762,
+    "descendants": 429
+  },
+  {
+    "id": 49035303,
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "score": 191,
+    "descendants": 125
+  },
+  {
+    "id": 49040296,
+    "title": "Postgres LISTEN/NOTIFY actually scales",
+    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+    "score": 24,
+    "descendants": 2
+  },
+  {
+    "id": 49034292,
+    "title": "My security camera shipped a GitHub admin token in its login page",
+    "url": "https://hhh.hn/hanwha-github-token/",
+    "score": 405,
+    "descendants": 150
+  },
+  {
+    "id": 48973835,
+    "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "score": 358,
+    "descendants": 102
+  }
+]
