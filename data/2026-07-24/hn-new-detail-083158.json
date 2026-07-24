@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49032780,
+    "title": "Show HN: Krypter \u2013 simple offline message and file encryption mobile app",
+    "url": "",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49032777,
+    "title": "All your coding agents, synced everywhere, free forever",
+    "url": "https://www.ade-app.dev/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49032756,
+    "title": "The Book Prize Index",
+    "url": "https://book-prize-index.vercel.app",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49032751,
+    "title": "Show HN: Photo of a handwritten alphabet to installable TTF, open source",
+    "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49032734,
+    "title": "Mohabi: Disaggregating and Sandboxing the Firefox JavaScript Engine",
+    "url": "https://www.usenix.org/conference/osdi26/presentation/sharma",
+    "score": 1,
+    "descendants": 0
+  }
+]
