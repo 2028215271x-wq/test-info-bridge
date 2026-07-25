@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49038433,
+    "title": "Claude Opus 5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "score": 1341,
+    "descendants": 728
+  },
+  {
+    "id": 49040296,
+    "title": "Postgres LISTEN/NOTIFY actually scales",
+    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+    "score": 219,
+    "descendants": 38
+  },
+  {
+    "id": 49042751,
+    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+    "score": 37,
+    "descendants": 1
+  },
+  {
+    "id": 48973835,
+    "title": "India's first privately-developed rocket reaches orbit on debut launch",
+    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "score": 507,
+    "descendants": 145
+  },
+  {
+    "id": 49034292,
+    "title": "My security camera shipped a GitHub admin token in its login page",
+    "url": "https://hhh.hn/hanwha-github-token/",
+    "score": 523,
+    "descendants": 181
+  }
+]
