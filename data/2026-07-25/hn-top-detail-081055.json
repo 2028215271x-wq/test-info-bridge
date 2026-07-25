@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49045159,
+    "title": "Android May Soon Restrict On-Device ADB",
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "score": 55,
+    "descendants": 19
+  },
+  {
+    "id": 49045040,
+    "title": "ARC-AGI Leaderboard",
+    "url": "https://arcprize.org/leaderboard",
+    "score": 50,
+    "descendants": 31
+  },
+  {
+    "id": 49038433,
+    "title": "Claude Opus 5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "score": 1510,
+    "descendants": 842
+  },
+  {
+    "id": 48981665,
+    "title": "GC and Exceptions in Wasmtime",
+    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+    "score": 70,
+    "descendants": 0
+  },
+  {
+    "id": 49043724,
+    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+    "score": 130,
+    "descendants": 24
+  }
+]
