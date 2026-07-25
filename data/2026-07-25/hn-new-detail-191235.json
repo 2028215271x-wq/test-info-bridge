@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49050605,
+    "title": "An AL mother killed herself to fulfill a ChatGPT prophecy, lawsuit alleges",
+    "url": "https://www.sfgate.com/tech/article/chatgpt-alabama-suicide-22356367.php",
+    "score": 2,
+    "descendants": 1
+  },
+  {
+    "id": 49050602,
+    "title": "Show HN: Nore \u2013 Write in Notion, publish a production-ready blog",
+    "url": "https://nore.sh/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49050573,
+    "title": "Measuring the Impact of High Availability on Managed Postgres Performance",
+    "url": "https://clickhouse.com/blog/postgresbench-ha",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49050572,
+    "title": "Could a Crash Halve Stock Prices?",
+    "url": "https://www.nakedcapitalism.com/2026/07/could-a-crash-halve-stock-prices.html",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49050566,
+    "title": "Show HN: Bribes.fyi \u2013 Know before you go. New feature added",
+    "url": "https://bribes.fyi/before-you-go",
+    "score": 2,
+    "descendants": 2
+  }
+]
