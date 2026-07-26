@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49047453,
+    "title": "A shell colon does nothing. Use it anyway",
+    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "score": 128,
+    "descendants": 46
+  },
+  {
+    "id": 49054107,
+    "title": "An ESP32 based plane radar for my desk",
+    "url": "https://blog.ktz.me/esp32-plane-radar/",
+    "score": 124,
+    "descendants": 24
+  },
+  {
+    "id": 49051361,
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "score": 307,
+    "descendants": 189
+  },
+  {
+    "id": 49054010,
+    "title": "Show HN: I mapped every US golf course",
+    "url": "https://golfcoursebrowser.com/",
+    "score": 117,
+    "descendants": 58
+  },
+  {
+    "id": 49034777,
+    "title": "Stinkpot: SQLite-backed shell history",
+    "url": "https://tangled.org/oppi.li/stinkpot",
+    "score": 44,
+    "descendants": 9
+  }
+]
