@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49056112,
+    "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+    "url": "https://astral.sh/blog/ruff-v0.16.0",
+    "score": 174,
+    "descendants": 98
+  },
+  {
+    "id": 49057248,
+    "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+    "url": "https://english.mapn.ro/",
+    "score": 105,
+    "descendants": 61
+  },
+  {
+    "id": 49057398,
+    "title": "Go Analysis Framework: modular static analysis by go team",
+    "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+    "score": 22,
+    "descendants": 1
+  },
+  {
+    "id": 49055169,
+    "title": "GrapheneOS protections against data extraction from locked devices",
+    "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "score": 182,
+    "descendants": 96
+  },
+  {
+    "id": 49047453,
+    "title": "A shell colon does nothing. Use it anyway",
+    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "score": 284,
+    "descendants": 117
+  }
+]

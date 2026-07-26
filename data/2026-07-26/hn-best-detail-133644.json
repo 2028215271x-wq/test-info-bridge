@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49038433,
+    "title": "Claude Opus 5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "score": 1754,
+    "descendants": 1296
+  },
+  {
+    "id": 49045159,
+    "title": "Android may soon restrict on-device ADB",
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "score": 947,
+    "descendants": 465
+  },
+  {
+    "id": 49035303,
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "score": 650,
+    "descendants": 313
+  },
+  {
+    "id": 49043724,
+    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+    "score": 581,
+    "descendants": 109
+  },
+  {
+    "id": 49038060,
+    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+    "score": 527,
+    "descendants": 294
+  }
+]
