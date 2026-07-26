@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49054224,
+    "title": "JetZero",
+    "url": "https://www.jetzero.aero",
+    "score": 27,
+    "descendants": 12
+  },
+  {
+    "id": 48976262,
+    "title": "Stolen Buttons",
+    "url": "https://anatolyzenkov.com/stolen-buttons",
+    "score": 620,
+    "descendants": 151
+  },
+  {
+    "id": 49053382,
+    "title": "Systems and Delays",
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "score": 28,
+    "descendants": 6
+  },
+  {
+    "id": 49052628,
+    "title": "Clinical failure rates over the decades: yikes",
+    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "score": 62,
+    "descendants": 34
+  },
+  {
+    "id": 49053375,
+    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+    "score": 30,
+    "descendants": 2
+  }
+]
