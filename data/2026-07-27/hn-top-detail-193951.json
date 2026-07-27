@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49072361,
+    "title": "MAI-Cyber-1-Flash inside MDASH",
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "score": 170,
+    "descendants": 82
+  },
+  {
+    "id": 49045474,
+    "title": "Watching Go's new garbage collector move through the heap",
+    "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+    "score": 51,
+    "descendants": 3
+  },
+  {
+    "id": 49072310,
+    "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+    "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+    "score": 170,
+    "descendants": 126
+  },
+  {
+    "id": 49065752,
+    "title": "Kimi-K3 on HuggingFace",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "score": 1157,
+    "descendants": 458
+  },
+  {
+    "id": 49073942,
+    "title": "Self-contained highly-portable Python distributions",
+    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "score": 23,
+    "descendants": 1
+  }
+]
