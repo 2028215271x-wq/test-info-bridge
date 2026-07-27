@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49065752,
+    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "score": 692,
+    "descendants": 312
+  },
+  {
+    "id": 49069132,
+    "title": "Should you wash your solar panels?",
+    "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+    "score": 69,
+    "descendants": 48
+  },
+  {
+    "id": 49067854,
+    "title": "How is the Bun Rewrite in Rust going?",
+    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "score": 241,
+    "descendants": 162
+  },
+  {
+    "id": 49068738,
+    "title": "AI companies are shredding rare books",
+    "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+    "score": 356,
+    "descendants": 209
+  },
+  {
+    "id": 49067301,
+    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+    "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+    "score": 82,
+    "descendants": 45
+  }
+]

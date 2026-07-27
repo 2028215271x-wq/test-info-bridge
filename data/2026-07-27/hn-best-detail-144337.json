@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49057175,
+    "title": "Kill The Cookie Banner",
+    "url": "https://killthecookiebanner.eu/",
+    "score": 1094,
+    "descendants": 535
+  },
+  {
+    "id": 49063022,
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "score": 1029,
+    "descendants": 785
+  },
+  {
+    "id": 49063754,
+    "title": "PGSimCity - How PostgreSQL Works",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "score": 771,
+    "descendants": 71
+  },
+  {
+    "id": 49065752,
+    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "score": 692,
+    "descendants": 312
+  },
+  {
+    "id": 49057241,
+    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+    "score": 479,
+    "descendants": 163
+  }
+]
