@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49065752,
+    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "score": 298,
+    "descendants": 119
+  },
+  {
+    "id": 49063754,
+    "title": "PGSimCity - How PostgreSQL Works",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "score": 592,
+    "descendants": 59
+  },
+  {
+    "id": 49021270,
+    "title": "Show HN: Physically accurate black hole you can put in your room",
+    "url": "https://blackhole.plav.in",
+    "score": 316,
+    "descendants": 94
+  },
+  {
+    "id": 49063175,
+    "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+    "url": "https://github.com/vercel-labs/scriptc",
+    "score": 177,
+    "descendants": 91
+  },
+  {
+    "id": 49060495,
+    "title": "French firefighters face 'pyrocumulonimbus' for first time",
+    "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+    "score": 380,
+    "descendants": 248
+  }
+]
