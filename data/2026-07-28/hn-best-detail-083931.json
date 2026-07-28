@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49065752,
+    "title": "Kimi-K3 on HuggingFace",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "score": 1336,
+    "descendants": 527
+  },
+  {
+    "id": 49063022,
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "score": 1279,
+    "descendants": 1026
+  },
+  {
+    "id": 49057175,
+    "title": "Kill The Cookie Banner",
+    "url": "https://killthecookiebanner.eu/",
+    "score": 1130,
+    "descendants": 575
+  },
+  {
+    "id": 49063754,
+    "title": "PGSimCity - How PostgreSQL Works",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "score": 904,
+    "descendants": 89
+  },
+  {
+    "id": 49076057,
+    "title": "Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "score": 854,
+    "descendants": 1255
+  }
+]

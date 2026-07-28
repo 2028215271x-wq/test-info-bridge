@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49080664,
+    "title": "7.1 Earthquake in Japan",
+    "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "score": 107,
+    "descendants": 21
+  },
+  {
+    "id": 49076057,
+    "title": "Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "score": 854,
+    "descendants": 1255
+  },
+  {
+    "id": 49078454,
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "score": 162,
+    "descendants": 44
+  },
+  {
+    "id": 49079727,
+    "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
+    "url": "https://arsastronomica.com/",
+    "score": 53,
+    "descendants": 8
+  },
+  {
+    "id": 49076391,
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "score": 267,
+    "descendants": 59
+  }
+]
