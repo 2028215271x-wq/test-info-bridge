@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49084242,
+    "title": "Lessons learned from handling a KVM flaw on tens of thousands of machines",
+    "url": "https://blog.ovhcloud.com/en/posts/cve-2026-53359-kvm-patching-lessons-learned/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49084239,
+    "title": "Webb finds a hidden exoplanet using spectroscopy instead of direct imaging",
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49084236,
+    "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
+    "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49084222,
+    "title": "Show HN: New tab, but it's a random chess puzzle",
+    "url": "https://chromewebstore.google.com/detail/leetchess/hogbcffpfhmcagfjbpiofabechljdflk",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49084215,
+    "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+    "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
+    "score": 1,
+    "descendants": 0
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49080664,
+    "title": "7.1 Earthquake in Japan",
+    "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "score": 497,
+    "descendants": 93
+  },
+  {
+    "id": 49083314,
+    "title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+    "score": 109,
+    "descendants": 27
+  },
+  {
+    "id": 49083389,
+    "title": "Show HN: tale.fyi, we deserve a home for fiction",
+    "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+    "score": 29,
+    "descendants": 13
+  },
+  {
+    "id": 49083239,
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "score": 40,
+    "descendants": 14
+  },
+  {
+    "id": 49082022,
+    "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+    "url": "https://arxiv.org/abs/2510.26692",
+    "score": 51,
+    "descendants": 9
+  }
+]
