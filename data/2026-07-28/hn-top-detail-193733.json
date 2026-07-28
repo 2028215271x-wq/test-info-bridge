@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49088148,
+    "title": "Deflock Casa Grande",
+    "url": "https://deflockcg.com/",
+    "score": 128,
+    "descendants": 30
+  },
+  {
+    "id": 49088451,
+    "title": "Donate to GrapheneOS",
+    "url": "https://grapheneos.org/donate",
+    "score": 57,
+    "descendants": 4
+  },
+  {
+    "id": 49085909,
+    "title": "A walk through of the DeltaNet family of linear attention variants",
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "score": 252,
+    "descendants": 106
+  },
+  {
+    "id": 49086788,
+    "title": "Substack writers, you need a website",
+    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "score": 130,
+    "descendants": 104
+  },
+  {
+    "id": 49086971,
+    "title": "Steel Bank Common Lisp version 2.6.7",
+    "url": "https://sbcl.org/all-news.html?2.6.7",
+    "score": 96,
+    "descendants": 25
+  }
+]

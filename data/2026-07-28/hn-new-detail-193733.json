@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49088840,
+    "title": "It was surprisingly hard to break CloudNativePG replication",
+    "url": "https://coroot.com/blog/fencing-a-cnpg-replica/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49088831,
+    "title": "Front end CI/CD in the age of AI",
+    "url": "https://neciudan.dev/ci-cd-in-the-age-of-ai-part-1",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49088807,
+    "title": "Parsley and cilantro implicated in outbreak that causes bathroom emergencies",
+    "url": "https://www.dailymail.com/health/article-16011243/parsley-cilantro-cyclosporiasis-outbreak-north-carolina-michigan.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49088801,
+    "title": "Repurpose Video Content in Text",
+    "url": "",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49088795,
+    "title": "Getting a New WAN IP Address via DHCP from Spectrum Internet (2022)",
+    "url": "https://www.jeffgeerling.com/blog/2022/getting-new-ip-address-dhcp-spectrum-internet/",
+    "score": 1,
+    "descendants": 0
+  }
+]
