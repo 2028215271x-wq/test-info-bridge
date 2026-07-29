@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49095865,
+    "title": "KOReader",
+    "url": "https://koreader.rocks/",
+    "score": 281,
+    "descendants": 98
+  },
+  {
+    "id": 49096969,
+    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "url": "https://arxiv.org/abs/2607.25398",
+    "score": 61,
+    "descendants": 34
+  },
+  {
+    "id": 49096917,
+    "title": "Show HN: Bullshit Detector \u2013 agent skills that fact-check videos and articles",
+    "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "score": 36,
+    "descendants": 16
+  },
+  {
+    "id": 49096188,
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "score": 142,
+    "descendants": 118
+  },
+  {
+    "id": 49093569,
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "score": 299,
+    "descendants": 96
+  }
+]
