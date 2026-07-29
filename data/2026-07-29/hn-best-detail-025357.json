@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49065752,
+    "title": "Kimi-K3 on HuggingFace",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "score": 1367,
+    "descendants": 538
+  },
+  {
+    "id": 49076057,
+    "title": "Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "score": 1150,
+    "descendants": 1689
+  },
+  {
+    "id": 49068738,
+    "title": "AI companies are shredding rare books",
+    "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+    "score": 783,
+    "descendants": 508
+  },
+  {
+    "id": 49080664,
+    "title": "7.1 Earthquake in Japan",
+    "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "score": 775,
+    "descendants": 208
+  },
+  {
+    "id": 49083314,
+    "title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+    "score": 579,
+    "descendants": 242
+  }
+]
