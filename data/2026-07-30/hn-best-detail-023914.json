@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49080664,
+    "title": "7.1 Earthquake in Japan",
+    "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "score": 813,
+    "descendants": 226
+  },
+  {
+    "id": 49084938,
+    "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
+    "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
+    "score": 686,
+    "descendants": 279
+  },
+  {
+    "id": 49095865,
+    "title": "KOReader",
+    "url": "https://koreader.rocks/",
+    "score": 675,
+    "descendants": 213
+  },
+  {
+    "id": 49098510,
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "url": "https://github.com/drumih/turbo-fieldfare",
+    "score": 664,
+    "descendants": 232
+  },
+  {
+    "id": 49083314,
+    "title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+    "score": 649,
+    "descendants": 292
+  }
+]
