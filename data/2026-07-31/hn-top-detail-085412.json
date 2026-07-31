@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49118781,
+    "title": "The session you cannot take with you",
+    "url": "https://earendil.com/posts/session-portability/",
+    "score": 272,
+    "descendants": 56
+  },
+  {
+    "id": 49120097,
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "score": 16,
+    "descendants": 13
+  },
+  {
+    "id": 49119063,
+    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "url": "https://github.com/openjdk/jdk/pull/31120",
+    "score": 92,
+    "descendants": 35
+  },
+  {
+    "id": 49119559,
+    "title": "DeepSeek-V4-Flash Update",
+    "url": "https://api-docs.deepseek.com/updates/",
+    "score": 199,
+    "descendants": 82
+  },
+  {
+    "id": 49112232,
+    "title": "Stacked PRs are now live on GitHub",
+    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "score": 631,
+    "descendants": 215
+  }
+]
