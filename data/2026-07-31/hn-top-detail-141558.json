@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49120299,
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "score": 226,
+    "descendants": 95
+  },
+  {
+    "id": 49122994,
+    "title": "Situational Awareness Down 67% in July in AI Stock Rout",
+    "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "score": 39,
+    "descendants": 35
+  },
+  {
+    "id": 49118781,
+    "title": "The session you cannot take with you",
+    "url": "https://earendil.com/posts/session-portability/",
+    "score": 562,
+    "descendants": 151
+  },
+  {
+    "id": 49120097,
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "score": 247,
+    "descendants": 230
+  },
+  {
+    "id": 49119063,
+    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "url": "https://github.com/openjdk/jdk/pull/31120",
+    "score": 176,
+    "descendants": 96
+  }
+]
