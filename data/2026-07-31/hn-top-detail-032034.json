@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49117099,
+    "title": "The AI Aesthetic",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "score": 159,
+    "descendants": 80
+  },
+  {
+    "id": 49112744,
+    "title": "Read this before you buy that TV streaming stick",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "score": 603,
+    "descendants": 354
+  },
+  {
+    "id": 49116721,
+    "title": "I flagged two research papers for fake authors and both were accepted as orals",
+    "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "score": 109,
+    "descendants": 42
+  },
+  {
+    "id": 49114639,
+    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+    "url": "https://github.com/AminBlg/SimpleEnglish",
+    "score": 231,
+    "descendants": 85
+  },
+  {
+    "id": 49112232,
+    "title": "Stacked PRs are now live on GitHub",
+    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "score": 504,
+    "descendants": 169
+  }
+]
