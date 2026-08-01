@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49124218,
+    "title": "Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 961,
+    "descendants": 237
+  },
+  {
+    "id": 49126604,
+    "title": "qm \u2013 Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "score": 492,
+    "descendants": 106
+  },
+  {
+    "id": 49129990,
+    "title": "How to Exist",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "score": 47,
+    "descendants": 13
+  },
+  {
+    "id": 49096605,
+    "title": "Software for One",
+    "url": "https://www.ajwaxman.com/writing/software-for-one",
+    "score": 22,
+    "descendants": 7
+  },
+  {
+    "id": 49117089,
+    "title": "The Absurdity of Albert Camus",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "score": 69,
+    "descendants": 40
+  }
+]
