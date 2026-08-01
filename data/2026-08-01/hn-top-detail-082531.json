@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49132058,
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "score": 50,
+    "descendants": 23
+  },
+  {
+    "id": 49124218,
+    "title": "Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 1241,
+    "descendants": 297
+  },
+  {
+    "id": 49130604,
+    "title": "Flint: A Visualization Language for the AI Era",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "score": 98,
+    "descendants": 31
+  },
+  {
+    "id": 49129990,
+    "title": "How to Exist",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "score": 172,
+    "descendants": 94
+  },
+  {
+    "id": 49126604,
+    "title": "qm \u2013 Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "score": 551,
+    "descendants": 113
+  }
+]
