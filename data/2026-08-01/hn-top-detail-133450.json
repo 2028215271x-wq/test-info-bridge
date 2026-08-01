@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49133889,
+    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+    "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+    "score": 52,
+    "descendants": 21
+  },
+  {
+    "id": 49124218,
+    "title": "Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 1410,
+    "descendants": 341
+  },
+  {
+    "id": 49134079,
+    "title": "Google kills Earth AI generator after one day",
+    "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+    "score": 25,
+    "descendants": 14
+  },
+  {
+    "id": 49130604,
+    "title": "Flint: A Visualization Language for the AI Era",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "score": 160,
+    "descendants": 56
+  },
+  {
+    "id": 49105013,
+    "title": "Manual: \u2022.,:;?\u00b7",
+    "url": "https://type.today/en/journal/dots",
+    "score": 34,
+    "descendants": 3
+  }
+]

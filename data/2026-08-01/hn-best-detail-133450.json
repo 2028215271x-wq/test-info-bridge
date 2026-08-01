@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49124218,
+    "title": "Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 1410,
+    "descendants": 341
+  },
+  {
+    "id": 49113929,
+    "title": "UEFA and its national associations will not participate in FIFA competitions",
+    "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "score": 1214,
+    "descendants": 665
+  },
+  {
+    "id": 49112744,
+    "title": "Read this before you buy that TV streaming stick",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "score": 799,
+    "descendants": 537
+  },
+  {
+    "id": 49112232,
+    "title": "Stacked PRs are now live on GitHub",
+    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "score": 767,
+    "descendants": 290
+  },
+  {
+    "id": 49118781,
+    "title": "The session you cannot take with you",
+    "url": "https://earendil.com/posts/session-portability/",
+    "score": 751,
+    "descendants": 213
+  }
+]
