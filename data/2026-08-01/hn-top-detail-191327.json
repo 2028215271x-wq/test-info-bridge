@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49136736,
+    "title": "NetBSD 11.0 Released",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+    "score": 66,
+    "descendants": 11
+  },
+  {
+    "id": 49137060,
+    "title": "Postmortem for Kernel Soundness Bug #14576",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "score": 20,
+    "descendants": 4
+  },
+  {
+    "id": 49134599,
+    "title": "The Art of 64-bit Assembly",
+    "url": "https://nostarch.com/art-64-bit-assembly-v2",
+    "score": 115,
+    "descendants": 64
+  },
+  {
+    "id": 49135985,
+    "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
+    "url": "https://kaisel.dev/",
+    "score": 28,
+    "descendants": 1
+  },
+  {
+    "id": 49135245,
+    "title": "Explorative modeling: Train on the best of K guesses",
+    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+    "score": 45,
+    "descendants": 18
+  }
+]
