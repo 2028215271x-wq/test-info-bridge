@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49124218,
+    "title": "Show HN: Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 1607,
+    "descendants": 395
+  },
+  {
+    "id": 49126604,
+    "title": "qm \u2013 Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "score": 657,
+    "descendants": 155
+  },
+  {
+    "id": 49127306,
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 610,
+    "descendants": 213
+  },
+  {
+    "id": 49136821,
+    "title": "How Google helped destroy adoption of RSS feeds (2023)",
+    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+    "score": 557,
+    "descendants": 194
+  },
+  {
+    "id": 49132058,
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "score": 435,
+    "descendants": 304
+  }
+]

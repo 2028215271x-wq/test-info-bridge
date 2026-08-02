@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49143967,
+    "title": "Twenty Years of RISC OS Open",
+    "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+    "score": 33,
+    "descendants": 1
+  },
+  {
+    "id": 49143479,
+    "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
+    "url": "https://meshdiff.com/",
+    "score": 66,
+    "descendants": 8
+  },
+  {
+    "id": 49142569,
+    "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
+    "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "score": 74,
+    "descendants": 14
+  },
+  {
+    "id": 49143001,
+    "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+    "url": "https://publicdomainreview.org/essay/ars-notoria/",
+    "score": 52,
+    "descendants": 6
+  },
+  {
+    "id": 49142794,
+    "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
+    "url": "https://github.com/syncular/syncular",
+    "score": 37,
+    "descendants": 17
+  }
+]
