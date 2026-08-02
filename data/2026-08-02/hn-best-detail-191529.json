@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49127306,
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 615,
+    "descendants": 216
+  },
+  {
+    "id": 49136821,
+    "title": "How Google helped destroy adoption of RSS feeds (2023)",
+    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+    "score": 578,
+    "descendants": 221
+  },
+  {
+    "id": 49138188,
+    "title": "Di\u00e1taxis",
+    "url": "https://diataxis.fr/",
+    "score": 486,
+    "descendants": 56
+  },
+  {
+    "id": 49132058,
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "score": 446,
+    "descendants": 315
+  },
+  {
+    "id": 49138302,
+    "title": "Seedance 2.5",
+    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+    "score": 417,
+    "descendants": 242
+  }
+]

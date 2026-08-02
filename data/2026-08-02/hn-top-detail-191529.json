@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49145937,
+    "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+    "url": "https://github.com/wie-project/kakehashi",
+    "score": 79,
+    "descendants": 26
+  },
+  {
+    "id": 49097961,
+    "title": "Developers are attached to tools because tools encode trust",
+    "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+    "score": 48,
+    "descendants": 11
+  },
+  {
+    "id": 49145590,
+    "title": "How the words we teach English language learners changed",
+    "url": "https://pudding.cool/2026/07/essential-words/",
+    "score": 136,
+    "descendants": 77
+  },
+  {
+    "id": 49146267,
+    "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+    "url": "https://github.com/graham33/nixos-dgx-spark",
+    "score": 40,
+    "descendants": 8
+  },
+  {
+    "id": 49145883,
+    "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+    "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+    "score": 41,
+    "descendants": 6
+  }
+]
