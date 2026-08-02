@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49124218,
+    "title": "Show HN: Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 1583,
+    "descendants": 387
+  },
+  {
+    "id": 49118781,
+    "title": "The session you cannot take with you",
+    "url": "https://earendil.com/posts/session-portability/",
+    "score": 760,
+    "descendants": 218
+  },
+  {
+    "id": 49119559,
+    "title": "DeepSeek-V4-Flash Update",
+    "url": "https://api-docs.deepseek.com/updates/",
+    "score": 728,
+    "descendants": 343
+  },
+  {
+    "id": 49126604,
+    "title": "qm \u2013 Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "score": 650,
+    "descendants": 152
+  },
+  {
+    "id": 49127306,
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 595,
+    "descendants": 215
+  }
+]
