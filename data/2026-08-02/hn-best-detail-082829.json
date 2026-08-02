@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49124218,
+    "title": "Show HN: Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 1594,
+    "descendants": 392
+  },
+  {
+    "id": 49126604,
+    "title": "qm \u2013 Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "score": 651,
+    "descendants": 153
+  },
+  {
+    "id": 49127306,
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 602,
+    "descendants": 215
+  },
+  {
+    "id": 49120299,
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "score": 583,
+    "descendants": 311
+  },
+  {
+    "id": 49120097,
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "score": 562,
+    "descendants": 606
+  }
+]

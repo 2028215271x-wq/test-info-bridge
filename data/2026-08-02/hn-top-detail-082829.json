@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49140218,
+    "title": "Go 1.27 Interactive Tour",
+    "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+    "score": 185,
+    "descendants": 61
+  },
+  {
+    "id": 49140396,
+    "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+    "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+    "score": 136,
+    "descendants": 26
+  },
+  {
+    "id": 49141891,
+    "title": "I don't recommend Tailwind CSS",
+    "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+    "score": 11,
+    "descendants": 3
+  },
+  {
+    "id": 49138302,
+    "title": "Seedance 2.5",
+    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+    "score": 316,
+    "descendants": 165
+  },
+  {
+    "id": 49140702,
+    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+    "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+    "score": 50,
+    "descendants": 2
+  }
+]
