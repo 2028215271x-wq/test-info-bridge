@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49153520,
+    "title": "Nvidia releases Cosmos 3 Edge for robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49153512,
+    "title": "YInMn Blue",
+    "url": "https://chemistry.oregonstate.edu/chemistry-news-events/yinmn-blue",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49153505,
+    "title": "Romania explodes rock to get more water flow to nuclear reactor",
+    "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49153497,
+    "title": "Deterministic Core, Non-Deterministic Shell",
+    "url": "https://outdata.net/blog/260803",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49153490,
+    "title": "Show HN: AQ \u2013 a from-scratch 1B academic LLM by a 2-person team in India",
+    "url": "https://huggingface.co/zyoralabs/AQ-academic-ai",
+    "score": 2,
+    "descendants": 0
+  }
+]
