@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49170165,
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "score": 307,
+    "descendants": 68
+  },
+  {
+    "id": 49172836,
+    "title": "Waymo \u2013 Dallas Open to All",
+    "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+    "score": 32,
+    "descendants": 18
+  },
+  {
+    "id": 49172550,
+    "title": "Why some people mow a lawn better than others",
+    "url": "https://pudding.cool/2026/06/mow/",
+    "score": 71,
+    "descendants": 59
+  },
+  {
+    "id": 49173576,
+    "title": "Investors in Situational Awareness deserved to lose their shirts",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+    "score": 17,
+    "descendants": 11
+  },
+  {
+    "id": 49171268,
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "score": 60,
+    "descendants": 16
+  }
+]
