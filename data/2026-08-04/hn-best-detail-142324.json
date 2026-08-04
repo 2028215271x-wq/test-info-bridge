@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49151933,
+    "title": "Don't be a meat proxy",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "score": 1759,
+    "descendants": 710
+  },
+  {
+    "id": 49161518,
+    "title": "LLMs reward expertise",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "score": 1137,
+    "descendants": 479
+  },
+  {
+    "id": 49150470,
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "url": "https://qwen.ai/blog?id=qwen3.8",
+    "score": 1086,
+    "descendants": 591
+  },
+  {
+    "id": 49154332,
+    "title": "SQLite Critical CVEs or LLM Slop?",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "score": 715,
+    "descendants": 366
+  },
+  {
+    "id": 49156111,
+    "title": "Devtools must be open source",
+    "url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "score": 665,
+    "descendants": 216
+  }
+]
