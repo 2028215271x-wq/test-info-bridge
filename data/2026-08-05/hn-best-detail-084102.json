@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49161518,
+    "title": "LLMs reward expertise",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "score": 1351,
+    "descendants": 558
+  },
+  {
+    "id": 49173165,
+    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+    "score": 1311,
+    "descendants": 75
+  },
+  {
+    "id": 49167113,
+    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+    "score": 756,
+    "descendants": 441
+  },
+  {
+    "id": 49154332,
+    "title": "SQLite Critical CVEs or LLM Slop?",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "score": 721,
+    "descendants": 372
+  },
+  {
+    "id": 49156111,
+    "title": "Devtools must be open source",
+    "url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "score": 710,
+    "descendants": 231
+  }
+]

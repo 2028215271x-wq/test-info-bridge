@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49131438,
+    "title": "Stateless MCP has recaptured my interest",
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+    "score": 162,
+    "descendants": 82
+  },
+  {
+    "id": 49105978,
+    "title": "\"Gravity is worth asking about.\"",
+    "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+    "score": 41,
+    "descendants": 26
+  },
+  {
+    "id": 49124273,
+    "title": "The Pneumatics of Hero of Alexandria",
+    "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
+    "score": 20,
+    "descendants": 1
+  },
+  {
+    "id": 49176038,
+    "title": "Pi's Minimalism Is Its Advantage",
+    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "score": 329,
+    "descendants": 125
+  },
+  {
+    "id": 49171268,
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "score": 398,
+    "descendants": 97
+  }
+]
