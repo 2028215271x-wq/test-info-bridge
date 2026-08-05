@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49182996,
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "score": 17,
+    "descendants": 2
+  },
+  {
+    "id": 49182847,
+    "title": "A Sick People",
+    "url": "https://householderkarl.com/a-sick-people/",
+    "score": 26,
+    "descendants": 12
+  },
+  {
+    "id": 49181519,
+    "title": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
+    "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+    "score": 55,
+    "descendants": 29
+  },
+  {
+    "id": 49181083,
+    "title": "Position: LLMs Can't Jump",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "score": 127,
+    "descendants": 79
+  },
+  {
+    "id": 49181099,
+    "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "score": 216,
+    "descendants": 104
+  }
+]
