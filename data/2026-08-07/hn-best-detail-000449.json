@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49184960,
+    "title": "Discovery Loop",
+    "url": "https://www.discoveryloop.com/",
+    "score": 910,
+    "descendants": 579
+  },
+  {
+    "id": 49195231,
+    "title": "Mario Meets Pareto",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "score": 846,
+    "descendants": 147
+  },
+  {
+    "id": 49184755,
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "score": 822,
+    "descendants": 877
+  },
+  {
+    "id": 49192566,
+    "title": "Crime Pays but Botany Doesn't",
+    "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "score": 645,
+    "descendants": 200
+  },
+  {
+    "id": 49182996,
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "score": 645,
+    "descendants": 318
+  }
+]
