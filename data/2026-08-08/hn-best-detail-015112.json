@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49195231,
+    "title": "Mario Meets Pareto",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "score": 1138,
+    "descendants": 165
+  },
+  {
+    "id": 49201970,
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "score": 888,
+    "descendants": 666
+  },
+  {
+    "id": 49208314,
+    "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+    "score": 856,
+    "descendants": 816
+  },
+  {
+    "id": 49204352,
+    "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
+    "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+    "score": 721,
+    "descendants": 395
+  },
+  {
+    "id": 49192566,
+    "title": "Crime Pays but Botany Doesn't",
+    "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "score": 687,
+    "descendants": 214
+  }
+]

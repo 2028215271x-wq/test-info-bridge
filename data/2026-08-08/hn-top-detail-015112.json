@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49214008,
+    "title": "DeepSeek V4 Flash 0731",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "score": 467,
+    "descendants": 278
+  },
+  {
+    "id": 49216946,
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "score": 89,
+    "descendants": 39
+  },
+  {
+    "id": 49217993,
+    "title": "The Nixpkgs core team has disbanded",
+    "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+    "score": 14,
+    "descendants": 2
+  },
+  {
+    "id": 49214098,
+    "title": "Assembly Hall of Shame",
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "score": 251,
+    "descendants": 57
+  },
+  {
+    "id": 49214770,
+    "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+    "url": "https://ancientlibrary.net/",
+    "score": 147,
+    "descendants": 49
+  }
+]
