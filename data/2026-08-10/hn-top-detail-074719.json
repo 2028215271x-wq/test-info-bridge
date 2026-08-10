@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49239751,
+    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "score": 100,
+    "descendants": 58
+  },
+  {
+    "id": 49238561,
+    "title": "What Happened to HackerOne?",
+    "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+    "score": 181,
+    "descendants": 70
+  },
+  {
+    "id": 49239021,
+    "title": "Auto mode is now the default in Claude Code",
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "score": 168,
+    "descendants": 149
+  },
+  {
+    "id": 49238818,
+    "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+    "url": "https://github.com/shinyquagsire23/Klepton",
+    "score": 50,
+    "descendants": 5
+  },
+  {
+    "id": 49238851,
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "url": "https://www.whodunnitai.com/",
+    "score": 59,
+    "descendants": 18
+  }
+]
