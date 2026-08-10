@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49241679,
+    "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "score": 306,
+    "descendants": 122
+  },
+  {
+    "id": 49243029,
+    "title": "50k Boat Names",
+    "url": "https://www.beautifulpublicdata.com/boat-names/",
+    "score": 10,
+    "descendants": 3
+  },
+  {
+    "id": 49242245,
+    "title": "Because It's Not Fun Enough: why languages fail",
+    "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+    "score": 55,
+    "descendants": 36
+  },
+  {
+    "id": 49239751,
+    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "score": 332,
+    "descendants": 194
+  },
+  {
+    "id": 49242297,
+    "title": "Tail-call optimization in C is relatively recent",
+    "url": "https://lwn.net/Articles/1034703/",
+    "score": 31,
+    "descendants": 12
+  }
+]
