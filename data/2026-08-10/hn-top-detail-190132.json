@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49247070,
+    "title": "Learning more about Claude's mathematical capabilities",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "score": 76,
+    "descendants": 39
+  },
+  {
+    "id": 49241679,
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "score": 818,
+    "descendants": 460
+  },
+  {
+    "id": 49208296,
+    "title": "Sonic Pi v5",
+    "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+    "score": 147,
+    "descendants": 38
+  },
+  {
+    "id": 49246057,
+    "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+    "url": "https://www.stoaexchange.com",
+    "score": 36,
+    "descendants": 19
+  },
+  {
+    "id": 49245437,
+    "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "url": "https://github.com/AntigmaLabs/ante",
+    "score": 79,
+    "descendants": 52
+  }
+]
