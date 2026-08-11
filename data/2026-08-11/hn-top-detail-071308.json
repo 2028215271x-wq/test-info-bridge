@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49252179,
+    "title": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
+    "url": "https://github.com/antirez/h3.c",
+    "score": 199,
+    "descendants": 25
+  },
+  {
+    "id": 49253721,
+    "title": "Show HN: Mcptoon \u2013 Token-efficient MCP CLI client",
+    "url": "https://github.com/activeing123/mcptoon",
+    "score": 27,
+    "descendants": 15
+  },
+  {
+    "id": 49251702,
+    "title": "Chicken Scheme 6.0",
+    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "score": 149,
+    "descendants": 17
+  },
+  {
+    "id": 49251179,
+    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+    "url": "https://everycube.alen.is/",
+    "score": 164,
+    "descendants": 52
+  },
+  {
+    "id": 49173107,
+    "title": "LFM2.5 2.6B model competitive with 4x larger models",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+    "score": 40,
+    "descendants": 12
+  }
+]
