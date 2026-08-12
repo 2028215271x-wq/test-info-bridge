@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49274600,
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 405,
+    "descendants": 138
+  },
+  {
+    "id": 49276574,
+    "title": "Zed: Delta",
+    "url": "https://zed.dev/blog/introducing-delta",
+    "score": 69,
+    "descendants": 9
+  },
+  {
+    "id": 49272832,
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 505,
+    "descendants": 80
+  },
+  {
+    "id": 49273478,
+    "title": "Qwen3.8-2.4T",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "score": 243,
+    "descendants": 66
+  },
+  {
+    "id": 49270953,
+    "title": "2026 Eclipse Webcams",
+    "url": "https://jonty.github.io/2026_eclipse_webcams/",
+    "score": 408,
+    "descendants": 104
+  }
+]
