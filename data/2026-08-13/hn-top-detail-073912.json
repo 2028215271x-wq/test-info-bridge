@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49274600,
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 884,
+    "descendants": 356
+  },
+  {
+    "id": 49218040,
+    "title": "Mushroom behind 'tiny people' hallucinations identified",
+    "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+    "score": 81,
+    "descendants": 44
+  },
+  {
+    "id": 49272832,
+    "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 990,
+    "descendants": 188
+  },
+  {
+    "id": 49276574,
+    "title": "Delta",
+    "url": "https://zed.dev/blog/introducing-delta",
+    "score": 516,
+    "descendants": 179
+  },
+  {
+    "id": 49273478,
+    "title": "Qwen3.8-2.4T",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "score": 590,
+    "descendants": 135
+  }
+]

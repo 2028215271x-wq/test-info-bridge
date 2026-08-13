@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49254880,
+    "title": "France to ban unsolicited telemarketing calls",
+    "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+    "score": 1053,
+    "descendants": 506
+  },
+  {
+    "id": 49272832,
+    "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 990,
+    "descendants": 188
+  },
+  {
+    "id": 49274600,
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 884,
+    "descendants": 356
+  },
+  {
+    "id": 49271994,
+    "title": "AI is removing the middle class of software engineering?",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "score": 847,
+    "descendants": 772
+  },
+  {
+    "id": 49257876,
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://stolen-thoughts.com/",
+    "score": 684,
+    "descendants": 301
+  }
+]
