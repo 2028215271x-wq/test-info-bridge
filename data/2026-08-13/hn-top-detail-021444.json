@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49274600,
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 763,
+    "descendants": 288
+  },
+  {
+    "id": 49276574,
+    "title": "Delta",
+    "url": "https://zed.dev/blog/introducing-delta",
+    "score": 404,
+    "descendants": 137
+  },
+  {
+    "id": 49272832,
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 812,
+    "descendants": 147
+  },
+  {
+    "id": 49273478,
+    "title": "Qwen3.8-2.4T",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "score": 506,
+    "descendants": 110
+  },
+  {
+    "id": 49279928,
+    "title": "Principia Mathematica is modern and insightful",
+    "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+    "score": 49,
+    "descendants": 17
+  }
+]
