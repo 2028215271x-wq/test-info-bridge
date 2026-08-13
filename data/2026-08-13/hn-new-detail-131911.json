@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49285461,
+    "title": "Why Are Rivers So Mathematical?",
+    "url": "https://www.quantamagazine.org/why-are-rivers-so-mathematical-20260810/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49285458,
+    "title": "The Great Escape Trick, Or: AI Opium for the Masses",
+    "url": "https://read.misalignedmag.com/the-great-escape-trick-or-the-new-ai-opium-for-the-masses-93eaf817a5dd",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49285447,
+    "title": "War and Peace",
+    "url": "https://ourworldindata.org/war-and-peace",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49285446,
+    "title": "Certificate Transparency Monitoring is now generally available",
+    "url": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49285444,
+    "title": "SideFX Houdini in a Robot Control Loop",
+    "url": "https://owentrueblood.com/blog/2025/06/06/sidefx-houdini-in-a-robot-control-loop/",
+    "score": 1,
+    "descendants": 0
+  }
+]
