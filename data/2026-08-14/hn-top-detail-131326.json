@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49294997,
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "url": "https://z.ai/blog/glm-5.3",
+    "score": 681,
+    "descendants": 334
+  },
+  {
+    "id": 49249523,
+    "title": "Don't classify, hallucinate!",
+    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+    "score": 38,
+    "descendants": 10
+  },
+  {
+    "id": 49296627,
+    "title": "DeepSeek peak/off-peak pricing update",
+    "url": "https://api-docs.deepseek.com/news/news260813/",
+    "score": 98,
+    "descendants": 45
+  },
+  {
+    "id": 49289112,
+    "title": "Gemini 3.7 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "score": 896,
+    "descendants": 451
+  },
+  {
+    "id": 49296740,
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "score": 199,
+    "descendants": 182
+  }
+]
