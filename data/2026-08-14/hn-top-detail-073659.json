@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49294997,
+    "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+    "url": "https://z.ai/blog/glm-5.3",
+    "score": 288,
+    "descendants": 95
+  },
+  {
+    "id": 49289112,
+    "title": "Gemini 3.7 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "score": 783,
+    "descendants": 409
+  },
+  {
+    "id": 49289844,
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "score": 550,
+    "descendants": 231
+  },
+  {
+    "id": 49290166,
+    "title": "Hello, me. It's been a while",
+    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+    "score": 168,
+    "descendants": 68
+  },
+  {
+    "id": 49293324,
+    "title": "Bluesky Protocol Services",
+    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+    "score": 150,
+    "descendants": 27
+  }
+]

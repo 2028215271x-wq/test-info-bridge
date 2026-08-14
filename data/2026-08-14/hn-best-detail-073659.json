@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49272832,
+    "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 1182,
+    "descendants": 228
+  },
+  {
+    "id": 49274600,
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 1021,
+    "descendants": 442
+  },
+  {
+    "id": 49271994,
+    "title": "AI is removing the middle class of software engineering?",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "score": 971,
+    "descendants": 900
+  },
+  {
+    "id": 49289112,
+    "title": "Gemini 3.7 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "score": 783,
+    "descendants": 409
+  },
+  {
+    "id": 49273478,
+    "title": "Qwen3.8-2.4T",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "score": 701,
+    "descendants": 169
+  }
+]
