@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49299605,
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 453,
+    "descendants": 319
+  },
+  {
+    "id": 49301260,
+    "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+    "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+    "score": 224,
+    "descendants": 135
+  },
+  {
+    "id": 49299675,
+    "title": "Seven books I keep close because I love them",
+    "url": "https://blog.plover.com/2026/08/02/",
+    "score": 184,
+    "descendants": 76
+  },
+  {
+    "id": 49300759,
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "score": 99,
+    "descendants": 38
+  },
+  {
+    "id": 49296740,
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "score": 519,
+    "descendants": 483
+  }
+]
