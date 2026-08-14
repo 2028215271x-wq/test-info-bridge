@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49272832,
+    "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 1176,
+    "descendants": 227
+  },
+  {
+    "id": 49274600,
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 1017,
+    "descendants": 440
+  },
+  {
+    "id": 49271994,
+    "title": "AI is removing the middle class of software engineering?",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "score": 963,
+    "descendants": 891
+  },
+  {
+    "id": 49273478,
+    "title": "Qwen3.8-2.4T",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "score": 700,
+    "descendants": 168
+  },
+  {
+    "id": 49270726,
+    "title": "uBlock Origin is giving up the fight to keep ads off Facebook",
+    "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+    "score": 683,
+    "descendants": 841
+  }
+]
