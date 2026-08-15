@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49303202,
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "score": 1554,
+    "descendants": 589
+  },
+  {
+    "id": 49299605,
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 1299,
+    "descendants": 752
+  },
+  {
+    "id": 49294997,
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "url": "https://z.ai/blog/glm-5.3",
+    "score": 1124,
+    "descendants": 552
+  },
+  {
+    "id": 49296740,
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "score": 919,
+    "descendants": 825
+  },
+  {
+    "id": 49299222,
+    "title": "Every Fucking Website (2020)",
+    "url": "https://lxe.github.io/everywebsite/",
+    "score": 825,
+    "descendants": 472
+  }
+]
