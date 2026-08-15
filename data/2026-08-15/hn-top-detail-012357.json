@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49299605,
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 895,
+    "descendants": 582
+  },
+  {
+    "id": 49304447,
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "score": 191,
+    "descendants": 116
+  },
+  {
+    "id": 49305708,
+    "title": "The case for overhauling American science",
+    "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+    "score": 33,
+    "descendants": 13
+  },
+  {
+    "id": 49305558,
+    "title": "Stop sending me huge PRs; a rant",
+    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+    "score": 57,
+    "descendants": 38
+  },
+  {
+    "id": 49305492,
+    "title": "RISC-V: They should have known better",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "score": 113,
+    "descendants": 66
+  }
+]
