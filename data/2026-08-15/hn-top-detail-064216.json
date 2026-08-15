@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49299605,
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 1048,
+    "descendants": 665
+  },
+  {
+    "id": 49282951,
+    "title": "Coin-sized device can hack a Boeing 737",
+    "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+    "score": 35,
+    "descendants": 8
+  },
+  {
+    "id": 49308073,
+    "title": "\"That's not SoC 2 compliant\"",
+    "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+    "score": 13,
+    "descendants": 5
+  },
+  {
+    "id": 49307592,
+    "title": "The other Sean Byrne doesn't exist",
+    "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "score": 41,
+    "descendants": 12
+  },
+  {
+    "id": 49304447,
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "score": 293,
+    "descendants": 140
+  }
+]
