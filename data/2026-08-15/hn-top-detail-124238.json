@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49309549,
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "score": 49,
+    "descendants": 9
+  },
+  {
+    "id": 49307592,
+    "title": "The other Sean Byrne doesn't exist",
+    "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "score": 241,
+    "descendants": 120
+  },
+  {
+    "id": 49299605,
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 1203,
+    "descendants": 718
+  },
+  {
+    "id": 49237183,
+    "title": "The mathematical beauty of hyperbezier curves",
+    "url": "https://linebender.org/blog/hyperbezier/",
+    "score": 42,
+    "descendants": 2
+  },
+  {
+    "id": 49308685,
+    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "score": 35,
+    "descendants": 15
+  }
+]
