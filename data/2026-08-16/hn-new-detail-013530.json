@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49316030,
+    "title": "California Energy Storage System Survey",
+    "url": "https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-energy-storage-system-survey",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49316015,
+    "title": "Theory of Constraints",
+    "url": "https://en.wikipedia.org/wiki/Theory_of_constraints",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49316012,
+    "title": "Destroying My Homelab with Kubernetes \u2013 Linux Society UNSW 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=U-xqxMQD2QE",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49315995,
+    "title": "Guiding Ships with Moire Patterns",
+    "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49315975,
+    "title": "TrueStar \u2013 AI moderated expert interviews and multi-agent deep research",
+    "url": "https://truestar.tech",
+    "score": 1,
+    "descendants": 0
+  }
+]
