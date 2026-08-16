@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49303202,
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "score": 1672,
+    "descendants": 649
+  },
+  {
+    "id": 49299605,
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 1375,
+    "descendants": 775
+  },
+  {
+    "id": 49296740,
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "score": 944,
+    "descendants": 836
+  },
+  {
+    "id": 49299222,
+    "title": "Every Fucking Website (2020)",
+    "url": "https://lxe.github.io/everywebsite/",
+    "score": 842,
+    "descendants": 474
+  },
+  {
+    "id": 49300314,
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "score": 485,
+    "descendants": 282
+  }
+]
