@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49268565,
+    "title": "A SAT Attack on Tarski's High School Algebra Problem",
+    "url": "https://arxiv.org/abs/2608.08421",
+    "score": 10,
+    "descendants": 0
+  },
+  {
+    "id": 49268580,
+    "title": "Asus Bike Booster",
+    "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+    "score": 476,
+    "descendants": 316
+  },
+  {
+    "id": 49277153,
+    "title": "Superconducting monolayer cuprate with a single CuO2 plane",
+    "url": "https://www.nature.com/articles/s41586-026-10857-1",
+    "score": 27,
+    "descendants": 7
+  },
+  {
+    "id": 49292385,
+    "title": "Chestnut \u2013 eGPU dock with open-source firmware",
+    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+    "score": 40,
+    "descendants": 7
+  },
+  {
+    "id": 49243061,
+    "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+    "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+    "score": 191,
+    "descendants": 21
+  }
+]

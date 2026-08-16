@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49303202,
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "score": 1694,
+    "descendants": 672
+  },
+  {
+    "id": 49299605,
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 1391,
+    "descendants": 780
+  },
+  {
+    "id": 49299222,
+    "title": "Every Fucking Website (2020)",
+    "url": "https://lxe.github.io/everywebsite/",
+    "score": 850,
+    "descendants": 476
+  },
+  {
+    "id": 49312845,
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "score": 520,
+    "descendants": 451
+  },
+  {
+    "id": 49300314,
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "score": 488,
+    "descendants": 282
+  }
+]
