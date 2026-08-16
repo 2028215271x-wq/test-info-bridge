@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49303202,
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "score": 1701,
+    "descendants": 686
+  },
+  {
+    "id": 49312845,
+    "title": "AI isn\u2019t outthinking mathematicians, it\u2019s out-remembering them",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "score": 561,
+    "descendants": 471
+  },
+  {
+    "id": 49311651,
+    "title": "Semaglutide linked to lower predicted dementia risk",
+    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+    "score": 468,
+    "descendants": 368
+  },
+  {
+    "id": 49304447,
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "score": 454,
+    "descendants": 242
+  },
+  {
+    "id": 49309549,
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "score": 435,
+    "descendants": 90
+  }
+]
