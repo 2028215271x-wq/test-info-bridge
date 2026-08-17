@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49334544,
+    "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+    "score": 68,
+    "descendants": 22
+  },
+  {
+    "id": 49330781,
+    "title": "A Preview of DuckDB v2.0",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "score": 353,
+    "descendants": 57
+  },
+  {
+    "id": 49331423,
+    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "score": 200,
+    "descendants": 90
+  },
+  {
+    "id": 49330597,
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "score": 284,
+    "descendants": 748
+  },
+  {
+    "id": 49331220,
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "score": 153,
+    "descendants": 64
+  }
+]
