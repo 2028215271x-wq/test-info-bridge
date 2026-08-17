@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49324985,
+    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "score": 593,
+    "descendants": 284
+  },
+  {
+    "id": 49325789,
+    "title": "On A.I. regulation and messaging",
+    "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "score": 134,
+    "descendants": 229
+  },
+  {
+    "id": 49329575,
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "score": 5,
+    "descendants": 1
+  },
+  {
+    "id": 49324087,
+    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "score": 407,
+    "descendants": 393
+  },
+  {
+    "id": 49284983,
+    "title": "How Go detects struct copies with sync.noCopy",
+    "url": "https://func25.dev/posts/go-sync-nocopy/",
+    "score": 9,
+    "descendants": 6
+  }
+]
