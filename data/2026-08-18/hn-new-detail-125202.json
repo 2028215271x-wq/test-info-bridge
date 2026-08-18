@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49344894,
+    "title": "My article was No.1 on Hacker News",
+    "url": "https://elizabethtai.com/2026/08/16/my-article-was-no-1-on-hacker-news/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49344889,
+    "title": "Exploring Firefox DevTools",
+    "url": "https://blinry.org/firefox-devtools/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49344883,
+    "title": "AI Stock Research Assistant \u00b7 Streamlit",
+    "url": "https://ai-stock-research-kiaan.streamlit.app",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49344869,
+    "title": "Reddit's AI is turning posts into podcasts and short videos",
+    "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49344861,
+    "title": "Illiac IV and the Connection Machine \u2013 By Eric Gilliam",
+    "url": "https://www.freaktakes.com/p/illiac-iv-and-the-connection-machine",
+    "score": 2,
+    "descendants": 0
+  }
+]

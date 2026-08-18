@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49342719,
+    "title": "Linux 7.3 improves performance when running out of vRAM",
+    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "score": 273,
+    "descendants": 84
+  },
+  {
+    "id": 49343559,
+    "title": "Google buys crashed airline Spirit's data at auction, because AI",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "score": 191,
+    "descendants": 113
+  },
+  {
+    "id": 49338459,
+    "title": "How Bluesky draws its logo on screenshots",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "score": 593,
+    "descendants": 375
+  },
+  {
+    "id": 49272631,
+    "title": "Teaching my kid to code with a modern MUD",
+    "url": "https://tau.dev/2026/08/07/canon",
+    "score": 22,
+    "descendants": 4
+  },
+  {
+    "id": 49342530,
+    "title": "Rethinking Database Programming",
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "score": 111,
+    "descendants": 52
+  }
+]
