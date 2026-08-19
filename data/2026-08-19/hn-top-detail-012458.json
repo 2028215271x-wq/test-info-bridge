@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49353221,
+    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "score": 140,
+    "descendants": 33
+  },
+  {
+    "id": 49345263,
+    "title": "The Amazon tax",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "score": 924,
+    "descendants": 535
+  },
+  {
+    "id": 49354613,
+    "title": "Solo \u2013 a .so loader for static Linux binaries",
+    "url": "https://github.com/pg83/solo",
+    "score": 32,
+    "descendants": 36
+  },
+  {
+    "id": 49349984,
+    "title": "How does IKEA come up with names for its products?",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "score": 222,
+    "descendants": 140
+  },
+  {
+    "id": 49354664,
+    "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+    "url": "https://modelmap.cc",
+    "score": 28,
+    "descendants": 3
+  }
+]
