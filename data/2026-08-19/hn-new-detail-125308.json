@@ -1,0 +1,34 @@
+[
+  {
+    "id": 49360923,
+    "title": "GPS-01: A simplified interactive explainer of how GPS works",
+    "url": "https://gps-01.dmytro.fyi/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49360906,
+    "error": "<urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+    "id": 49360903,
+    "title": "Carno.js \u2013 a Nest-style application framework for Bun",
+    "url": "https://github.com/carnojs/carno.js",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49360886,
+    "title": "California regulators restrict by 70% what replacement tires you can buy",
+    "url": "https://www.kcra.com/article/san-joaquin-county-maintenance-district-fee-increase/73470859",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49360877,
+    "title": "PulseMarkt \u2013 An AI-powered marketplace for discovering trending products",
+    "url": "https://www.pulsemarkt.com/",
+    "score": 1,
+    "descendants": 0
+  }
+]
