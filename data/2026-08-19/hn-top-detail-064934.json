@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49355606,
+    "title": "OpenLogi",
+    "url": "https://openlogi.org/en",
+    "score": 316,
+    "descendants": 60
+  },
+  {
+    "id": 49306207,
+    "title": "Supersonic Trebuchet [video]",
+    "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+    "score": 53,
+    "descendants": 4
+  },
+  {
+    "id": 49355968,
+    "title": "Palomar: A registry of Lean verified mathematics",
+    "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+    "score": 64,
+    "descendants": 13
+  },
+  {
+    "id": 49355105,
+    "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+    "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+    "score": 147,
+    "descendants": 91
+  },
+  {
+    "id": 49353221,
+    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "score": 238,
+    "descendants": 79
+  }
+]
