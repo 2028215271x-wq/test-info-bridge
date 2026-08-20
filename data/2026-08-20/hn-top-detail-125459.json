@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49371857,
+    "title": "Don't Paste the AI, please",
+    "url": "https://dontpastetheai.com/",
+    "score": 620,
+    "descendants": 300
+  },
+  {
+    "id": 49372583,
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "score": 197,
+    "descendants": 61
+  },
+  {
+    "id": 49373456,
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "score": 40,
+    "descendants": 7
+  },
+  {
+    "id": 49371006,
+    "title": "Windows brings out the Rorschach test in everyone (2003)",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "score": 254,
+    "descendants": 97
+  },
+  {
+    "id": 49364559,
+    "title": "OpenRouter is joining Stripe",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "score": 895,
+    "descendants": 458
+  }
+]
