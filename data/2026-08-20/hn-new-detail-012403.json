@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49369375,
+    "title": "Show HN: Mirotalk WebRTC Story",
+    "url": "https://docs.mirotalk.com/story/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49369372,
+    "title": "The war on data centres is a bit fake",
+    "url": "https://www.economist.com/business/2026/08/19/the-war-on-data-centres-is-a-bit-fake",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49369355,
+    "title": "Misse Peace Polymers Atomic Oxygen Erosion Results [pdf]",
+    "url": "https://ntrs.nasa.gov/api/citations/20070002707/downloads/20070002707.pdf",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49369347,
+    "title": "Parsing IP addresses in C# at crazy speeds",
+    "url": "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49369345,
+    "title": "Blastproof \u2013 E2E tests in plain English, no CSS selectors anywhere",
+    "url": "https://github.com/hamc/blastproof",
+    "score": 1,
+    "descendants": 1
+  }
+]
