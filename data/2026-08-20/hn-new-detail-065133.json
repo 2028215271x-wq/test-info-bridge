@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49371260,
+    "title": "Story of Roomy",
+    "url": "https://story.roomy.space",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49371250,
+    "title": "What if SELECT, FROM, WHERE were functions?",
+    "url": "https://remy.wang/blog/prela.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49371211,
+    "title": "Show HN: Do-over, undo for AI agent shell commands",
+    "url": "https://github.com/CaydenChik/doover",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49371195,
+    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49371169,
+    "title": "AI is changing how we code. Is this positive?",
+    "url": "",
+    "score": 1,
+    "descendants": 1
+  }
+]
