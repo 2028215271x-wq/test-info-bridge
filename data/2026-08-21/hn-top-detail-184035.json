@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49390427,
+    "title": "Kobo can run apps now",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "score": 118,
+    "descendants": 48
+  },
+  {
+    "id": 49388154,
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "url": "https://kagi.com/changelog#11296",
+    "score": 750,
+    "descendants": 271
+  },
+  {
+    "id": 49389430,
+    "title": "Felony Bench",
+    "url": "https://www.felonybench.com/",
+    "score": 160,
+    "descendants": 72
+  },
+  {
+    "id": 49387570,
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "score": 246,
+    "descendants": 32
+  },
+  {
+    "id": 49386163,
+    "title": "DeepSeek-v4-flash-vision-exp",
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "score": 388,
+    "descendants": 126
+  }
+]
