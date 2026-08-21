@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49383326,
+    "title": "Codex on AWS bedrock bug causing 10x charges",
+    "url": "https://github.com/openai/codex/issues/37674",
+    "score": 96,
+    "descendants": 30
+  },
+  {
+    "id": 49378957,
+    "title": "The August 17 outage",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "score": 454,
+    "descendants": 514
+  },
+  {
+    "id": 49347543,
+    "title": "I like 'em thick: an apology to my English teachers",
+    "url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "score": 678,
+    "descendants": 282
+  },
+  {
+    "id": 49362689,
+    "title": "HTML Can Do That",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "score": 705,
+    "descendants": 178
+  },
+  {
+    "id": 49384224,
+    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+    "score": 12,
+    "descendants": 3
+  }
+]
