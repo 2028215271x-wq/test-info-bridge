@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49400408,
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "url": "https://quantumi.sh/public/labs.html",
+    "score": 137,
+    "descendants": 57
+  },
+  {
+    "id": 49399898,
+    "title": "A Friendly Introduction to Racket",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "score": 73,
+    "descendants": 20
+  },
+  {
+    "id": 49355659,
+    "title": "RF Cafe",
+    "url": "https://www.rfcafe.com/",
+    "score": 37,
+    "descendants": 7
+  },
+  {
+    "id": 49398152,
+    "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+    "url": "https://munderdiffl.in/",
+    "score": 204,
+    "descendants": 83
+  },
+  {
+    "id": 49399591,
+    "title": "New MCP Roadmap",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "score": 129,
+    "descendants": 98
+  }
+]
