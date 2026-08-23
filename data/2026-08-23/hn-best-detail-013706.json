@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49388154,
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "url": "https://kagi.com/changelog#11296",
+    "score": 1232,
+    "descendants": 389
+  },
+  {
+    "id": 49386895,
+    "title": "Felony charges for citizen deleting phone data at US Border",
+    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "score": 1050,
+    "descendants": 1282
+  },
+  {
+    "id": 49389430,
+    "title": "Felony Bench",
+    "url": "https://www.felonybench.com/",
+    "score": 818,
+    "descendants": 334
+  },
+  {
+    "id": 49387497,
+    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+    "score": 688,
+    "descendants": 393
+  },
+  {
+    "id": 49387570,
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "score": 651,
+    "descendants": 83
+  }
+]

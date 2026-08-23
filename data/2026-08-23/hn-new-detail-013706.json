@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49405473,
+    "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
+    "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49405471,
+    "title": "Microsoft Entra ID Remote Code Execution Vulnerability",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69836",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49405437,
+    "title": "Signing JSON Web Tokens: Algorithm Tradeoffs, Performance, and Security",
+    "url": "https://ciamweekly.substack.com/p/signing-json-web-tokens-algorithm",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49405423,
+    "title": "FERC approves SPP 'topology optimization' plan for cutting grid congestion",
+    "url": "https://www.utilitydive.com/news/ferc-spp-topology-optimization-grid-congestion/828366/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49405405,
+    "title": "Show HN: Hands-Rust MCP/CLI that sees the Windows desktop and clicks real Chrome",
+    "url": "",
+    "score": 1,
+    "descendants": 0
+  }
+]
