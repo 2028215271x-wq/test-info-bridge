@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49405816,
+    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+    "url": "https://martypc.net/",
+    "score": 75,
+    "descendants": 14
+  },
+  {
+    "id": 49405870,
+    "title": "The Golden Rule for Becoming a Better Writer",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "score": 51,
+    "descendants": 27
+  },
+  {
+    "id": 49406333,
+    "title": "The End of an Athlon",
+    "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+    "score": 13,
+    "descendants": 0
+  },
+  {
+    "id": 49405682,
+    "title": "I Dream of Quieter Computing",
+    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "score": 47,
+    "descendants": 16
+  },
+  {
+    "id": 49405331,
+    "title": "The Art and Beauty of Blade Runner (2015)",
+    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+    "score": 53,
+    "descendants": 13
+  }
+]
