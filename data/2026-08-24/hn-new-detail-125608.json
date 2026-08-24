@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49419121,
+    "title": "Show HN: FOMOSnap, Omarchy's screenshot tool ported to macOS",
+    "url": "https://github.com/redox/fomosnap",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49419112,
+    "title": "Show HN: FreeSupp \u2013 minimal email-based support system (chat widget and Inbox)",
+    "url": "https://github.com/kooler/freesupp",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49419111,
+    "title": "ISO/IEC DIS 26791-1 \u2013 The RISC-V instruction set manual",
+    "url": "https://www.iso.org/standard/94578.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49419104,
+    "title": "LLM Text Watermarking, by Hand",
+    "url": "https://srcecde.me/notes/llm-watermarking-by-hand/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49419096,
+    "title": "Testing WebGPU data layouts with Facet",
+    "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
+    "score": 1,
+    "descendants": 0
+  }
+]
