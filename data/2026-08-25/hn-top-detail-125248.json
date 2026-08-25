@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49432319,
+    "title": "Don't Wordle",
+    "url": "https://dontwordle.com/",
+    "score": 48,
+    "descendants": 15
+  },
+  {
+    "id": 49433064,
+    "title": "France's tax agency got hacked (in French)",
+    "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+    "score": 4,
+    "descendants": 0
+  },
+  {
+    "id": 49432227,
+    "title": "HelloAssembly The smallest possible complete Windows application",
+    "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+    "score": 13,
+    "descendants": 11
+  },
+  {
+    "id": 49426564,
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "score": 512,
+    "descendants": 155
+  },
+  {
+    "id": 49421158,
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "score": 757,
+    "descendants": 368
+  }
+]
