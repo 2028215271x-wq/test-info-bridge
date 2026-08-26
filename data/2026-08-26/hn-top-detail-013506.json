@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49439017,
+    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+    "score": 255,
+    "descendants": 144
+  },
+  {
+    "id": 49433292,
+    "title": "Apple introduces M6 and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "score": 952,
+    "descendants": 898
+  },
+  {
+    "id": 49434378,
+    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "score": 321,
+    "descendants": 222
+  },
+  {
+    "id": 49433316,
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "score": 702,
+    "descendants": 446
+  },
+  {
+    "id": 49440410,
+    "title": "When str.lower() is a security vulnerability in Python \u2013 Seth Larson",
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "score": 57,
+    "descendants": 29
+  }
+]
