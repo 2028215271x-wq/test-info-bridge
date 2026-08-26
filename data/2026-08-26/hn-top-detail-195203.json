@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49452990,
+    "title": "Tailcat",
+    "url": "https://github.com/tailscale/tailcat",
+    "score": 222,
+    "descendants": 37
+  },
+  {
+    "id": 49453510,
+    "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
+    "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
+    "score": 135,
+    "descendants": 51
+  },
+  {
+    "id": 49449507,
+    "title": "GLM-5.3-Flash",
+    "url": "https://z.ai/blog/glm-5.3-flash",
+    "score": 670,
+    "descendants": 312
+  },
+  {
+    "id": 49452980,
+    "title": "An ongoing 3D-printer AGPL violation",
+    "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+    "score": 151,
+    "descendants": 49
+  },
+  {
+    "id": 49448321,
+    "title": "AWS Acquires DuckLabs",
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "score": 837,
+    "descendants": 239
+  }
+]

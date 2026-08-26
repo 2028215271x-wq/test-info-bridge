@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49438052,
+    "title": "Dolly Parton has died",
+    "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+    "score": 1544,
+    "descendants": 238
+  },
+  {
+    "id": 49433292,
+    "title": "Apple introduces M6 and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "score": 1278,
+    "descendants": 1239
+  },
+  {
+    "id": 49437283,
+    "title": "Nitter and XCancel receive cease and desist notices",
+    "url": "https://github.com/zedeus/nitter/issues/1442",
+    "score": 1130,
+    "descendants": 1077
+  },
+  {
+    "id": 49448321,
+    "title": "AWS Acquires DuckLabs",
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "score": 837,
+    "descendants": 239
+  },
+  {
+    "id": 49433316,
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "score": 814,
+    "descendants": 543
+  }
+]
