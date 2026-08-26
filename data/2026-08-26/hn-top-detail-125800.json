@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49447682,
+    "title": "Omarchy is full of security holes",
+    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+    "score": 156,
+    "descendants": 138
+  },
+  {
+    "id": 49445727,
+    "title": "RAG Is Simpler Than You Think",
+    "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+    "score": 170,
+    "descendants": 83
+  },
+  {
+    "id": 49445873,
+    "title": "Oldinsurancemaps.net is now a Charter Project",
+    "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+    "score": 97,
+    "descendants": 15
+  },
+  {
+    "id": 49446422,
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "score": 203,
+    "descendants": 89
+  },
+  {
+    "id": 49446210,
+    "title": "XCancel and Nitter are receiving C&D letters from XCorp",
+    "url": "",
+    "score": 109,
+    "descendants": 38
+  }
+]
