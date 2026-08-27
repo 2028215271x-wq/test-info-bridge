@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49458161,
+    "title": "Nvidia agrees to acquire Hugging Face for $13B",
+    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+    "score": 978,
+    "descendants": 418
+  },
+  {
+    "id": 49457545,
+    "title": "Mechanical Turk shutting down September 30",
+    "url": "https://www.mturk.com/",
+    "score": 319,
+    "descendants": 86
+  },
+  {
+    "id": 49449507,
+    "title": "GLM-5.3-Flash",
+    "url": "https://z.ai/blog/glm-5.3-flash",
+    "score": 1005,
+    "descendants": 504
+  },
+  {
+    "id": 49456851,
+    "title": "Asahi Linux Progress Report: Linux 7.2",
+    "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+    "score": 251,
+    "descendants": 79
+  },
+  {
+    "id": 49452990,
+    "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
+    "url": "https://github.com/tailscale/tailcat",
+    "score": 562,
+    "descendants": 99
+  }
+]
