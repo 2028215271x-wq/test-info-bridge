@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49458161,
+    "title": "Nvidia agrees to acquire Hugging Face for $13B",
+    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+    "score": 1801,
+    "descendants": 839
+  },
+  {
+    "id": 49449507,
+    "title": "GLM-5.3-Flash",
+    "url": "https://z.ai/blog/glm-5.3-flash",
+    "score": 1103,
+    "descendants": 552
+  },
+  {
+    "id": 49448321,
+    "title": "AWS Acquires DuckLabs",
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "score": 1078,
+    "descendants": 312
+  },
+  {
+    "id": 49458418,
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "url": "https://github.com/SenteLabsAI/OpenExecutive",
+    "score": 919,
+    "descendants": 631
+  },
+  {
+    "id": 49452709,
+    "title": "U.S. State Department pauses immigrant visa applications",
+    "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+    "score": 780,
+    "descendants": 1273
+  }
+]

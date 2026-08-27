@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49468083,
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "score": 360,
+    "descendants": 104
+  },
+  {
+    "id": 49466917,
+    "title": "Small Models Have Arrived",
+    "url": "https://calv.info/small-models-have-arrived",
+    "score": 350,
+    "descendants": 154
+  },
+  {
+    "id": 49465169,
+    "title": "507 Mechanical Movements",
+    "url": "https://507movements.com/",
+    "score": 414,
+    "descendants": 62
+  },
+  {
+    "id": 49468642,
+    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+    "score": 122,
+    "descendants": 91
+  },
+  {
+    "id": 49471407,
+    "title": "Show HN: We built open OpenRouter that distills usage into a better model",
+    "url": "https://github.com/experientiallabs/experiential",
+    "score": 7,
+    "descendants": 0
+  }
+]
