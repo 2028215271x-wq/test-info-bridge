@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49476143,
+    "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
+    "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+    "score": 42,
+    "descendants": 5
+  },
+  {
+    "id": 49468083,
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "score": 768,
+    "descendants": 225
+  },
+  {
+    "id": 49466917,
+    "title": "Small Models Have Arrived",
+    "url": "https://calv.info/small-models-have-arrived",
+    "score": 647,
+    "descendants": 295
+  },
+  {
+    "id": 49474786,
+    "title": "Sovereign Tech Agency invests \u20ac500k in Flatpak",
+    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+    "score": 128,
+    "descendants": 73
+  },
+  {
+    "id": 49465169,
+    "title": "507 Mechanical Movements",
+    "url": "https://507movements.com/",
+    "score": 587,
+    "descendants": 74
+  }
+]
