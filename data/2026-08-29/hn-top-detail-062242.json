@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49486172,
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "score": 354,
+    "descendants": 145
+  },
+  {
+    "id": 49485267,
+    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "score": 207,
+    "descendants": 66
+  },
+  {
+    "id": 49479837,
+    "title": "GUIs should be fully keyboard-driven",
+    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+    "score": 723,
+    "descendants": 357
+  },
+  {
+    "id": 49486334,
+    "title": "TurboKV: Insanely fast Rust key-value store",
+    "url": "https://github.com/kingroryg/turbokv",
+    "score": 62,
+    "descendants": 22
+  },
+  {
+    "id": 49478178,
+    "title": "Htmx 4.0",
+    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "score": 606,
+    "descendants": 150
+  }
+]
