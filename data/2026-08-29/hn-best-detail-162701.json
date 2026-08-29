@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49479837,
+    "title": "GUIs should be fully keyboard-driven",
+    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+    "score": 946,
+    "descendants": 467
+  },
+  {
+    "id": 49468083,
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "score": 899,
+    "descendants": 278
+  },
+  {
+    "id": 49466917,
+    "title": "Small Models Have Arrived",
+    "url": "https://calv.info/small-models-have-arrived",
+    "score": 782,
+    "descendants": 344
+  },
+  {
+    "id": 49479878,
+    "title": "GLM-5.3 is now open-weight",
+    "url": "https://huggingface.co/zai-org/GLM-5.3",
+    "score": 752,
+    "descendants": 260
+  },
+  {
+    "id": 49478178,
+    "title": "Htmx 4.0",
+    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "score": 749,
+    "descendants": 186
+  }
+]
