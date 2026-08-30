@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49494520,
+    "title": "Bug Blindness",
+    "url": "https://danluu.com/bug-blind/",
+    "score": 127,
+    "descendants": 49
+  },
+  {
+    "id": 49492632,
+    "title": "Hy4 preview",
+    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "score": 229,
+    "descendants": 137
+  },
+  {
+    "id": 49425252,
+    "title": "RISC-V is now officially supported by CPython",
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "score": 60,
+    "descendants": 7
+  },
+  {
+    "id": 49495127,
+    "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+    "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+    "score": 22,
+    "descendants": 10
+  },
+  {
+    "id": 49494856,
+    "title": "FreeCORE TrueNAS Core \u2013 Continued",
+    "url": "https://freecore.org/",
+    "score": 52,
+    "descendants": 28
+  }
+]
