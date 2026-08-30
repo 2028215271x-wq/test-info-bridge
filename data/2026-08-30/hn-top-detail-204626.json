@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49491791,
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "score": 629,
+    "descendants": 312
+  },
+  {
+    "id": 49499867,
+    "title": "Haiku R1/beta6 has been released",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "score": 182,
+    "descendants": 50
+  },
+  {
+    "id": 49502214,
+    "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+    "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+    "score": 13,
+    "descendants": 2
+  },
+  {
+    "id": 49499891,
+    "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+    "url": "https://komoroske.com/slime-mold/",
+    "score": 84,
+    "descendants": 35
+  },
+  {
+    "id": 49501611,
+    "title": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "score": 25,
+    "descendants": 13
+  }
+]
