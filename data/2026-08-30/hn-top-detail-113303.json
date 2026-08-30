@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49496782,
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "url": "https://arxiv.org/abs/1804.07389",
+    "score": 67,
+    "descendants": 15
+  },
+  {
+    "id": 49496918,
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "score": 47,
+    "descendants": 12
+  },
+  {
+    "id": 49497265,
+    "title": "Spark: Sparklines in your shell",
+    "url": "https://git.zx2c4.com/spark/about/",
+    "score": 18,
+    "descendants": 2
+  },
+  {
+    "id": 49497063,
+    "title": "Brits would quite like their private messages to stay private",
+    "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+    "score": 98,
+    "descendants": 58
+  },
+  {
+    "id": 49497200,
+    "title": "Everyone Should Build Their Own Network Stack",
+    "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+    "score": 15,
+    "descendants": 7
+  }
+]
