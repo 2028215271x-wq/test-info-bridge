@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49491791,
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "score": 230,
+    "descendants": 83
+  },
+  {
+    "id": 49499867,
+    "title": "Haiku R1/beta6 has been released",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "score": 16,
+    "descendants": 3
+  },
+  {
+    "id": 49497810,
+    "title": "Hacking IKEA Furniture",
+    "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+    "score": 137,
+    "descendants": 73
+  },
+  {
+    "id": 49463888,
+    "title": "Casey Muratori \u2013 The Root of the Root of All Evil \u2013 BSC 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+    "score": 174,
+    "descendants": 72
+  },
+  {
+    "id": 49496918,
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "score": 143,
+    "descendants": 60
+  }
+]
