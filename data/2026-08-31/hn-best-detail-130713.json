@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49491791,
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "score": 1251,
+    "descendants": 627
+  },
+  {
+    "id": 49503601,
+    "title": "\u201cI just chose words carefully\u201d",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "score": 934,
+    "descendants": 247
+  },
+  {
+    "id": 49495372,
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "score": 757,
+    "descendants": 376
+  },
+  {
+    "id": 49489982,
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "url": "https://lwn.net/Articles/1091231/",
+    "score": 509,
+    "descendants": 472
+  },
+  {
+    "id": 49499854,
+    "title": "Omarchy: Any User Process Can Escalate to Root",
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "score": 505,
+    "descendants": 497
+  }
+]
