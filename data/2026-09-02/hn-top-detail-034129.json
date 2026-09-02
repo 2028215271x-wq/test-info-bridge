@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49525378,
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "score": 989,
+    "descendants": 928
+  },
+  {
+    "id": 49526069,
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "score": 494,
+    "descendants": 570
+  },
+  {
+    "id": 49529898,
+    "title": "The efficient frontier of LLM inference",
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "score": 59,
+    "descendants": 9
+  },
+  {
+    "id": 49528895,
+    "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+    "url": "https://masteranza.github.io/weedout/",
+    "score": 80,
+    "descendants": 25
+  },
+  {
+    "id": 49529132,
+    "title": "My local model setup on an M4 Pro Mac Mini",
+    "url": "https://lws.io/blog/my-local-model-setup/",
+    "score": 96,
+    "descendants": 42
+  }
+]
