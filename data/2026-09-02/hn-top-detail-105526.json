@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49533497,
+    "title": "Commodore 64 released September 1, 1982",
+    "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+    "score": 83,
+    "descendants": 15
+  },
+  {
+    "id": 49525378,
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "score": 1265,
+    "descendants": 1188
+  },
+  {
+    "id": 49531651,
+    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+    "url": "https://arxiv.org/abs/2608.29530",
+    "score": 157,
+    "descendants": 54
+  },
+  {
+    "id": 49526069,
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "score": 728,
+    "descendants": 796
+  },
+  {
+    "id": 49524863,
+    "title": "Fine, I'll build my own text editor",
+    "url": "https://dbushell.com/2026/09/01/text-editor/",
+    "score": 142,
+    "descendants": 125
+  }
+]
