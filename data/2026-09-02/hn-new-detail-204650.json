@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49542302,
+    "title": "What's My Number?",
+    "url": "https://drorspei.com/whatsmynumber/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49542289,
+    "title": "I rented a car, and within hours my driver's license was for sale",
+    "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49542279,
+    "title": "Chinese Cars Could Be Huge in U.S., and That's the Problem, Officials Say",
+    "url": "https://www.nytimes.com/2026/08/31/business/chinese-cars-us-sales-ban.html",
+    "score": 3,
+    "descendants": 1
+  },
+  {
+    "id": 49542268,
+    "title": "Assault Rifle in an Open-Cockpit Plane: Ukraine's Unlikely Drone Hunters [video]",
+    "url": "https://www.youtube.com/watch?v=gBxQixJfOzk",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49542256,
+    "title": "Finger: The 1971 Social network that never died",
+    "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/?_hsenc=p2ANqtz--pv4fybuzHFB-CcNoPFCmJvV1uVEx1ErZOdppjR3S15eLesh4SVPA9RP8miw8dX2BUzCaCIYCII8X-5uw3EFD1kel1bg&_hsmi=436773493",
+    "score": 1,
+    "descendants": 0
+  }
+]
