@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49537553,
+    "title": "Gemini 3.8 Flash",
+    "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+    "score": 199,
+    "descendants": 103
+  },
+  {
+    "id": 49535752,
+    "title": "A Note from LWN",
+    "url": "https://lwn.net/Articles/1090585/",
+    "score": 436,
+    "descendants": 91
+  },
+  {
+    "id": 49536384,
+    "title": "GrapheneOS says Pixel 11 has MTE support after all",
+    "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+    "score": 89,
+    "descendants": 57
+  },
+  {
+    "id": 49535284,
+    "title": "Mistral now trains on user input by default, except on enterprise tier",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "score": 168,
+    "descendants": 77
+  },
+  {
+    "id": 49536079,
+    "title": "Biggest dark matter detector spots a single weird particle",
+    "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+    "score": 105,
+    "descendants": 18
+  }
+]
