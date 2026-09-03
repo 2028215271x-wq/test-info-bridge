@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49548395,
+    "title": "Audacity 4.0",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "score": 693,
+    "descendants": 164
+  },
+  {
+    "id": 49551589,
+    "title": "Grok Outage",
+    "url": "https://status.x.ai/",
+    "score": 90,
+    "descendants": 65
+  },
+  {
+    "id": 49551925,
+    "title": "Sony makes bold claim about game ownership",
+    "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+    "score": 24,
+    "descendants": 9
+  },
+  {
+    "id": 49550614,
+    "title": "ChatGPT Is Throwing 404",
+    "url": "https://chatgpt.com/",
+    "score": 322,
+    "descendants": 248
+  },
+  {
+    "id": 49550698,
+    "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+    "url": "https://anyhumanever.com/",
+    "score": 63,
+    "descendants": 36
+  }
+]
