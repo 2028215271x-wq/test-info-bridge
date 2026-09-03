@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49546753,
+    "title": "Pre-Release of Polars 2.0",
+    "url": "https://pola.rs/posts/announcing-polars-2/",
+    "score": 182,
+    "descendants": 35
+  },
+  {
+    "id": 49522137,
+    "title": "The Browser's Main Thread Is Expensive",
+    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "score": 91,
+    "descendants": 30
+  },
+  {
+    "id": 49541256,
+    "title": "Muse Spark 1.3",
+    "url": "https://developer.meta.com/ai/models/muse-spark/",
+    "score": 594,
+    "descendants": 391
+  },
+  {
+    "id": 49537553,
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "score": 1038,
+    "descendants": 579
+  },
+  {
+    "id": 49513721,
+    "title": "Fish Bad, Sugar Good and Other Medieval Ideas About Food",
+    "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
+    "score": 10,
+    "descendants": 0
+  }
+]
