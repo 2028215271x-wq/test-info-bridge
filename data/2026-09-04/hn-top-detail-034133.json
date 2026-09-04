@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49554643,
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "score": 1434,
+    "descendants": 1195
+  },
+  {
+    "id": 49550772,
+    "title": ".name Termination",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "score": 1462,
+    "descendants": 400
+  },
+  {
+    "id": 49559522,
+    "title": "Project Xanadu: Even More Hindsight",
+    "url": "https://gwern.net/xanadu",
+    "score": 23,
+    "descendants": 2
+  },
+  {
+    "id": 49554520,
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "score": 473,
+    "descendants": 145
+  },
+  {
+    "id": 49526453,
+    "title": "The largest electric aircraft just flew [video]",
+    "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+    "score": 220,
+    "descendants": 154
+  }
+]
