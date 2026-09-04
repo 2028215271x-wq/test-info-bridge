@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49562862,
+    "title": "Nvidia Agrees to Buy AI Platform Hugging Face for $13B",
+    "url": "https://www.wsj.com/tech/ai/nvidia-agrees-to-buy-hugging-face-for-13-billion-11929060",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49562849,
+    "title": "When the Compiler Is a PCB Factory",
+    "url": "https://www.kevin.md/my-pcb-has-a-compiler.md/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49562814,
+    "title": "US diesel prices hit a record high of $5.85 on average",
+    "url": "https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49562803,
+    "title": "Conserved water shapes the pathogenicity of missense variants in human proteins",
+    "url": "https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msag217/8776575",
+    "score": 2,
+    "descendants": 2
+  },
+  {
+    "id": 49562800,
+    "title": "NPM is experiencing elevated latency",
+    "url": "https://github.com/npm/cli/issues/9950",
+    "score": 2,
+    "descendants": 1
+  }
+]

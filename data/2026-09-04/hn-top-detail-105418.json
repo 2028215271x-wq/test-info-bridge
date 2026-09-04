@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49554643,
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "score": 1852,
+    "descendants": 1644
+  },
+  {
+    "id": 49550772,
+    "title": ".name Termination",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "score": 1866,
+    "descendants": 454
+  },
+  {
+    "id": 49561975,
+    "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+    "url": "https://carbonawarepricing.com/",
+    "score": 39,
+    "descendants": 15
+  },
+  {
+    "id": 49562062,
+    "title": "The Raspberry Pi Interactive Timeline \u00b7 2006\u20132026",
+    "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
+    "score": 29,
+    "descendants": 22
+  },
+  {
+    "id": 49554520,
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "score": 573,
+    "descendants": 189
+  }
+]

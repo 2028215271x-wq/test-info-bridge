@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49550772,
+    "title": ".name Termination",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "score": 1866,
+    "descendants": 454
+  },
+  {
+    "id": 49554643,
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "score": 1852,
+    "descendants": 1644
+  },
+  {
+    "id": 49537553,
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "score": 1144,
+    "descendants": 657
+  },
+  {
+    "id": 49548395,
+    "title": "Audacity 4.0",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "score": 1105,
+    "descendants": 251
+  },
+  {
+    "id": 49535752,
+    "title": "A note on subscription prices from LWN",
+    "url": "https://lwn.net/Articles/1090585/",
+    "score": 728,
+    "descendants": 149
+  }
+]
