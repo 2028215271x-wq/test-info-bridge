@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49563386,
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "score": 228,
+    "descendants": 39
+  },
+  {
+    "id": 49563355,
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "score": 678,
+    "descendants": 474
+  },
+  {
+    "id": 49562657,
+    "title": "Solving the Jane Street Reverse Engineering Challenge",
+    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+    "score": 244,
+    "descendants": 61
+  },
+  {
+    "id": 49554643,
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "score": 2016,
+    "descendants": 1834
+  },
+  {
+    "id": 49534936,
+    "title": "The Two Abstractions of System Design: Hide or Reduce",
+    "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+    "score": 44,
+    "descendants": 3
+  }
+]
