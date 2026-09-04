@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49568506,
+    "title": "Formalizing Fermat's Last Theorem",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "score": 219,
+    "descendants": 126
+  },
+  {
+    "id": 49563355,
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "score": 1244,
+    "descendants": 1015
+  },
+  {
+    "id": 49568579,
+    "title": "Shutting down our public encrypted DNS",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "score": 113,
+    "descendants": 24
+  },
+  {
+    "id": 49569366,
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "score": 31,
+    "descendants": 17
+  },
+  {
+    "id": 49567437,
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "url": "https://opentrailpaper.com",
+    "score": 147,
+    "descendants": 53
+  }
+]
