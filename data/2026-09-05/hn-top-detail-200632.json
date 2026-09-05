@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49578866,
+    "title": "The Luxuries in Life",
+    "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+    "score": 157,
+    "descendants": 49
+  },
+  {
+    "id": 49578280,
+    "title": "Learn Programming with OCaml",
+    "url": "https://usr.lmf.cnrs.fr/lpo/",
+    "score": 70,
+    "descendants": 27
+  },
+  {
+    "id": 49576386,
+    "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+    "score": 203,
+    "descendants": 64
+  },
+  {
+    "id": 49576343,
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "score": 58,
+    "descendants": 0
+  },
+  {
+    "id": 49563355,
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "score": 2001,
+    "descendants": 1483
+  }
+]
