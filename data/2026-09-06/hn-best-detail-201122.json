@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49586171,
+    "title": "QBittorrent breaks out of sandbox to commit crimes",
+    "url": "https://beige.party/@intransitivelie/117057396732763183",
+    "score": 1144,
+    "descendants": 229
+  },
+  {
+    "id": 49570669,
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "score": 791,
+    "descendants": 484
+  },
+  {
+    "id": 49571634,
+    "title": "Nitter has more working instances than before the takedowns",
+    "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+    "score": 705,
+    "descendants": 382
+  },
+  {
+    "id": 49580369,
+    "title": "Private German rocket makes history, reaches orbit from European soil",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+    "score": 699,
+    "descendants": 384
+  },
+  {
+    "id": 49582000,
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "score": 581,
+    "descendants": 286
+  }
+]
