@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49583096,
+    "title": "Seaside, Florida",
+    "url": "https://en.wikipedia.org/wiki/Seaside,_Florida",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49583058,
+    "title": "BLLM / ALLM \u2013 before and after LLM",
+    "url": "",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49583031,
+    "title": "VMware Intros Private AI Cloud",
+    "url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49583020,
+    "title": "I was offered money to scare you of AI [video]",
+    "url": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49583004,
+    "title": "Show HN: Laterbot \u2013 an anti-todo app for all the stuff you save for later",
+    "url": "https://laterbot.app/",
+    "score": 1,
+    "descendants": 1
+  }
+]
