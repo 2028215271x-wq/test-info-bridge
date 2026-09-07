@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49598291,
+    "title": "bzip3",
+    "url": "https://github.com/iczelia/bzip3",
+    "score": 196,
+    "descendants": 63
+  },
+  {
+    "id": 49593563,
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "score": 798,
+    "descendants": 201
+  },
+  {
+    "id": 49558685,
+    "title": "Simple Is Not Small",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "score": 79,
+    "descendants": 23
+  },
+  {
+    "id": 49596055,
+    "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+    "url": "https://mathathonchallenge.com/index.html",
+    "score": 150,
+    "descendants": 35
+  },
+  {
+    "id": 49600233,
+    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+    "url": "",
+    "score": 36,
+    "descendants": 20
+  }
+]
