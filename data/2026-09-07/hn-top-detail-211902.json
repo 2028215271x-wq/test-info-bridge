@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49601655,
+    "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+    "url": "https://lax-skyline.parcelscope.net/",
+    "score": 110,
+    "descendants": 44
+  },
+  {
+    "id": 49569748,
+    "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+    "url": "https://kallus.org/blog/dummit_and_foote.html",
+    "score": 36,
+    "descendants": 5
+  },
+  {
+    "id": 49575515,
+    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+    "url": "https://arxiv.org/abs/2607.24888",
+    "score": 55,
+    "descendants": 9
+  },
+  {
+    "id": 49552299,
+    "title": "WeatherNext 3",
+    "url": "https://deepmind.google/science/weathernext/",
+    "score": 115,
+    "descendants": 17
+  },
+  {
+    "id": 49569838,
+    "title": "Scientists observe Einstein's gravity in the quantum world",
+    "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+    "score": 43,
+    "descendants": 8
+  }
+]
