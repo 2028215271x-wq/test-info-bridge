@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49593563,
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "score": 578,
+    "descendants": 130
+  },
+  {
+    "id": 49595865,
+    "title": "Live map of public transport in Belgium",
+    "url": "https://openbaarvervoerbelgie.be/",
+    "score": 67,
+    "descendants": 22
+  },
+  {
+    "id": 49596055,
+    "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+    "url": "https://mathathonchallenge.com/index.html",
+    "score": 38,
+    "descendants": 3
+  },
+  {
+    "id": 49596054,
+    "title": "Speculative Decoding in vLLM on AMD GPUs",
+    "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+    "score": 36,
+    "descendants": 9
+  },
+  {
+    "id": 49596274,
+    "title": "Impedance Matching (2017)",
+    "url": "https://www.edge.org/response-detail/27238",
+    "score": 22,
+    "descendants": 5
+  }
+]
