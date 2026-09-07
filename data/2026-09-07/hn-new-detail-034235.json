@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49593623,
+    "title": "You almost certainly should connect to Tor through a VPN",
+    "url": "https://www.privacyguides.org/en/advanced/tor-overview/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49593563,
+    "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "score": 4,
+    "descendants": 1
+  },
+  {
+    "id": 49593540,
+    "title": "The eBPF Pivot \u2013 From Hardware Lock-In to Programmable Networking",
+    "url": "https://ebpf.io/blog/cloudflare-replatforming-1/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49593504,
+    "title": "Quick thoughts on GitHub Actions Aug 26 incident",
+    "url": "https://surfingcomplexity.blog/2026/08/29/quick-thoughts-on-github-actions-aug-26-incident/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49593485,
+    "title": "Workday reads two-column resumes left-to-right and interleaves them",
+    "url": "https://www.cvai.dev/blog/why-workday-scrambles-two-column-resumes",
+    "score": 2,
+    "descendants": 0
+  }
+]
