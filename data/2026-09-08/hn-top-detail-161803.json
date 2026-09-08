@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49611251,
+    "title": "Google DeepMind Releases AlphaGenome Atlas",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "score": 114,
+    "descendants": 21
+  },
+  {
+    "id": 49610181,
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "score": 179,
+    "descendants": 71
+  },
+  {
+    "id": 49610538,
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "score": 441,
+    "descendants": 140
+  },
+  {
+    "id": 49611128,
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "score": 33,
+    "descendants": 11
+  },
+  {
+    "id": 49611230,
+    "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+    "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+    "score": 33,
+    "descendants": 11
+  }
+]
