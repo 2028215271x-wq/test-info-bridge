@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49613262,
+    "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "score": 829,
+    "descendants": 618
+  },
+  {
+    "id": 49614557,
+    "title": "100s of flights cancelled at UK airports due to ATC issue",
+    "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+    "score": 102,
+    "descendants": 71
+  },
+  {
+    "id": 49616257,
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "score": 36,
+    "descendants": 14
+  },
+  {
+    "id": 49611251,
+    "title": "Google DeepMind Releases AlphaGenome Atlas",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "score": 399,
+    "descendants": 101
+  },
+  {
+    "id": 49615537,
+    "title": "Muse: Meta's personal AI agent, features and capabilities",
+    "url": "https://ai.meta.com/muse/",
+    "score": 142,
+    "descendants": 123
+  }
+]
