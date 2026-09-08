@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49607443,
+    "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+    "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+    "score": 120,
+    "descendants": 123
+  },
+  {
+    "id": 49607991,
+    "title": "Antiquated HTML Snippets and Artefacts",
+    "url": "https://vale.rocks/posts/html-relics",
+    "score": 19,
+    "descendants": 3
+  },
+  {
+    "id": 49579443,
+    "title": "We built our house for LAN parties",
+    "url": "https://lanparty.house/",
+    "score": 139,
+    "descendants": 59
+  },
+  {
+    "id": 49604637,
+    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "score": 352,
+    "descendants": 59
+  },
+  {
+    "id": 49604870,
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "score": 187,
+    "descendants": 61
+  }
+]
