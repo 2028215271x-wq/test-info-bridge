@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49633919,
+    "title": "Switzerland tests a FOSS escape route from Microsoft 365",
+    "url": "https://www.theregister.com/os-platforms/2026/09/09/switzerland-tests-a-foss-escape-route-from-microsoft-365/5294878",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49633912,
+    "title": "Apple Adds AppleCare One Family Plan for Up to Six People",
+    "url": "https://www.macrumors.com/2026/09/09/applecare-one-family-plan/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49633867,
+    "title": "LatentMathBench: Investigating Latent Reasoning in Astra",
+    "url": "https://maartenbaert.github.io/LatentMathBench/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49633860,
+    "title": "Joint statement on the 'Child safety online' report [pdf]",
+    "url": "https://5rightsfoundation.com/wp-content/uploads/2026/09/Joint-Statement-on-the-expert-panel-report_5R_September-2026.pdf",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49633847,
+    "title": "Now it's China's experts who are gig workers training AI",
+    "url": "https://restofworld.org/2026/china-expert-ai-trainers/",
+    "score": 4,
+    "descendants": 0
+  }
+]
