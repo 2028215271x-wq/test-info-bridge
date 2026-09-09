@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49626190,
+    "title": "Tailwind Labs is joining Shopify",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "score": 424,
+    "descendants": 163
+  },
+  {
+    "id": 49628493,
+    "title": "No Man's Sky Cosmos",
+    "url": "https://www.nomanssky.com/cosmos-update/",
+    "score": 30,
+    "descendants": 11
+  },
+  {
+    "id": 49624823,
+    "title": "Desert Ant Labs: local, fast models that run on device",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "score": 244,
+    "descendants": 64
+  },
+  {
+    "id": 49623754,
+    "title": "Claude, change the \"Add to Cart\" button to blue",
+    "url": "https://opusfived.dev/",
+    "score": 562,
+    "descendants": 217
+  },
+  {
+    "id": 49627370,
+    "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "score": 25,
+    "descendants": 0
+  }
+]
