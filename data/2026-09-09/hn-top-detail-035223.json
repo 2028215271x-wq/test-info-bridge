@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49546964,
+    "title": "Trees use a \"muscle\", tension wood, to correct their posture",
+    "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+    "score": 34,
+    "descendants": 1
+  },
+  {
+    "id": 49615537,
+    "title": "Muse \u2013 Meta\u2019s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "score": 366,
+    "descendants": 381
+  },
+  {
+    "id": 49617255,
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "score": 189,
+    "descendants": 38
+  },
+  {
+    "id": 49617581,
+    "title": "Large language models develop novel social biases through adaptive exploration",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "score": 115,
+    "descendants": 55
+  },
+  {
+    "id": 49611251,
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "score": 508,
+    "descendants": 117
+  }
+]
