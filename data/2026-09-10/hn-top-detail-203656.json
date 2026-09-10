@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49646181,
+    "title": "I have a theory that software drives people insane",
+    "url": "https://graybeard.ing/software-drives-people-insane/",
+    "score": 345,
+    "descendants": 130
+  },
+  {
+    "id": 49648732,
+    "title": "Genuine Creativity Is Your New Moat (2026)",
+    "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+    "score": 59,
+    "descendants": 30
+  },
+  {
+    "id": 49643546,
+    "title": "Rust is tier-1 language at Microsoft",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "score": 509,
+    "descendants": 279
+  },
+  {
+    "id": 49645443,
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "url": "https://cognition.com/blog/swe-2",
+    "score": 228,
+    "descendants": 109
+  },
+  {
+    "id": 49639408,
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "score": 372,
+    "descendants": 466
+  }
+]
