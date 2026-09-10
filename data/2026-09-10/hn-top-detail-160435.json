@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49643982,
+    "title": "Shopify moves back to Native from React Native",
+    "url": "https://shopify.engineering/back-to-native",
+    "score": 284,
+    "descendants": 189
+  },
+  {
+    "id": 49643546,
+    "title": "Rust Is Tier-1 Language at Microsoft",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "score": 213,
+    "descendants": 101
+  },
+  {
+    "id": 49627634,
+    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+    "score": 179,
+    "descendants": 144
+  },
+  {
+    "id": 49644047,
+    "title": "Amazon pilots ad services in ChatGPT",
+    "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+    "score": 75,
+    "descendants": 68
+  },
+  {
+    "id": 49640646,
+    "title": "What algorithm did Windows XP use to choose your initial user picture?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+    "score": 250,
+    "descendants": 118
+  }
+]
