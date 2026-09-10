@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49630931,
+    "title": "iPhone Duo",
+    "url": "https://www.apple.com/iphone-duo/",
+    "score": 989,
+    "descendants": 1785
+  },
+  {
+    "id": 49637385,
+    "title": "Show HN: What if the speed of light was 5 km/h?",
+    "url": "https://rivendell.dmitrybrant.com/relativity/",
+    "score": 51,
+    "descendants": 29
+  },
+  {
+    "id": 49626190,
+    "title": "Shopify acquires Tailwind",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "score": 928,
+    "descendants": 371
+  },
+  {
+    "id": 49614280,
+    "title": "What do Visa and Mastercard do? An intro to card networks",
+    "url": "https://tautology.town/2026/06/01/card-networks.html",
+    "score": 421,
+    "descendants": 239
+  },
+  {
+    "id": 49629886,
+    "title": "Growing proof that autonomous cars save lives",
+    "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+    "score": 258,
+    "descendants": 464
+  }
+]
