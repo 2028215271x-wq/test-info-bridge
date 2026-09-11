@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49643982,
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "url": "https://shopify.engineering/back-to-native",
+    "score": 1215,
+    "descendants": 908
+  },
+  {
+    "id": 49639090,
+    "title": "DeepSeek v4.1 Flash",
+    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+    "score": 987,
+    "descendants": 562
+  },
+  {
+    "id": 49639408,
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "score": 854,
+    "descendants": 796
+  },
+  {
+    "id": 49645393,
+    "title": "Don't let anyone take away your big box of cables",
+    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+    "score": 739,
+    "descendants": 447
+  },
+  {
+    "id": 49643546,
+    "title": "Rust is tier-1 language at Microsoft",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "score": 715,
+    "descendants": 494
+  }
+]

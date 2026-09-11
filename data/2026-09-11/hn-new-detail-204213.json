@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49665050,
+    "title": "cargo-mutants: Inject bugs and see if your tests catch them",
+    "url": "https://github.com/sourcefrog/cargo-mutants",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49665038,
+    "title": "Mike Johnson urged to cancel House recess over AI warnings",
+    "url": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49664981,
+    "title": "Can you design a chip: The protocol emulator ASIC competition",
+    "url": "https://blog.janestreet.com/protocol-emulator-asic-competition/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49664971,
+    "title": "Pydantic Monty: you probably don't need a full sandbox",
+    "url": "https://pydantic.dev/articles/pydantic-monty",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49664935,
+    "title": "Rapid recolonization of Chinook salmon following the largest dam removal",
+    "url": "https://www.nature.com/articles/s41598-026-65437-0",
+    "score": 2,
+    "descendants": 0
+  }
+]
