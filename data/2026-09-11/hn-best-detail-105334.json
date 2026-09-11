@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49630931,
+    "title": "iPhone Duo",
+    "url": "https://www.apple.com/iphone-duo/",
+    "score": 1450,
+    "descendants": 2490
+  },
+  {
+    "id": 49626190,
+    "title": "Shopify acquires Tailwind",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "score": 1126,
+    "descendants": 440
+  },
+  {
+    "id": 49643982,
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "url": "https://shopify.engineering/back-to-native",
+    "score": 1083,
+    "descendants": 772
+  },
+  {
+    "id": 49639090,
+    "title": "DeepSeek v4.1 Flash",
+    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+    "score": 972,
+    "descendants": 549
+  },
+  {
+    "id": 49639408,
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "score": 822,
+    "descendants": 752
+  }
+]

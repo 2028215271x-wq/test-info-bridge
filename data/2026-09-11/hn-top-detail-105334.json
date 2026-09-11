@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49655286,
+    "title": "Cherenkov Radiation - traveling faster than light",
+    "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+    "score": 63,
+    "descendants": 45
+  },
+  {
+    "id": 49643982,
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "url": "https://shopify.engineering/back-to-native",
+    "score": 1083,
+    "descendants": 772
+  },
+  {
+    "id": 49645393,
+    "title": "Don't let anyone take away your big box of cables",
+    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+    "score": 553,
+    "descendants": 359
+  },
+  {
+    "id": 49606281,
+    "title": "Working with Git Worktrees in Magit",
+    "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+    "score": 58,
+    "descendants": 18
+  },
+  {
+    "id": 49649213,
+    "title": "OpenAI Agents API",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "score": 272,
+    "descendants": 150
+  }
+]
