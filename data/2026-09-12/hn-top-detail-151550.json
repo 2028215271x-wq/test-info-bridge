@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49672365,
+    "title": "A Mathematical Framework for Transformer Circuits (2021)",
+    "url": "https://transformer-circuits.pub/2021/framework/index.html",
+    "score": 23,
+    "descendants": 3
+  },
+  {
+    "id": 49639647,
+    "title": "IKEA made a mod for Skyrim [video]",
+    "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+    "score": 373,
+    "descendants": 78
+  },
+  {
+    "id": 49671329,
+    "title": "Fuck it, make it anyway",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "score": 318,
+    "descendants": 275
+  },
+  {
+    "id": 49670032,
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "score": 159,
+    "descendants": 18
+  },
+  {
+    "id": 49662371,
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "score": 1080,
+    "descendants": 1031
+  }
+]
