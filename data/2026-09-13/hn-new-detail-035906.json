@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49679826,
+    "title": "Fenton's Reagent",
+    "url": "https://en.wikipedia.org/wiki/Fenton%27s_reagent",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49679797,
+    "title": "Early Earth's Aurora may have made a ion-beam reactor for prebiotic chemistry",
+    "url": "https://phys.org/news/2026-09-early-earth-auroral-belts-natural.html",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49679765,
+    "title": "JWST finds extreme star-forming galaxies masquerading as faint quasars",
+    "url": "https://phys.org/news/2026-09-jwst-extreme-star-galaxies-masquerading.html",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49679761,
+    "title": "Show HN: I made an alternative to the archived filebrowser",
+    "url": "https://github.com/skidoodle/filebrowser",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49679734,
+    "title": "A wandering black hole caught feeding on the run",
+    "url": "https://phys.org/news/2026-08-black-hole-caught.html",
+    "score": 1,
+    "descendants": 1
+  }
+]

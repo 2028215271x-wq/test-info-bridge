@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49679459,
+    "title": "The Interim Computer Museum",
+    "url": "https://icm.museum/",
+    "score": 32,
+    "descendants": 4
+  },
+  {
+    "id": 49674050,
+    "title": "Make your first edit to OpenStreetMap",
+    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "score": 369,
+    "descendants": 84
+  },
+  {
+    "id": 49676820,
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "url": "https://withspecific.com/benchmarks/real-swe",
+    "score": 157,
+    "descendants": 81
+  },
+  {
+    "id": 49673098,
+    "title": "Nvidia is the central bank of AI",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "score": 419,
+    "descendants": 288
+  },
+  {
+    "id": 49619848,
+    "title": "Apple iPod Engraver (2019)",
+    "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+    "score": 159,
+    "descendants": 36
+  }
+]
