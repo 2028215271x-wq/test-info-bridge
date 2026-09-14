@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49704008,
+    "title": "Amazon vs. Perplexity \u2013 U.S. Court of Appeals for the Ninth Circuit",
+    "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+    "score": 73,
+    "descendants": 53
+  },
+  {
+    "id": 49699158,
+    "title": "Distributed Systems Classics (2017)",
+    "url": "https://nvartolomei.com/dist-sys-classics/",
+    "score": 186,
+    "descendants": 37
+  },
+  {
+    "id": 49704132,
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "url": "https://www.effort.news/irregular",
+    "score": 9,
+    "descendants": 0
+  },
+  {
+    "id": 49698699,
+    "title": "A Beginning for Mathematics",
+    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "score": 134,
+    "descendants": 64
+  },
+  {
+    "id": 49698607,
+    "title": "Principles for Fast Tokio Applications",
+    "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+    "score": 137,
+    "descendants": 25
+  }
+]
