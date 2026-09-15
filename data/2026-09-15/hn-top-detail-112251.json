@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49710253,
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "score": 97,
+    "descendants": 59
+  },
+  {
+    "id": 49708431,
+    "title": "I can't stop thinking about Papua New Guinea",
+    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+    "score": 281,
+    "descendants": 96
+  },
+  {
+    "id": 49710015,
+    "title": "How much of F-Droid is LLM generated?",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "score": 48,
+    "descendants": 27
+  },
+  {
+    "id": 49709381,
+    "title": "Alternatives to MinIO for single-node local S3",
+    "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+    "score": 37,
+    "descendants": 26
+  },
+  {
+    "id": 49701004,
+    "title": "iOS 27, iPadOS 27, and macOS 27",
+    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+    "score": 624,
+    "descendants": 718
+  }
+]
