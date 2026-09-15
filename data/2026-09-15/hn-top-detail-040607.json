@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49701004,
+    "title": "iOS 27, iPadOS 27, and macOS 27",
+    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+    "score": 453,
+    "descendants": 497
+  },
+  {
+    "id": 49700477,
+    "title": "Pion, an agent designed to run any company autonomously",
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "score": 319,
+    "descendants": 356
+  },
+  {
+    "id": 49675817,
+    "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+    "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+    "score": 49,
+    "descendants": 8
+  },
+  {
+    "id": 49704246,
+    "title": "Charts built for Chat",
+    "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "score": 143,
+    "descendants": 45
+  },
+  {
+    "id": 49705442,
+    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "url": "https://github.com/JamesRyanATX/fcbnerd",
+    "score": 46,
+    "descendants": 9
+  }
+]
