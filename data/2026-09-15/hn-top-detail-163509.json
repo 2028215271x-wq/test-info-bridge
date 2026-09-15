@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49711544,
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "url": "https://github.com/arnegiacomo/fugleramme",
+    "score": 591,
+    "descendants": 94
+  },
+  {
+    "id": 49714239,
+    "title": "Swift 6.4 Released",
+    "url": "https://www.swift.org/blog/swift-6.4-released/",
+    "score": 82,
+    "descendants": 26
+  },
+  {
+    "id": 49713999,
+    "title": "Cartesian \u2013 AI 3D Modeling for Design",
+    "url": "https://www.formas.ai/cartesian",
+    "score": 31,
+    "descendants": 17
+  },
+  {
+    "id": 49712278,
+    "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+    "url": "https://withcapsule.app/",
+    "score": 119,
+    "descendants": 63
+  },
+  {
+    "id": 49712102,
+    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+    "url": "https://bkovac.github.io/modem-thing/",
+    "score": 98,
+    "descendants": 11
+  }
+]
