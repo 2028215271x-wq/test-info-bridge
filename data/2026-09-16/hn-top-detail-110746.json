@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49724141,
+    "title": "EU chief opens door for Canada to become 'associate member'",
+    "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+    "score": 105,
+    "descendants": 46
+  },
+  {
+    "id": 49723873,
+    "title": "Learning Programming in an Age of LLMs",
+    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+    "score": 58,
+    "descendants": 35
+  },
+  {
+    "id": 49724488,
+    "title": "Salesforce Global Outage",
+    "url": "https://status.salesforce.com/products/all",
+    "score": 9,
+    "descendants": 2
+  },
+  {
+    "id": 49723408,
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "url": "https://mistral.ai/news/mistral-x-mozilla/",
+    "score": 65,
+    "descendants": 14
+  },
+  {
+    "id": 49717558,
+    "title": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "score": 1456,
+    "descendants": 412
+  }
+]
