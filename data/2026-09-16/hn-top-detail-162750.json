@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49729000,
+    "title": "Small Programming Tricks",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "score": 26,
+    "descendants": 6
+  },
+  {
+    "id": 49726955,
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "url": "https://arxiv.org/abs/2609.14858",
+    "score": 87,
+    "descendants": 21
+  },
+  {
+    "id": 49729228,
+    "title": "Code Is Crap",
+    "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+    "score": 10,
+    "descendants": 6
+  },
+  {
+    "id": 49723408,
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "url": "https://mistral.ai/news/mistral-x-mozilla/",
+    "score": 345,
+    "descendants": 111
+  },
+  {
+    "id": 49717558,
+    "title": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "score": 1676,
+    "descendants": 459
+  }
+]
