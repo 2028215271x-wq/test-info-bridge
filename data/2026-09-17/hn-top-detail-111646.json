@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49737849,
+    "title": "One Year of Sponsored Servo Development",
+    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "score": 107,
+    "descendants": 45
+  },
+  {
+    "id": 49737922,
+    "title": "GLM Built Its Own Inference Infrastructure",
+    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "score": 84,
+    "descendants": 54
+  },
+  {
+    "id": 49724881,
+    "title": "Nvidia announces native GPU programming in Rust",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "score": 724,
+    "descendants": 296
+  },
+  {
+    "id": 49735930,
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "url": "https://ryan.science/blog/keys-not-included",
+    "score": 188,
+    "descendants": 70
+  },
+  {
+    "id": 49718773,
+    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+    "url": "https://jakeasmith.com/blog/http-build-url/",
+    "score": 135,
+    "descendants": 29
+  }
+]
