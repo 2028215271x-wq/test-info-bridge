@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49715813,
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "score": 267,
+    "descendants": 103
+  },
+  {
+    "id": 49742353,
+    "title": "Rate limits on GitLab.com are changing",
+    "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+    "score": 42,
+    "descendants": 31
+  },
+  {
+    "id": 49742021,
+    "title": "Artificial intelligence now beats some of the best human forecasters",
+    "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+    "score": 30,
+    "descendants": 16
+  },
+  {
+    "id": 49742233,
+    "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+    "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+    "score": 22,
+    "descendants": 30
+  },
+  {
+    "id": 49742437,
+    "title": "LLM Classification Is Feature Engineering",
+    "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+    "score": 25,
+    "descendants": 7
+  }
+]
