@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49745940,
+    "title": "Astra for Law",
+    "url": "https://openai.com/index/astra-for-law/",
+    "score": 90,
+    "descendants": 66
+  },
+  {
+    "id": 49743097,
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "url": "https://github.com/asciimoo/hister",
+    "score": 319,
+    "descendants": 109
+  },
+  {
+    "id": 49715813,
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "score": 449,
+    "descendants": 161
+  },
+  {
+    "id": 49726007,
+    "title": "Wax motor",
+    "url": "https://en.wikipedia.org/wiki/Wax_motor",
+    "score": 110,
+    "descendants": 19
+  },
+  {
+    "id": 49746163,
+    "title": "Bend",
+    "url": "https://bend-lang.com/",
+    "score": 35,
+    "descendants": 6
+  }
+]
