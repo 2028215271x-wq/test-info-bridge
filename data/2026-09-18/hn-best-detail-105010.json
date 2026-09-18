@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49724881,
+    "title": "Nvidia announces native GPU programming in Rust",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "score": 946,
+    "descendants": 395
+  },
+  {
+    "id": 49724141,
+    "title": "EU chief opens door for Canada to become 'associate member'",
+    "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+    "score": 685,
+    "descendants": 887
+  },
+  {
+    "id": 49731285,
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "score": 676,
+    "descendants": 139
+  },
+  {
+    "id": 49729000,
+    "title": "Small programming tricks",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "score": 652,
+    "descendants": 287
+  },
+  {
+    "id": 49743097,
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "url": "https://github.com/asciimoo/hister",
+    "score": 623,
+    "descendants": 170
+  }
+]

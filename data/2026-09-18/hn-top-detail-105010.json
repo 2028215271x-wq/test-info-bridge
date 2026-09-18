@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49752041,
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "score": 84,
+    "descendants": 37
+  },
+  {
+    "id": 49750152,
+    "title": "Jemalloc 5.4.0",
+    "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "score": 164,
+    "descendants": 47
+  },
+  {
+    "id": 49750094,
+    "title": "The scourge of x86 emulation",
+    "url": "https://fex-emu.com/Scourge-of-emulation/",
+    "score": 159,
+    "descendants": 28
+  },
+  {
+    "id": 49745940,
+    "title": "Astra for Law",
+    "url": "https://openai.com/index/astra-for-law/",
+    "score": 499,
+    "descendants": 588
+  },
+  {
+    "id": 49746618,
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "score": 460,
+    "descendants": 135
+  }
+]
