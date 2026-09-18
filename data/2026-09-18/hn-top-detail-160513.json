@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49754785,
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "score": 84,
+    "descendants": 47
+  },
+  {
+    "id": 49753878,
+    "title": "An Empirical Study of Harness Design for Coding Agents",
+    "url": "https://arxiv.org/abs/2609.20804",
+    "score": 136,
+    "descendants": 23
+  },
+  {
+    "id": 49755160,
+    "title": "North Korean nuclear test sets off years of earthquakes",
+    "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+    "score": 40,
+    "descendants": 28
+  },
+  {
+    "id": 49752041,
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "score": 334,
+    "descendants": 192
+  },
+  {
+    "id": 49755312,
+    "title": "Show HN: Rickub \u2013 The Smartest Git in the Universe",
+    "url": "https://rickub.com/",
+    "score": 13,
+    "descendants": 2
+  }
+]
