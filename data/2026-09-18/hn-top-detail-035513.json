@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49745940,
+    "title": "Astra for Law",
+    "url": "https://openai.com/index/astra-for-law/",
+    "score": 381,
+    "descendants": 409
+  },
+  {
+    "id": 49749656,
+    "title": "Hacking OpenAI",
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "score": 33,
+    "descendants": 7
+  },
+  {
+    "id": 49746618,
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "score": 290,
+    "descendants": 92
+  },
+  {
+    "id": 49746163,
+    "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+    "url": "https://bend-lang.com/",
+    "score": 351,
+    "descendants": 176
+  },
+  {
+    "id": 49743097,
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "url": "https://github.com/asciimoo/hister",
+    "score": 508,
+    "descendants": 139
+  }
+]
