@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49752056,
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "score": 816,
+    "descendants": 712
+  },
+  {
+    "id": 49743097,
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "url": "https://github.com/asciimoo/hister",
+    "score": 688,
+    "descendants": 186
+  },
+  {
+    "id": 49753211,
+    "title": "I don't like passkeys",
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "score": 676,
+    "descendants": 665
+  },
+  {
+    "id": 49746163,
+    "title": "Bend \u2013 a language that blocks AI mistakes via proof and runs on GPUs",
+    "url": "https://bend-lang.com/",
+    "score": 587,
+    "descendants": 301
+  },
+  {
+    "id": 49745940,
+    "title": "Astra for Law",
+    "url": "https://openai.com/index/astra-for-law/",
+    "score": 564,
+    "descendants": 667
+  }
+]

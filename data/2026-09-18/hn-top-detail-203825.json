@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49758736,
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "score": 180,
+    "descendants": 84
+  },
+  {
+    "id": 49759466,
+    "title": "Korea raises data breach fines to 10% of revenue",
+    "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+    "score": 55,
+    "descendants": 11
+  },
+  {
+    "id": 49754785,
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "score": 420,
+    "descendants": 190
+  },
+  {
+    "id": 49758580,
+    "title": "Saving another 100TB of RAM with math (and Rust)",
+    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "score": 70,
+    "descendants": 8
+  },
+  {
+    "id": 49758419,
+    "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+    "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+    "score": 62,
+    "descendants": 24
+  }
+]
