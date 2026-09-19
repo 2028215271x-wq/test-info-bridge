@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49758736,
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "score": 628,
+    "descendants": 306
+  },
+  {
+    "id": 49762687,
+    "title": "Science Is Open Software",
+    "url": "https://jepedersen.dk/blog/202505_research/",
+    "score": 26,
+    "descendants": 11
+  },
+  {
+    "id": 49762744,
+    "title": "SDCC \u2013 Small Device C Compiler",
+    "url": "https://sdcc.sourceforge.net/",
+    "score": 18,
+    "descendants": 2
+  },
+  {
+    "id": 49754785,
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "score": 621,
+    "descendants": 260
+  },
+  {
+    "id": 49758580,
+    "title": "Saving another 100TB of RAM",
+    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "score": 261,
+    "descendants": 56
+  }
+]
