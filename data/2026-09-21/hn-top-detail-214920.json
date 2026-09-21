@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49792730,
+    "title": "Xiaomi MiMo v2.6",
+    "url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "score": 245,
+    "descendants": 105
+  },
+  {
+    "id": 49791939,
+    "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+    "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+    "score": 193,
+    "descendants": 139
+  },
+  {
+    "id": 49792342,
+    "title": "Transformers Explained Visually",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "score": 78,
+    "descendants": 11
+  },
+  {
+    "id": 49793322,
+    "title": "CBP suspends all personal prescription importation Oct 22",
+    "url": "https://www.personalimportation.org/advocacy",
+    "score": 28,
+    "descendants": 3
+  },
+  {
+    "id": 49787436,
+    "title": "What Sun got wrong",
+    "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+    "score": 436,
+    "descendants": 242
+  }
+]
