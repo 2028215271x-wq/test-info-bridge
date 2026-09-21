@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49785429,
+    "title": "ZuckOff Know when a camera is in the room",
+    "url": "https://zuckoff.app/",
+    "score": 306,
+    "descendants": 114
+  },
+  {
+    "id": 49785397,
+    "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+    "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+    "score": 165,
+    "descendants": 9
+  },
+  {
+    "id": 49783999,
+    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "url": "https://github.com/jaredpalmer/kev/tree/main",
+    "score": 172,
+    "descendants": 74
+  },
+  {
+    "id": 49784336,
+    "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+    "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+    "score": 112,
+    "descendants": 72
+  },
+  {
+    "id": 49784706,
+    "title": "Jev-Leftpad",
+    "url": "https://github.com/f/jev-leftpad",
+    "score": 107,
+    "descendants": 44
+  }
+]
