@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49803892,
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "score": 1764,
+    "descendants": 1069
+  },
+  {
+    "id": 49805509,
+    "title": "GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "score": 1724,
+    "descendants": 819
+  },
+  {
+    "id": 49794330,
+    "title": "I don't want to read what you didn't write",
+    "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+    "score": 1041,
+    "descendants": 450
+  },
+  {
+    "id": 49806430,
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "score": 880,
+    "descendants": 471
+  },
+  {
+    "id": 49797982,
+    "title": "I said no and Apple said yes",
+    "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+    "score": 853,
+    "descendants": 690
+  }
+]

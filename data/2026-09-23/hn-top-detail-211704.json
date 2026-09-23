@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49820134,
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "score": 290,
+    "descendants": 283
+  },
+  {
+    "id": 49817469,
+    "title": "Fixing the Portobello Police Station Clock",
+    "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "score": 326,
+    "descendants": 73
+  },
+  {
+    "id": 49821196,
+    "title": "Once Claude can measure something, it can make it faster",
+    "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+    "score": 89,
+    "descendants": 56
+  },
+  {
+    "id": 49819221,
+    "title": "Italian parliament votes for return to nuclear energy",
+    "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "score": 380,
+    "descendants": 218
+  },
+  {
+    "id": 49820065,
+    "title": "A brief history of Windows scroll bar shortcuts",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+    "score": 65,
+    "descendants": 33
+  }
+]
