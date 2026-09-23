@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49812769,
+    "title": "Jev in 25 Lines of Python",
+    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+    "score": 201,
+    "descendants": 67
+  },
+  {
+    "id": 49805509,
+    "title": "GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "score": 1562,
+    "descendants": 750
+  },
+  {
+    "id": 49803892,
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "score": 1573,
+    "descendants": 974
+  },
+  {
+    "id": 49811065,
+    "title": "Transit rewards",
+    "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+    "score": 148,
+    "descendants": 161
+  },
+  {
+    "id": 49801324,
+    "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "score": 670,
+    "descendants": 387
+  }
+]

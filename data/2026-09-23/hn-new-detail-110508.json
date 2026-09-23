@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49814236,
+    "title": "Z80 REPL",
+    "url": "https://abagames.github.io/z80-repl/index.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49814211,
+    "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
+    "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49814202,
+    "title": "Memristive Singular Value Decomposition",
+    "url": "https://www.nature.com/articles/s41467-026-76272-2",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49814187,
+    "title": "Blood Transfusion: Jehovah's Witnesses revise medical guidelines",
+    "url": "https://gazettengr.com/blood-transfusion-jehovahs-witnesses-revise-medical-guidelines/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49814183,
+    "title": "Rust Allocator API Stabilized",
+    "url": "https://github.com/rust-lang/rust/pull/156882",
+    "score": 1,
+    "descendants": 0
+  }
+]
