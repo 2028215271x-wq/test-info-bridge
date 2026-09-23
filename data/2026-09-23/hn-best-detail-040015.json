@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49803892,
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "score": 1304,
+    "descendants": 859
+  },
+  {
+    "id": 49805509,
+    "title": "GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "score": 1290,
+    "descendants": 646
+  },
+  {
+    "id": 49792730,
+    "title": "MiMo v2.6",
+    "url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "score": 1099,
+    "descendants": 472
+  },
+  {
+    "id": 49787726,
+    "title": "Attention is all you have",
+    "url": "https://alicegg.tech/2026/09/21/attention",
+    "score": 1040,
+    "descendants": 319
+  },
+  {
+    "id": 49794330,
+    "title": "I don't want to read what you didn't write",
+    "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+    "score": 998,
+    "descendants": 428
+  }
+]
