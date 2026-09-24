@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49803892,
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "score": 1779,
+    "descendants": 1103
+  },
+  {
+    "id": 49805509,
+    "title": "GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "score": 1750,
+    "descendants": 831
+  },
+  {
+    "id": 49806430,
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "score": 917,
+    "descendants": 521
+  },
+  {
+    "id": 49819221,
+    "title": "Italian parliament votes for return to nuclear energy",
+    "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "score": 807,
+    "descendants": 639
+  },
+  {
+    "id": 49805278,
+    "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+    "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+    "score": 801,
+    "descendants": 602
+  }
+]
