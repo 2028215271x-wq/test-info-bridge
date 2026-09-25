@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49848269,
+    "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+    "url": "https://ollaya.dev/",
+    "score": 190,
+    "descendants": 51
+  },
+  {
+    "id": 49845172,
+    "title": "Show HN: Jev Plays Pok\u00e9mon Red",
+    "url": "https://jev-pokemon.vercel.app/",
+    "score": 63,
+    "descendants": 36
+  },
+  {
+    "id": 49843269,
+    "title": "Platform-independent SIMD in Go",
+    "url": "https://go.dev/blog/simd-experiment",
+    "score": 323,
+    "descendants": 123
+  },
+  {
+    "id": 49848838,
+    "title": "Bug: Border radius has infected VSCode editor",
+    "url": "https://github.com/microsoft/vscode/issues/338035",
+    "score": 42,
+    "descendants": 18
+  },
+  {
+    "id": 49849625,
+    "title": "Too AI; Didn't Read",
+    "url": "https://www.tai-dr.com/",
+    "score": 9,
+    "descendants": 2
+  }
+]
