@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49843049,
+    "title": "Show HN: Herobrine \u2013 Minecraft buddies using jev",
+    "url": "https://github.com/xatuke/herobrine",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49843048,
+    "title": "How to Create WebRTC Publisher Clients with Adaptive Live Encoding",
+    "url": "https://www.red5.net/blog/how-to-create-webrtc-publisher-clients-with-adaptive-live-encoding/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49843038,
+    "title": "Reverse Engineering a Pellet Stove Remote with Codex",
+    "url": "https://itunsecurity.wordpress.com/2026/09/25/mcz-musa-2-0-air-an-esphome-remote-for-home-assistant/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49843012,
+    "title": "A simple, modern, secure encryption tool (and Go library) small explicit keys",
+    "url": "https://github.com/FiloSottile/age",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49843000,
+    "title": "A prototype ribbon menu for QGIS",
+    "url": "https://github.com/qgis/QGIS/issues/52292",
+    "score": 2,
+    "descendants": 0
+  }
+]
