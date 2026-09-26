@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49860401,
+    "title": "Trance \u2013 the solution to scrolling, free forever",
+    "url": "https://trance.surge.sh/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49860394,
+    "title": "Upload photos. Get a 3D house. Play it in Minecraft",
+    "url": "https://my3dhouse.app/highclere-castle",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49860383,
+    "title": "It's Time We Talked About AI and Software Security",
+    "url": "https://deadneurons.substack.com/p/its-time-we-talked-about-ai-and-software",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49860377,
+    "title": "Not everyone thinks AI will kill us all",
+    "url": "https://www.cnn.com/2026/09/24/tech/not-everyone-thinks-ai-will-kill-us-all",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49860368,
+    "title": "Claude-mood: Claude Code can see my suffering",
+    "url": "https://github.com/kasper0406/claude-mood",
+    "score": 1,
+    "descendants": 1
+  }
+]
