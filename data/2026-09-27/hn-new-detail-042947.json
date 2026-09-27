@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49863333,
+    "title": "The Hannibal Directive",
+    "url": "https://en.wikipedia.org/wiki/Hannibal_Directive",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49863302,
+    "title": "A free, keyless MCP Server for CVE data and per-CVE internet Exposure",
+    "url": "",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49863292,
+    "title": "Reelizer: Film Art, Curated",
+    "url": "https://www.reelizer.com/about",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49863287,
+    "title": "Stanford research suggests human brain might be two organs fused together",
+    "url": "https://caliber.az/en/post/stanford-research-suggests-human-brain-might-be-two-organs-fused-together",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49863268,
+    "title": "Earth microbes survive simulated conditions of Saturn moon's ocean",
+    "url": "https://www.theguardian.com/science/2026/sep/25/earth-microbes-survive-conditions-enceladus-saturn-moon-ocean-study",
+    "score": 1,
+    "descendants": 0
+  }
+]

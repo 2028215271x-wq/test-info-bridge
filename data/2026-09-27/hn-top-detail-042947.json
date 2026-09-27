@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49856988,
+    "title": "Go Concurrency Distilled",
+    "url": "https://antonz.org/go-concurrency-distilled/",
+    "score": 91,
+    "descendants": 25
+  },
+  {
+    "id": 49842764,
+    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "url": "https://github.com/InfinityLoop1308/PipePipe",
+    "score": 347,
+    "descendants": 194
+  },
+  {
+    "id": 49859112,
+    "title": "DeepSeek Elastic Compute (DSec)",
+    "url": "https://arxiv.org/abs/2609.22978",
+    "score": 197,
+    "descendants": 58
+  },
+  {
+    "id": 49858513,
+    "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+    "url": "https://github.com/reladraw/reladraw",
+    "score": 222,
+    "descendants": 63
+  },
+  {
+    "id": 49850991,
+    "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+    "url": "https://francisbach.com/spectral_log_density_estimation/",
+    "score": 7,
+    "descendants": 0
+  }
+]
