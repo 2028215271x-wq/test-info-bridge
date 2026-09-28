@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49875913,
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "url": "https://git.mills.io/prologic/parley",
+    "score": 121,
+    "descendants": 43
+  },
+  {
+    "id": 49875148,
+    "title": "AI companies in race to demonstrate their model most threatening to humanity",
+    "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+    "score": 251,
+    "descendants": 153
+  },
+  {
+    "id": 49876760,
+    "title": "Show HN: Hntui \u2013 A TUI for Hacker News",
+    "url": "https://github.com/ahmd-sh/hntui",
+    "score": 20,
+    "descendants": 7
+  },
+  {
+    "id": 49875142,
+    "title": "37,500 border drawings: a map of the world as people remember it",
+    "url": "https://www.habibicode.org/thedrawnworld",
+    "score": 66,
+    "descendants": 19
+  },
+  {
+    "id": 49865312,
+    "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+    "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+    "score": 79,
+    "descendants": 41
+  }
+]
