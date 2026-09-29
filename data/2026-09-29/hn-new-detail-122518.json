@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49892025,
+    "title": "Dataviz: Most mentioned companies in the NYT since 01/01/2000",
+    "url": "https://www.habibicode.org/nytmentions",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49892009,
+    "title": "Lego Sorting via F# WebAssembly",
+    "url": "http://www.johansivertsen.com/post/lego-sorting/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49891994,
+    "title": "Self-Play Pretraining with Zero Data",
+    "url": "https://arxiv.org/abs/2609.30063",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49891989,
+    "title": "Show HN: CodeDiff \u2013 Fast (<100ms), robust (99.95%) syntax-aware code diff",
+    "url": "https://github.com/ivankovic/codediff",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49891964,
+    "title": "Diablo II: Resurrected in 3D",
+    "url": "https://www.youtube.com/watch?v=X3mvQlomapg",
+    "score": 3,
+    "descendants": 1
+  }
+]
