@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49913571,
+    "title": "Gemini 4 Argon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "score": 651,
+    "descendants": 408
+  },
+  {
+    "id": 49912955,
+    "title": "Surprisingly complex waves reveal the brain's inner workings",
+    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "score": 77,
+    "descendants": 18
+  },
+  {
+    "id": 49913192,
+    "title": "EDG C++ front-end goes public",
+    "url": "https://edgcpp.org/#transition",
+    "score": 94,
+    "descendants": 33
+  },
+  {
+    "id": 49911995,
+    "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "score": 100,
+    "descendants": 43
+  },
+  {
+    "id": 49912444,
+    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "score": 75,
+    "descendants": 25
+  }
+]
