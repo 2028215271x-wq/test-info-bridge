@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49901736,
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+    "url": "https://github.com/ninjahawk/livenerf",
+    "score": 375,
+    "descendants": 156
+  },
+  {
+    "id": 49903993,
+    "title": "PSSA: A non-transformer language model written from scratch in Rust",
+    "url": "https://github.com/Sparticle62ops/pssa",
+    "score": 28,
+    "descendants": 6
+  },
+  {
+    "id": 49896604,
+    "title": "Dots: Always-on agents",
+    "url": "https://openai.com/index/introducing-dots/",
+    "score": 504,
+    "descendants": 378
+  },
+  {
+    "id": 49899090,
+    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+    "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+    "score": 194,
+    "descendants": 117
+  },
+  {
+    "id": 49897993,
+    "title": "Vermont replacing power plants with home batteries",
+    "url": "https://electrek.co/2026/07/28/vermonts-largest-energy-source-is-now-a-virtual-power-plant/",
+    "score": 122,
+    "descendants": 110
+  }
+]
