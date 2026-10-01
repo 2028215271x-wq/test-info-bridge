@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49920876,
+    "title": "Do you guys also still use Claude Code's plan mode?",
+    "url": "",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49920859,
+    "title": "Postgres 19: Are we reverting patches because of bugs found by AI?",
+    "url": "https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49920858,
+    "title": "Blocking of unverified apps on Android starts in Brazil and other 3 countries",
+    "url": "https://manualdousuario.net/en/blocking-unverified-apps-android-brazil/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49920857,
+    "title": "Athletes are taking GLP-1s. Anti-doping regulators are watching.",
+    "url": "https://www.washingtonpost.com/sports/2026/09/27/athletes-are-taking-glp-1s-anti-doping-regulators-are-watching/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49920849,
+    "title": "Show HN: Running shoes compared, built solo with a swarm of Claude agents",
+    "url": "https://runometry.com/",
+    "score": 1,
+    "descendants": 0
+  }
+]

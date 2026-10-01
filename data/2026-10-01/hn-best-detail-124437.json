@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49913571,
+    "title": "Gemini 4 Argon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "score": 1464,
+    "descendants": 962
+  },
+  {
+    "id": 49896586,
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "score": 1055,
+    "descendants": 939
+  },
+  {
+    "id": 49901736,
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+    "url": "https://github.com/ninjahawk/livenerf",
+    "score": 902,
+    "descendants": 381
+  },
+  {
+    "id": 49893509,
+    "title": "America.gov",
+    "url": "https://america.gov/",
+    "score": 762,
+    "descendants": 712
+  },
+  {
+    "id": 49896604,
+    "title": "Dots: Always-on agents",
+    "url": "https://openai.com/index/introducing-dots/",
+    "score": 756,
+    "descendants": 633
+  }
+]
