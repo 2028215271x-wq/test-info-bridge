@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49926069,
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "score": 1390,
+    "descendants": 442
+  },
+  {
+    "id": 49930047,
+    "title": "Shimano Bicycle Museum Review",
+    "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+    "score": 144,
+    "descendants": 24
+  },
+  {
+    "id": 49928121,
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "url": "https://lwn.net/Articles/1097401/",
+    "score": 362,
+    "descendants": 266
+  },
+  {
+    "id": 49931031,
+    "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
+    "url": "https://github.com/kvoltmer/Audionaut",
+    "score": 32,
+    "descendants": 9
+  },
+  {
+    "id": 49923692,
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "score": 538,
+    "descendants": 188
+  }
+]

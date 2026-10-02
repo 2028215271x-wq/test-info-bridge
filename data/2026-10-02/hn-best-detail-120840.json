@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49913571,
+    "title": "Gemini 4 Argon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "score": 1657,
+    "descendants": 1147
+  },
+  {
+    "id": 49926069,
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "score": 1390,
+    "descendants": 442
+  },
+  {
+    "id": 49920160,
+    "title": "StreetComplete on iOS is now in public beta",
+    "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+    "score": 574,
+    "descendants": 155
+  },
+  {
+    "id": 49923692,
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "score": 538,
+    "descendants": 188
+  },
+  {
+    "id": 49925969,
+    "title": "Pi Durable",
+    "url": "https://earendil.com/posts/pi-durable/",
+    "score": 411,
+    "descendants": 51
+  }
+]
