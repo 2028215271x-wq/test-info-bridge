@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49926069,
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "score": 934,
+    "descendants": 308
+  },
+  {
+    "id": 49929489,
+    "title": "DeepSeek Harness",
+    "url": "https://www.deepseek.com/en/harness/",
+    "score": 40,
+    "descendants": 13
+  },
+  {
+    "id": 49929113,
+    "title": "How Singapore's government-run dating service works",
+    "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+    "score": 40,
+    "descendants": 13
+  },
+  {
+    "id": 49928121,
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "url": "https://lwn.net/Articles/1097401/",
+    "score": 193,
+    "descendants": 121
+  },
+  {
+    "id": 49923692,
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "score": 464,
+    "descendants": 170
+  }
+]
