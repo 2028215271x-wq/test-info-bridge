@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49941345,
+    "title": "Show HN: Offline NHTSA VIN decoder, verified against NHTSA's own SQL",
+    "url": "https://github.com/AIKitLLC/nhtsa-edge-api",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49941336,
+    "title": "Windows on Itanium also provided for hot-patching, in an even simpler way",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20261001-57/?p=112747/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49941333,
+    "title": "Stable Matching Problem",
+    "url": "https://en.wikipedia.org/wiki/Stable_matching_problem",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49941331,
+    "title": "Open source SDK to build Muse gadgets",
+    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49941327,
+    "title": "What if AI worked at 1.000.000 tokens per seconds?",
+    "url": "https://www.echohive.ai/one-million-tokens-per-second",
+    "score": 2,
+    "descendants": 0
+  }
+]

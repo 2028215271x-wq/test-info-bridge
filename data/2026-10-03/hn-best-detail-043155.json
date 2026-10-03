@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49926069,
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "score": 1646,
+    "descendants": 577
+  },
+  {
+    "id": 49923692,
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "score": 621,
+    "descendants": 215
+  },
+  {
+    "id": 49920160,
+    "title": "StreetComplete on iOS is now in public beta",
+    "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+    "score": 619,
+    "descendants": 171
+  },
+  {
+    "id": 49927754,
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "score": 563,
+    "descendants": 249
+  },
+  {
+    "id": 49928121,
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "url": "https://lwn.net/Articles/1097401/",
+    "score": 553,
+    "descendants": 394
+  }
+]
