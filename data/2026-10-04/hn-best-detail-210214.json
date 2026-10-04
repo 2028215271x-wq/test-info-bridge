@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49949438,
+    "title": "Tell HN: Bob Cringely has died",
+    "url": "",
+    "score": 763,
+    "descendants": 162
+  },
+  {
+    "id": 49942706,
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "score": 650,
+    "descendants": 322
+  },
+  {
+    "id": 49949235,
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "score": 576,
+    "descendants": 295
+  },
+  {
+    "id": 49941114,
+    "title": "Extra Big Ass Intelligence",
+    "url": "https://www.extrabigassintelligence.com/",
+    "score": 506,
+    "descendants": 124
+  },
+  {
+    "id": 49953495,
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "score": 473,
+    "descendants": 246
+  }
+]
