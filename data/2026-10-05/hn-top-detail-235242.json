@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49971846,
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "score": 47,
+    "descendants": 5
+  },
+  {
+    "id": 49969183,
+    "title": "Beam: Reflection's 501B open-weight model",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "score": 270,
+    "descendants": 72
+  },
+  {
+    "id": 49971230,
+    "title": "Find the flattest route between any two points in SF",
+    "url": "https://flattensf.com/",
+    "score": 76,
+    "descendants": 20
+  },
+  {
+    "id": 49971921,
+    "title": "Example.com Just Launched the Biggest Redesign in Decades",
+    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "score": 32,
+    "descendants": 19
+  },
+  {
+    "id": 49970871,
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "url": "https://qlabs.sh/research/dust",
+    "score": 74,
+    "descendants": 5
+  }
+]

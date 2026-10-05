@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49949438,
+    "title": "Tell HN: Bob Cringely has died",
+    "url": "",
+    "score": 929,
+    "descendants": 209
+  },
+  {
+    "id": 49953495,
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "score": 910,
+    "descendants": 411
+  },
+  {
+    "id": 49957116,
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "score": 755,
+    "descendants": 518
+  },
+  {
+    "id": 49949235,
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "score": 628,
+    "descendants": 307
+  },
+  {
+    "id": 49957068,
+    "title": "Improper redaction reveals Google Data Center water and electricity usage",
+    "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+    "score": 515,
+    "descendants": 670
+  }
+]
