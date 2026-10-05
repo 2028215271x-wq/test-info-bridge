@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49965039,
+    "title": "Is AI the End of Math as We Know It?",
+    "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49965022,
+    "title": "How we built a browser agent with Jev instead of an LLM",
+    "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49965013,
+    "title": "Hyper Bf",
+    "url": "https://eli.li/hyper-bf",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49965000,
+    "title": "Show HN: Solarite \u2013 fast and simple web components with no signals and no build",
+    "url": "https://eric-frost.github.io/solarite/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49964997,
+    "title": "SQL/PGQ property graph queries reverted from PostgreSQL 19",
+    "url": "https://git.postgresql.org/pg/commitdiff/2b9e1aff4d3d933ae8ee377fef22c2af9c7797e8",
+    "score": 2,
+    "descendants": 0
+  }
+]

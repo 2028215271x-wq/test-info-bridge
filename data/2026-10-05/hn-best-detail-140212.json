@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49949438,
+    "title": "Tell HN: Bob Cringely has died",
+    "url": "",
+    "score": 909,
+    "descendants": 198
+  },
+  {
+    "id": 49953495,
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "score": 850,
+    "descendants": 383
+  },
+  {
+    "id": 49957116,
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "score": 663,
+    "descendants": 453
+  },
+  {
+    "id": 49949235,
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "score": 615,
+    "descendants": 305
+  },
+  {
+    "id": 49948254,
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "score": 487,
+    "descendants": 268
+  }
+]
