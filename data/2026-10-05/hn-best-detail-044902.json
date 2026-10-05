@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49949438,
+    "title": "Tell HN: Bob Cringely has died",
+    "url": "",
+    "score": 839,
+    "descendants": 181
+  },
+  {
+    "id": 49953495,
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "score": 663,
+    "descendants": 309
+  },
+  {
+    "id": 49942706,
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "score": 659,
+    "descendants": 326
+  },
+  {
+    "id": 49949235,
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "score": 599,
+    "descendants": 299
+  },
+  {
+    "id": 49948254,
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "score": 480,
+    "descendants": 266
+  }
+]
