@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49977979,
+    "title": "Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "score": 1481,
+    "descendants": 921
+  },
+  {
+    "id": 49961057,
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "score": 802,
+    "descendants": 643
+  },
+  {
+    "id": 49963171,
+    "title": "Web Search API",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "score": 585,
+    "descendants": 280
+  },
+  {
+    "id": 49977072,
+    "title": "JetBrains reports revenue growth, net financial loss for 2025",
+    "url": "https://www.helgilibrary.com/companies/jetbrains",
+    "score": 563,
+    "descendants": 522
+  },
+  {
+    "id": 49971846,
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "score": 537,
+    "descendants": 393
+  }
+]

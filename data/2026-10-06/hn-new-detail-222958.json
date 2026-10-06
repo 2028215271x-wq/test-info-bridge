@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49985045,
+    "title": "Toward provably private learning from federated data",
+    "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49985032,
+    "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+    "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49985019,
+    "title": "Vokalu \u2013 Windows/Mac dictation, free on-device or 2\u00a2/min in the cloud",
+    "url": "https://vokalu.com/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49985018,
+    "title": "You Are an Expert Software Engineer [Krazam] [video]",
+    "url": "https://www.youtube.com/watch?v=0otdTJa9IUc",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 49985002,
+    "title": "Apple's Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped with LG",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg",
+    "score": 5,
+    "descendants": 2
+  }
+]
