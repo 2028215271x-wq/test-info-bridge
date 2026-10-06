@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49953495,
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "score": 918,
+    "descendants": 416
+  },
+  {
+    "id": 49957116,
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "score": 761,
+    "descendants": 535
+  },
+  {
+    "id": 49961057,
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "score": 755,
+    "descendants": 586
+  },
+  {
+    "id": 49963171,
+    "title": "Web Search API",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "score": 565,
+    "descendants": 263
+  },
+  {
+    "id": 49957068,
+    "title": "Improper redaction reveals Google Data Center water and electricity usage",
+    "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+    "score": 523,
+    "descendants": 686
+  }
+]

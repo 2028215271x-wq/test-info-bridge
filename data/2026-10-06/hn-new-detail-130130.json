@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49977762,
+    "title": "Workout is the one you do",
+    "url": "https://ollelindholm.com/best-workout/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49977757,
+    "title": "The Performance Cost of RwLock in Our Read-Heavy Workload",
+    "url": "https://pranitha.dev/posts/rwlock-vs-lockfree/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49977755,
+    "title": "I Still Choose Jujutsu When AI Can Handle Git",
+    "url": "https://juju-chu.com/blog/why-jj-when-ai-runs-git",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49977748,
+    "title": "Changescape: We need a new generation of tools to manage code changes",
+    "url": "https://changescape.dev/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49977716,
+    "title": "Show HN: Aldo Coach, a workout log with an AI coach that sees every set",
+    "url": "https://aldo-coach.app/?ct=hackernews",
+    "score": 1,
+    "descendants": 0
+  }
+]
