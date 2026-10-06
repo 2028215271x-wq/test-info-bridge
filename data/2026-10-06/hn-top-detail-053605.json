@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49973598,
+    "title": "Why Common Lisp is now the best programming language",
+    "url": "https://www.vivienhenz.com/common-lisp",
+    "score": 75,
+    "descendants": 85
+  },
+  {
+    "id": 49969183,
+    "title": "Beam: Reflection's 501B open-weight model",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "score": 384,
+    "descendants": 118
+  },
+  {
+    "id": 49971230,
+    "title": "Find the flattest route between any two points in SF",
+    "url": "https://flattensf.com/",
+    "score": 153,
+    "descendants": 50
+  },
+  {
+    "id": 49971921,
+    "title": "Example.com just launched the biggest redesign in decades",
+    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "score": 147,
+    "descendants": 86
+  },
+  {
+    "id": 49970667,
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "score": 275,
+    "descendants": 186
+  }
+]
