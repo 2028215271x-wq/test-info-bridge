@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49992104,
+    "title": "Jumper \u2013 a 22-DoF crab robot",
+    "url": "https://github.com/KingKongRobotics/jumper",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49992103,
+    "title": "Be Terrified",
+    "url": "https://markmaunder.com/2026/you-should-be-terrified/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 49992086,
+    "title": "Sungrow Vulnerability Exposes Gigawatts of Power Worldwide",
+    "url": "https://jakkaru.de/articles/sungrow-vulnerability-exposes-gigawatts-worldwide",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49992077,
+    "title": "Apache Pulsar 5.0 Released with Scalable Topics",
+    "url": "https://pulsar.apache.org/blog/2026/10/05/announcing-apache-pulsar-5-0/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 49992074,
+    "title": "Show HN: Sortaballs \u2013 logic web game with 10 modes and over 1000 puzzles",
+    "url": "https://sortaballs.vercel.app",
+    "score": 1,
+    "descendants": 1
+  }
+]
