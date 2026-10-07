@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49977979,
+    "title": "Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "score": 1654,
+    "descendants": 989
+  },
+  {
+    "id": 49961057,
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "score": 813,
+    "descendants": 654
+  },
+  {
+    "id": 49984923,
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "score": 643,
+    "descendants": 581
+  },
+  {
+    "id": 49963171,
+    "title": "Web Search API",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "score": 586,
+    "descendants": 282
+  },
+  {
+    "id": 49977072,
+    "title": "JetBrains reports revenue growth, net financial loss for 2025",
+    "url": "https://www.helgilibrary.com/companies/jetbrains",
+    "score": 575,
+    "descendants": 537
+  }
+]
