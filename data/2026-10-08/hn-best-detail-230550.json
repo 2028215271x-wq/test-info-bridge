@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49998895,
+    "title": "Margaret Hamilton has died",
+    "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+    "score": 2072,
+    "descendants": 249
+  },
+  {
+    "id": 49984923,
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "score": 1321,
+    "descendants": 1496
+  },
+  {
+    "id": 49996437,
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "score": 1031,
+    "descendants": 480
+  },
+  {
+    "id": 50006832,
+    "title": "Trump administration is suspending Microsoft from a green card program",
+    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+    "score": 779,
+    "descendants": 1353
+  },
+  {
+    "id": 49996425,
+    "title": "GPT\u20116 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "score": 740,
+    "descendants": 447
+  }
+]

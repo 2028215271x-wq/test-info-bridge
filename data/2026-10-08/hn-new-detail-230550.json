@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50013678,
+    "title": "Why 'vertical farming' is not a fix for our food system",
+    "url": "https://theconversation.com/why-vertical-farming-is-not-a-fix-for-our-food-system-293201",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50013662,
+    "title": "A quiet pixel-art city where strangers listen to music together",
+    "url": "https://roomcity.live/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50013646,
+    "title": "Data needs its DevOps moment",
+    "url": "https://render.com/blog/data-needs-its-devops-moment",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50013637,
+    "title": "Fort Hood attacker's execution by firing squad will be livestreamed",
+    "url": "https://www.bbc.com/news/articles/cmy0r96xygx6o",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50013626,
+    "title": "Load TBs into Postgres in Minutes",
+    "url": "https://www.databricks.com/blog/load-terabytes-data-minutes-lakebase-postgres",
+    "score": 1,
+    "descendants": 0
+  }
+]
