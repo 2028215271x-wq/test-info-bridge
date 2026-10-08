@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50002009,
+    "title": "XMFS: New Linux Filesystem by Xiaomi",
+    "url": "https://lpc.events/event/20/contributions/2516/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50002008,
+    "title": "Terence Tao Responds to the OpenAI Math Drop",
+    "url": "https://mathstodon.xyz/@tao/117395269325940185",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50001994,
+    "title": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+    "url": "https://www.primeintellect.ai/blog/prime-inference",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50001984,
+    "title": "A Terminal Illness",
+    "url": "https://delightful-marigold-803f7f.netlify.app/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50001973,
+    "title": "Built a ChatGPT-to-Cloudflare publisher, looking for supplychain/security input",
+    "url": "https://github.com/JumperMCP/chatgpt-to-public-page",
+    "score": 1,
+    "descendants": 1
+  }
+]
