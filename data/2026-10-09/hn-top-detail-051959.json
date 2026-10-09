@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50008427,
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "score": 651,
+    "descendants": 139
+  },
+  {
+    "id": 50015074,
+    "title": "Reducing undefined behavior in the C language",
+    "url": "https://lwn.net/Articles/1095811/",
+    "score": 63,
+    "descendants": 35
+  },
+  {
+    "id": 50015515,
+    "title": "Keyboard differences between Windows and Macs",
+    "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+    "score": 47,
+    "descendants": 38
+  },
+  {
+    "id": 50009295,
+    "title": "Theranos.world",
+    "url": "https://www.theranos.world/",
+    "score": 361,
+    "descendants": 128
+  },
+  {
+    "id": 49995495,
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+    "score": 541,
+    "descendants": 333
+  }
+]

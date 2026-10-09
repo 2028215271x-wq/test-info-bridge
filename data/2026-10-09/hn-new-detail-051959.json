@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50016271,
+    "title": "OpenAI cannot make AI safe on its own [pdf]",
+    "url": "https://mikitabalesni.com/letter/letter.pdf",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50016226,
+    "title": "Moving at the Speed of Light",
+    "url": "https://write.ianwsperber.com/p/moving-at-the-speed-of-light",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50016222,
+    "title": "Why does the arrow (->) operator in C exist?",
+    "url": "https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist/13366168#13366168",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50016203,
+    "title": "Gigacity: Every tower, car and light grown from one seed",
+    "url": "https://sael.net/gigacity/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50016180,
+    "title": "Search API that turns millions of webpages into cited datasets",
+    "url": "https://eniac.floworks.ai",
+    "score": 1,
+    "descendants": 1
+  }
+]
