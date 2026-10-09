@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50019741,
+    "title": "Study: Exercise increases cancer survival rates",
+    "url": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50019733,
+    "title": "Native Support for Rust on the GPU",
+    "url": "https://lwn.net/Articles/1095731/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50019711,
+    "title": "Is CoreWeave the New MicroStrategy?",
+    "url": "https://knowtrend.ai/blog/price-to-compute",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50019703,
+    "title": "The $3T AI Debt Hiding in the Lease Footnote",
+    "url": "https://www.ainvest.com/news/3-trillion-ai-debt-hiding-lease-footnote-2610/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50019699,
+    "title": "Open-source ESP32-C3 DNS ad blocker supports over 500K domains without PSRAM",
+    "url": "https://www.cnx-software.com/2026/10/09/open-source-esp32-c3-dns-ad-blocker-supports-up-to-over-500000-domains-without-psram/",
+    "score": 1,
+    "descendants": 0
+  }
+]
