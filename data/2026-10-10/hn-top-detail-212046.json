@@ -1,0 +1,37 @@
+[
+  {
+    "id": 49991852,
+    "title": "2D Vehicles",
+    "url": "https://patkerr.co.uk/2d-vehicles/",
+    "score": 204,
+    "descendants": 47
+  },
+  {
+    "id": 50035530,
+    "title": "Why DuckDB 2.0 is faster",
+    "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+    "score": 70,
+    "descendants": 21
+  },
+  {
+    "id": 50034081,
+    "title": "Knuth reward check",
+    "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+    "score": 109,
+    "descendants": 40
+  },
+  {
+    "id": 50029487,
+    "title": "The Lightbulb Computer",
+    "url": "https://lightbulbcomputer.com/",
+    "score": 91,
+    "descendants": 15
+  },
+  {
+    "id": 50027257,
+    "title": "Recent AI models struggled to match a human algorithmic innovation",
+    "url": "https://epoch.ai/publications/innovationeval",
+    "score": 39,
+    "descendants": 29
+  }
+]

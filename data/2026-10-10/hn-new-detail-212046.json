@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50037302,
+    "title": "DuckDB Runs Recursive CTEs Faster",
+    "url": "https://duckdb.org/2026/08/25/how-duckdb-runs-recursive-ctes-faster",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50037299,
+    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50037295,
+    "title": "The Token Economy: Why Falling Token Prices Have Not Lowered AI Bills",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50037289,
+    "title": "Montray \u2013 a tray icon for systemd service health",
+    "url": "https://github.com/dimonomid/montray/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50037257,
+    "title": "Truck Parking Solver",
+    "url": "https://truckslop.joshu.dev/",
+    "score": 1,
+    "descendants": 0
+  }
+]
