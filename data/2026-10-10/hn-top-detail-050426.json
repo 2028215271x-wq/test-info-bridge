@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50029630,
+    "title": "Lobbying",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+    "score": 34,
+    "descendants": 1
+  },
+  {
+    "id": 50028275,
+    "title": "REA Reverse \u2013 Engineer Anything",
+    "url": "https://rea.tools/",
+    "score": 223,
+    "descendants": 74
+  },
+  {
+    "id": 50019911,
+    "title": "Cloudflare acquires Deno",
+    "url": "https://deno.com/blog/cloudflare",
+    "score": 1131,
+    "descendants": 579
+  },
+  {
+    "id": 50022292,
+    "title": "Triple-A Minesweeper",
+    "url": "https://minesweeper.mikelacher.com/",
+    "score": 788,
+    "descendants": 153
+  },
+  {
+    "id": 49997481,
+    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+    "score": 62,
+    "descendants": 12
+  }
+]
