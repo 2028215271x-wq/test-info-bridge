@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50019911,
+    "title": "Cloudflare acquires Deno",
+    "url": "https://deno.com/blog/cloudflare",
+    "score": 1261,
+    "descendants": 638
+  },
+  {
+    "id": 50022292,
+    "title": "Triple-A Minesweeper",
+    "url": "https://minesweeper.mikelacher.com/",
+    "score": 1051,
+    "descendants": 201
+  },
+  {
+    "id": 50008427,
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "score": 934,
+    "descendants": 180
+  },
+  {
+    "id": 50006832,
+    "title": "Trump administration is suspending Microsoft from a green card program",
+    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+    "score": 931,
+    "descendants": 1592
+  },
+  {
+    "id": 50018088,
+    "title": "Sorry, I'm in a meeting",
+    "url": "https://iminafleeting.com/",
+    "score": 926,
+    "descendants": 260
+  }
+]

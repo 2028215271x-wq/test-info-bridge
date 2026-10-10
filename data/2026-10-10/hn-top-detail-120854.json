@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50031269,
+    "title": "`123456' password used in Danish CPR data breach",
+    "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "score": 134,
+    "descendants": 83
+  },
+  {
+    "id": 50031614,
+    "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "score": 33,
+    "descendants": 11
+  },
+  {
+    "id": 50031653,
+    "title": "Apple/macOS silently removed from official Unix registry",
+    "url": "https://www.opengroup.org//openbrand/register/",
+    "score": 21,
+    "descendants": 6
+  },
+  {
+    "id": 50028275,
+    "title": "REA Reverse \u2013 Engineer Anything",
+    "url": "https://rea.tools/",
+    "score": 473,
+    "descendants": 190
+  },
+  {
+    "id": 50019911,
+    "title": "Cloudflare acquires Deno",
+    "url": "https://deno.com/blog/cloudflare",
+    "score": 1261,
+    "descendants": 638
+  }
+]
