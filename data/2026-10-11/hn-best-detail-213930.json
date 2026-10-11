@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50028275,
+    "title": "REA Reverse \u2013 Engineer Anything",
+    "url": "https://rea.tools/",
+    "score": 761,
+    "descendants": 324
+  },
+  {
+    "id": 50026555,
+    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+    "score": 692,
+    "descendants": 359
+  },
+  {
+    "id": 50041619,
+    "title": "Bot traffic from Yandex",
+    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+    "score": 578,
+    "descendants": 229
+  },
+  {
+    "id": 50029487,
+    "title": "The Lightbulb Computer",
+    "url": "https://lightbulbcomputer.com/",
+    "score": 572,
+    "descendants": 93
+  },
+  {
+    "id": 50040547,
+    "title": "3rd Yandex Cloud Data Center Was Hit",
+    "url": "https://status.yandex.cloud/en/incidents/2136",
+    "score": 526,
+    "descendants": 635
+  }
+]
