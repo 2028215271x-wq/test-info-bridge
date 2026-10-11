@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50022292,
+    "title": "Triple-A Minesweeper",
+    "url": "https://minesweeper.mikelacher.com/",
+    "score": 1389,
+    "descendants": 277
+  },
+  {
+    "id": 50019911,
+    "title": "Cloudflare acquires Deno",
+    "url": "https://deno.com/blog/cloudflare",
+    "score": 1354,
+    "descendants": 705
+  },
+  {
+    "id": 50028275,
+    "title": "REA Reverse \u2013 Engineer Anything",
+    "url": "https://rea.tools/",
+    "score": 743,
+    "descendants": 320
+  },
+  {
+    "id": 50020014,
+    "title": "Our $445M Series D",
+    "url": "https://oxide.computer/blog/our-445m-series-d",
+    "score": 695,
+    "descendants": 323
+  },
+  {
+    "id": 50026555,
+    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+    "score": 673,
+    "descendants": 355
+  }
+]

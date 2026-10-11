@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50041619,
+    "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+    "score": 185,
+    "descendants": 58
+  },
+  {
+    "id": 50042219,
+    "title": "I paid people to try and follow my README",
+    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "score": 28,
+    "descendants": 10
+  },
+  {
+    "id": 50041540,
+    "title": "IRCv3",
+    "url": "https://ircv3.net/",
+    "score": 119,
+    "descendants": 92
+  },
+  {
+    "id": 50041682,
+    "title": "Nitter: Update Oct 10th seeking funding and legal help",
+    "url": "https://nitter.net",
+    "score": 144,
+    "descendants": 30
+  },
+  {
+    "id": 50040276,
+    "title": "LineageOS 24.0",
+    "url": "https://lineageos.org/Changelog-32/",
+    "score": 164,
+    "descendants": 42
+  }
+]
