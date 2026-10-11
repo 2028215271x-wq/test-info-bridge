@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50039886,
+    "title": "Gemini API RLS notes: 3.7-flash now routed to 3.8-flash, 3.5->3.6",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50039864,
+    "title": "CortextAI \u2013 A private, offline AI workspace for email, notes, tasks, and files",
+    "url": "https://cortextai.saposs.com",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50039852,
+    "title": "6 Months of Bubbles",
+    "url": "https://www.gordonmclean.co.uk/2026/10/09/6-months-of-bubbles/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50039849,
+    "title": "Optimization is the root of all evil",
+    "url": "https://12gramsofcarbon.com/p/the-optimization-theory-of-everything",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50039847,
+    "title": "RAOP playback to HomePod 2 stopped working after HomePod OS 27 update",
+    "url": "https://gitlab.freedesktop.org/pipewire/pipewire/-/work_items/5516",
+    "score": 1,
+    "descendants": 0
+  }
+]
