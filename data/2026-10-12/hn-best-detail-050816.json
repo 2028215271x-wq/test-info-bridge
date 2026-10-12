@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50041619,
+    "title": "Bot traffic from Yandex",
+    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+    "score": 596,
+    "descendants": 239
+  },
+  {
+    "id": 50029487,
+    "title": "The Lightbulb Computer",
+    "url": "https://lightbulbcomputer.com/",
+    "score": 584,
+    "descendants": 95
+  },
+  {
+    "id": 50040547,
+    "title": "3rd Yandex Cloud Data Center Was Hit",
+    "url": "https://status.yandex.cloud/en/incidents/2136",
+    "score": 563,
+    "descendants": 686
+  },
+  {
+    "id": 50036864,
+    "title": "A city-building game in which the city would prefer you didn't",
+    "url": "https://housing.over.pizza/",
+    "score": 531,
+    "descendants": 190
+  },
+  {
+    "id": 50032556,
+    "title": "Lobbying is corruption",
+    "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+    "score": 513,
+    "descendants": 284
+  }
+]
