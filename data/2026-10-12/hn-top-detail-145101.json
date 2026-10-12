@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50055375,
+    "title": "Incident with Actions, Pull Requests and Issues",
+    "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+    "score": 64,
+    "descendants": 43
+  },
+  {
+    "id": 50036287,
+    "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
+    "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+    "score": 79,
+    "descendants": 28
+  },
+  {
+    "id": 50056063,
+    "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+    "url": "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable",
+    "score": 28,
+    "descendants": 26
+  },
+  {
+    "id": 50037711,
+    "title": "Secret of Orange Cats Revealed After 60-Year Search",
+    "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+    "score": 94,
+    "descendants": 66
+  },
+  {
+    "id": 50054751,
+    "title": "QGIS bans AI assisted contributions",
+    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+    "score": 250,
+    "descendants": 255
+  }
+]
