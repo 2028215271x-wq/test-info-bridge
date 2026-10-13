@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50064868,
+    "title": "Turn a frontier AI into a multi-agent systems architect",
+    "url": "https://github.com/polymodality/agentic-polymodality/tree/main/ai-guidance",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50064854,
+    "title": "Highlights from \"6 Years Developing a Game in Rust: AMA\" (2024)",
+    "url": "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50064849,
+    "title": "Chain Inspiring License, a copyleft for the REA era",
+    "url": "https://github.com/congrid-project/content-grid-chain/blob/main/CHAIN-INSPIRING-LICENSE.md",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50064840,
+    "title": "Show HN: SolidCraft \u2013 Open-Source Parametric CAD in Rust (With MCP Support)",
+    "url": "https://github.com/bherbruck/solidcraft",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50064832,
+    "title": "Show HN: Recover Claude Code Desktop sessions after switching accounts",
+    "url": "https://github.com/onlyilkr/claude-migrate",
+    "score": 1,
+    "descendants": 0
+  }
+]
