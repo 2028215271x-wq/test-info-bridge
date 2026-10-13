@@ -1,0 +1,34 @@
+[
+  {
+    "id": 50079761,
+    "title": "The reverts will continue until morale improves",
+    "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50079754,
+    "title": "Show HN: Enki LLM A pure rust (even kernels) with live GPU/CPU brain migration",
+    "url": "https://github.com/enkiruntime/enki_llm",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50079730,
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>"
+  },
+  {
+    "id": 50079705,
+    "title": "SF Housing Simulator",
+    "url": "https://sfhousing.mindlace.net/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50079701,
+    "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+    "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+    "score": 1,
+    "descendants": 1
+  }
+]

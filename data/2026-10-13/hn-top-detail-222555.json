@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50078141,
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "score": 164,
+    "descendants": 163
+  },
+  {
+    "id": 50073879,
+    "title": "Gemini 4 Argon",
+    "url": "https://deepmind.google/models/gemini/",
+    "score": 842,
+    "descendants": 666
+  },
+  {
+    "id": 50077020,
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "url": "https://guitoro.com/",
+    "score": 155,
+    "descendants": 55
+  },
+  {
+    "id": 50054092,
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "score": 310,
+    "descendants": 270
+  },
+  {
+    "id": 50073633,
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "score": 429,
+    "descendants": 420
+  }
+]
