@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50090732,
+    "title": "Shelley.dev",
+    "url": "https://shelley.dev",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50090731,
+    "title": "Grok Voice 3.0",
+    "url": "https://x.ai/news/grok-voice-3",
+    "score": 3,
+    "descendants": 0
+  },
+  {
+    "id": 50090707,
+    "title": "OpenAI: Employee who left for Apple took files about unreleased device",
+    "url": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/",
+    "score": 5,
+    "descendants": 0
+  },
+  {
+    "id": 50090688,
+    "title": "Anthropic's Claude cruelty policy risks humanising AI",
+    "url": "https://unherd.com/newsroom/anthropics-claude-cruelty-policy-risks-humanising-ai/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50090683,
+    "title": "Show HN: An offline 0.8B model that ties Gemini Flash on OpenStreetMap questions",
+    "url": "https://jonready.com/blog/posts/rl-on-a-0_8b-travel-agent.html",
+    "score": 1,
+    "descendants": 1
+  }
+]

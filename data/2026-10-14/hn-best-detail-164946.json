@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50073879,
+    "title": "Gemini 4 Argon",
+    "url": "https://deepmind.google/models/gemini/",
+    "score": 1405,
+    "descendants": 1008
+  },
+  {
+    "id": 50073633,
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "score": 842,
+    "descendants": 928
+  },
+  {
+    "id": 50063427,
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "score": 748,
+    "descendants": 577
+  },
+  {
+    "id": 50071017,
+    "title": "Apple HomeView",
+    "url": "https://www.apple.com/apple-homeview/",
+    "score": 744,
+    "descendants": 879
+  },
+  {
+    "id": 50070302,
+    "title": "Firefox Enterprise",
+    "url": "https://www.firefox.com/en-US/enterprise/",
+    "score": 732,
+    "descendants": 315
+  }
+]

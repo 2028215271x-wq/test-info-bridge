@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50084240,
+    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "url": "https://typeof.net/Iosevka/",
+    "score": 508,
+    "descendants": 206
+  },
+  {
+    "id": 50089229,
+    "title": "Submarine Cable Resilience",
+    "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+    "score": 17,
+    "descendants": 1
+  },
+  {
+    "id": 50086165,
+    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+    "url": "https://github.com/timescale/pg_vectorsearch",
+    "score": 130,
+    "descendants": 38
+  },
+  {
+    "id": 50084757,
+    "title": "Amazon pushes up prices across the Internet",
+    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+    "score": 466,
+    "descendants": 424
+  },
+  {
+    "id": 50088430,
+    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+    "score": 110,
+    "descendants": 89
+  }
+]
