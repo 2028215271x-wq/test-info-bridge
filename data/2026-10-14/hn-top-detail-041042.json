@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50073879,
+    "title": "Gemini 4 Argon",
+    "url": "https://deepmind.google/models/gemini/",
+    "score": 1114,
+    "descendants": 808
+  },
+  {
+    "id": 50054092,
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "score": 528,
+    "descendants": 379
+  },
+  {
+    "id": 50077020,
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "url": "https://guitoro.com/",
+    "score": 339,
+    "descendants": 96
+  },
+  {
+    "id": 50080007,
+    "title": "Grace Hopper Celebration Cancelled",
+    "url": "https://anitab.org/press-release",
+    "score": 35,
+    "descendants": 3
+  },
+  {
+    "id": 50073633,
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "score": 611,
+    "descendants": 587
+  }
+]

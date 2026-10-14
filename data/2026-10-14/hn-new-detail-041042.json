@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50082283,
+    "title": "US Says Chinese Hackers Attacked DOJ, NASA, Federal Reserve, Senate",
+    "url": "https://www.usatoday.com/story/news/politics/2026/08/26/chinese-hackers-cyberattack-us-government/91473585007/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50082275,
+    "title": "Homard: Hammering Off-Chip Memory via Aggregate Power Rail Disclosure",
+    "url": "https://arxiv.org/abs/2610.12621",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50082232,
+    "title": "Bru: Send and Read SMS from the Browser",
+    "url": "https://sverre.me/projects/bru/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50082231,
+    "title": "Perfect-er Freehand",
+    "url": "",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50082164,
+    "title": "BlazeZip \u2013 A fast, parallel, ZIP archiver for Windows, with a benchmark suite",
+    "url": "https://github.com/marksmayo/blazezip",
+    "score": 1,
+    "descendants": 0
+  }
+]
