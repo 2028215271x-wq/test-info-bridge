@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50084240,
+    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "url": "https://typeof.net/Iosevka/",
+    "score": 164,
+    "descendants": 64
+  },
+  {
+    "id": 50085296,
+    "title": "I let an AI run my startup for a week",
+    "url": "https://daily.tinyprojects.dev/221",
+    "score": 39,
+    "descendants": 28
+  },
+  {
+    "id": 50085332,
+    "title": "Show HN: Building an LLM from Scratch in TypeScript",
+    "url": "https://book.humanexperiences.io/",
+    "score": 14,
+    "descendants": 0
+  },
+  {
+    "id": 50085306,
+    "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+    "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+    "score": 10,
+    "descendants": 0
+  },
+  {
+    "id": 50084757,
+    "title": "Amazon pushes up prices across the Internet",
+    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+    "score": 21,
+    "descendants": 9
+  }
+]
