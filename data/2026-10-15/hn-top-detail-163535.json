@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50105344,
+    "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+    "url": "https://snoutcover.com/one-year",
+    "score": 99,
+    "descendants": 45
+  },
+  {
+    "id": 50104654,
+    "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "score": 97,
+    "descendants": 65
+  },
+  {
+    "id": 50103338,
+    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "url": "https://github.com/fyzugx/DEsk",
+    "score": 205,
+    "descendants": 83
+  },
+  {
+    "id": 50103630,
+    "title": "I know why Mathematicians weep",
+    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "score": 157,
+    "descendants": 225
+  },
+  {
+    "id": 50102923,
+    "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+    "url": "https://libreboot.org/news/libreboot2610.html",
+    "score": 148,
+    "descendants": 76
+  }
+]
