@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50073879,
+    "title": "Gemini 4 Argon",
+    "url": "https://deepmind.google/models/gemini/",
+    "score": 1440,
+    "descendants": 1027
+  },
+  {
+    "id": 50093568,
+    "title": "Things to know when you get cancer",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "score": 948,
+    "descendants": 229
+  },
+  {
+    "id": 50073633,
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "score": 870,
+    "descendants": 967
+  },
+  {
+    "id": 50091788,
+    "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "score": 851,
+    "descendants": 470
+  },
+  {
+    "id": 50070302,
+    "title": "Firefox Enterprise",
+    "url": "https://www.firefox.com/en-US/enterprise/",
+    "score": 758,
+    "descendants": 325
+  }
+]
