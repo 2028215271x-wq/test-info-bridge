@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50112657,
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "score": 815,
+    "descendants": 1490
+  },
+  {
+    "id": 50122800,
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 332,
+    "descendants": 131
+  },
+  {
+    "id": 50122431,
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "url": "https://github.com/cobanov/PS5LM",
+    "score": 78,
+    "descendants": 25
+  },
+  {
+    "id": 50123580,
+    "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "score": 15,
+    "descendants": 2
+  },
+  {
+    "id": 50123356,
+    "title": "The Fatal Flaw of 911",
+    "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+    "score": 22,
+    "descendants": 19
+  }
+]

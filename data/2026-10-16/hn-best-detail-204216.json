@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50107379,
+    "title": "Muse Spark Open",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "score": 896,
+    "descendants": 462
+  },
+  {
+    "id": 50094994,
+    "title": "OpenCode 2.0",
+    "url": "https://anoma.ly/notes/opencode-2-0/",
+    "score": 877,
+    "descendants": 382
+  },
+  {
+    "id": 50112657,
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "score": 815,
+    "descendants": 1490
+  },
+  {
+    "id": 50105647,
+    "title": "Neural networks are clean",
+    "url": "https://already-clean.goodfire.com/",
+    "score": 792,
+    "descendants": 319
+  },
+  {
+    "id": 50096142,
+    "title": "Tiny Little Office",
+    "url": "https://tinylittleoffice.com/",
+    "score": 689,
+    "descendants": 204
+  }
+]
