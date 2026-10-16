@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50118828,
+    "title": "What on Earth Is Dekton?",
+    "url": "https://www.worksinprogress.news/p/porcelain",
+    "score": 37,
+    "descendants": 3
+  },
+  {
+    "id": 50118977,
+    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+    "url": "https://calif.io/research/big-fish",
+    "score": 66,
+    "descendants": 8
+  },
+  {
+    "id": 50118320,
+    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "score": 81,
+    "descendants": 34
+  },
+  {
+    "id": 50118688,
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "score": 57,
+    "descendants": 31
+  },
+  {
+    "id": 50117746,
+    "title": "I Love Software Rendering",
+    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "score": 182,
+    "descendants": 129
+  }
+]
