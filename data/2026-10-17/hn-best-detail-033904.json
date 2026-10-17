@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50112657,
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "score": 1262,
+    "descendants": 2261
+  },
+  {
+    "id": 50107379,
+    "title": "Muse Spark Open",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "score": 902,
+    "descendants": 467
+  },
+  {
+    "id": 50105647,
+    "title": "Neural networks are clean",
+    "url": "https://already-clean.goodfire.com/",
+    "score": 801,
+    "descendants": 325
+  },
+  {
+    "id": 50122800,
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 736,
+    "descendants": 282
+  },
+  {
+    "id": 50103338,
+    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "url": "https://github.com/fyzugx/DEsk",
+    "score": 684,
+    "descendants": 278
+  }
+]
