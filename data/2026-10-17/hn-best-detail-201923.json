@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50112657,
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "score": 1590,
+    "descendants": 2900
+  },
+  {
+    "id": 50122800,
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 1008,
+    "descendants": 372
+  },
+  {
+    "id": 50109715,
+    "title": "What I self-host",
+    "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+    "score": 652,
+    "descendants": 426
+  },
+  {
+    "id": 50121179,
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "score": 584,
+    "descendants": 526
+  },
+  {
+    "id": 50129045,
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "score": 552,
+    "descendants": 500
+  }
+]
