@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50112657,
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "score": 1531,
+    "descendants": 2787
+  },
+  {
+    "id": 50122800,
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 953,
+    "descendants": 343
+  },
+  {
+    "id": 50107379,
+    "title": "Muse Spark Open",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "score": 911,
+    "descendants": 471
+  },
+  {
+    "id": 50105647,
+    "title": "Neural networks are clean",
+    "url": "https://already-clean.goodfire.com/",
+    "score": 805,
+    "descendants": 330
+  },
+  {
+    "id": 50109715,
+    "title": "What I self-host",
+    "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+    "score": 648,
+    "descendants": 424
+  }
+]
