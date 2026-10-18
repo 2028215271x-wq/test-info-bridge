@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50142573,
+    "title": "Someone behind the software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "score": 168,
+    "descendants": 63
+  },
+  {
+    "id": 50141076,
+    "title": "RepRapMicron",
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "score": 282,
+    "descendants": 40
+  },
+  {
+    "id": 50144066,
+    "title": "Free Pascal compiler now supports dynamic packages",
+    "url": "https://www.getlazarus.org/dynamic/",
+    "score": 34,
+    "descendants": 8
+  },
+  {
+    "id": 50143536,
+    "title": "PalmOS Lemmings",
+    "url": "https://github.com/ardiri/palmos-lemmings",
+    "score": 38,
+    "descendants": 6
+  },
+  {
+    "id": 50142449,
+    "title": "The Intel 8087 chip: floating-point addition and subtraction",
+    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+    "score": 62,
+    "descendants": 12
+  }
+]
