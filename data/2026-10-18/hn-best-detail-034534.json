@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50122800,
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 1027,
+    "descendants": 378
+  },
+  {
+    "id": 50133401,
+    "title": "OpenCode Hacked: User credentials leaked",
+    "url": "https://twitter.com/opencode/status/2111516673953935833",
+    "score": 805,
+    "descendants": 152
+  },
+  {
+    "id": 50129045,
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "score": 744,
+    "descendants": 607
+  },
+  {
+    "id": 50121179,
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "score": 599,
+    "descendants": 548
+  },
+  {
+    "id": 50122878,
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "score": 517,
+    "descendants": 120
+  }
+]
