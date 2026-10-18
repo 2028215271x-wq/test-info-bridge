@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50122800,
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 1044,
+    "descendants": 386
+  },
+  {
+    "id": 50129045,
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "score": 917,
+    "descendants": 680
+  },
+  {
+    "id": 50133401,
+    "title": "OpenCode Hacked: User credentials leaked",
+    "url": "https://twitter.com/opencode/status/2111516673953935833",
+    "score": 898,
+    "descendants": 169
+  },
+  {
+    "id": 50131256,
+    "title": "Solar surpasses nuclear power globally for first time",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "score": 646,
+    "descendants": 408
+  },
+  {
+    "id": 50121179,
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "score": 611,
+    "descendants": 557
+  }
+]
