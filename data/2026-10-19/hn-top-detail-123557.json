@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50150750,
+    "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+    "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+    "score": 151,
+    "descendants": 65
+  },
+  {
+    "id": 50149392,
+    "title": "Linux 7.3 Released",
+    "url": "https://lwn.net/Articles/1101143/",
+    "score": 317,
+    "descendants": 138
+  },
+  {
+    "id": 50150434,
+    "title": "Timestral: Mistral release time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "score": 103,
+    "descendants": 20
+  },
+  {
+    "id": 50150809,
+    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+    "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+    "score": 45,
+    "descendants": 9
+  },
+  {
+    "id": 50151390,
+    "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+    "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+    "score": 19,
+    "descendants": 3
+  }
+]
