@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50160494,
+    "title": "OpenBSD 8.0",
+    "url": "https://www.openbsd.org/80.html",
+    "score": 40,
+    "descendants": 5
+  },
+  {
+    "id": 50154540,
+    "title": "MiniMax M3.1 Flash",
+    "url": "https://www.minimax.io/blog/minimax-m31f",
+    "score": 409,
+    "descendants": 174
+  },
+  {
+    "id": 50159341,
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "score": 100,
+    "descendants": 13
+  },
+  {
+    "id": 50150089,
+    "title": "I built a drone with only one motor [video]",
+    "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+    "score": 447,
+    "descendants": 98
+  },
+  {
+    "id": 50140584,
+    "title": "Weball: Play Katamari on Websites",
+    "url": "https://www.funwithcomputervision.com/weball/",
+    "score": 111,
+    "descendants": 10
+  }
+]
