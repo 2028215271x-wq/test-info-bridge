@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50170593,
+    "title": "SimCity, but with Permits",
+    "url": "https://permit.petercai.com/",
+    "score": 315,
+    "descendants": 159
+  },
+  {
+    "id": 50168396,
+    "title": "Voxtral 3",
+    "url": "https://mistral.ai/news/voxtral-3/",
+    "score": 424,
+    "descendants": 115
+  },
+  {
+    "id": 50163277,
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "score": 2024,
+    "descendants": 790
+  },
+  {
+    "id": 50169053,
+    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+    "url": "https://github.com/google-pytorch/torch_tpu",
+    "score": 197,
+    "descendants": 47
+  },
+  {
+    "id": 50169707,
+    "title": "What shall I teach my son?",
+    "url": "https://stevekrouse.com/ends",
+    "score": 130,
+    "descendants": 218
+  }
+]
