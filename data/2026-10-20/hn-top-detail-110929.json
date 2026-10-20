@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50163277,
+    "title": "DeepSeek just open-sourced its inference engine",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "score": 355,
+    "descendants": 121
+  },
+  {
+    "id": 50141581,
+    "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
+    "url": "https://github.com/tywr/Nordwand-Mono",
+    "score": 293,
+    "descendants": 93
+  },
+  {
+    "id": 50160494,
+    "title": "OpenBSD 8.0",
+    "url": "https://www.openbsd.org/80.html",
+    "score": 320,
+    "descendants": 103
+  },
+  {
+    "id": 50162177,
+    "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+    "url": "https://github.com/microg/GmsCore/wiki",
+    "score": 74,
+    "descendants": 4
+  },
+  {
+    "id": 50159341,
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "score": 470,
+    "descendants": 139
+  }
+]
