@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50186129,
+    "title": "Mistral Large 4",
+    "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+    "score": 291,
+    "descendants": 79
+  },
+  {
+    "id": 50186215,
+    "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+    "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+    "score": 168,
+    "descendants": 36
+  },
+  {
+    "id": 50182987,
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "score": 503,
+    "descendants": 237
+  },
+  {
+    "id": 50185869,
+    "title": "GitLab Remote Code Execution - Integer Overflow issue",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "score": 108,
+    "descendants": 25
+  },
+  {
+    "id": 50181114,
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "score": 345,
+    "descendants": 117
+  }
+]

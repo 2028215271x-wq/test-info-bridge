@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50163277,
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "score": 2298,
+    "descendants": 880
+  },
+  {
+    "id": 50172041,
+    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+    "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+    "score": 1492,
+    "descendants": 646
+  },
+  {
+    "id": 50166579,
+    "title": "eMudhra intermediate CA compromise",
+    "url": "https://emudhra.we-have-a-problem.com/",
+    "score": 1186,
+    "descendants": 467
+  },
+  {
+    "id": 50180873,
+    "title": "PHP 8.2.35",
+    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "score": 917,
+    "descendants": 514
+  },
+  {
+    "id": 50170593,
+    "title": "Show HN: SimCity, but with Permits",
+    "url": "https://permit.petercai.com/",
+    "score": 902,
+    "descendants": 408
+  }
+]
