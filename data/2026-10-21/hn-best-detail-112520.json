@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50163277,
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "score": 2261,
+    "descendants": 862
+  },
+  {
+    "id": 50172041,
+    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+    "url": "https://news-web.php.net/php.announce/509",
+    "score": 1001,
+    "descendants": 407
+  },
+  {
+    "id": 50166579,
+    "title": "eMudhra intermediate CA compromise",
+    "url": "https://emudhra.we-have-a-problem.com/",
+    "score": 1001,
+    "descendants": 415
+  },
+  {
+    "id": 50170593,
+    "title": "Show HN: SimCity, but with Permits",
+    "url": "https://permit.petercai.com/",
+    "score": 816,
+    "descendants": 383
+  },
+  {
+    "id": 50159341,
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "score": 729,
+    "descendants": 208
+  }
+]
