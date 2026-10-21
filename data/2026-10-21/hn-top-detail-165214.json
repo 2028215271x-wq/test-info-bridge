@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50180873,
+    "title": "PHP 8.2.35",
+    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "score": 669,
+    "descendants": 264
+  },
+  {
+    "id": 50182987,
+    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "score": 124,
+    "descendants": 54
+  },
+  {
+    "id": 50181136,
+    "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
+    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "score": 204,
+    "descendants": 23
+  },
+  {
+    "id": 50181114,
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "score": 127,
+    "descendants": 54
+  },
+  {
+    "id": 50181175,
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "score": 130,
+    "descendants": 70
+  }
+]

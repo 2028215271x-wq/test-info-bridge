@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50163277,
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "score": 2285,
+    "descendants": 875
+  },
+  {
+    "id": 50172041,
+    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+    "url": "https://news-web.php.net/php.announce/509",
+    "score": 1459,
+    "descendants": 615
+  },
+  {
+    "id": 50166579,
+    "title": "eMudhra intermediate CA compromise",
+    "url": "https://emudhra.we-have-a-problem.com/",
+    "score": 1157,
+    "descendants": 444
+  },
+  {
+    "id": 50170593,
+    "title": "Show HN: SimCity, but with Permits",
+    "url": "https://permit.petercai.com/",
+    "score": 883,
+    "descendants": 398
+  },
+  {
+    "id": 50168396,
+    "title": "Voxtral 3",
+    "url": "https://mistral.ai/news/voxtral-3/",
+    "score": 748,
+    "descendants": 194
+  }
+]
