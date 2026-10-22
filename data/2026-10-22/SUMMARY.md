@@ -1,28 +1,36 @@
-# Bridge 2026-10-22T16:52:28Z
+# Bridge 2026-10-22T21:20:06Z
 
-total 524K
--rw-r--r-- 1 runner runner   31 Oct 22 16:52 SUMMARY.md
--rw-r--r-- 1 runner runner 1.8K Oct 22 16:52 hn-best-035626.json
--rw-r--r-- 1 runner runner 1.8K Oct 22 16:52 hn-best-112521.json
--rw-r--r-- 1 runner runner 1.8K Oct 22 16:52 hn-best-165216.json
--rw-r--r-- 1 runner runner  946 Oct 22 16:52 hn-best-detail-035626.json
--rw-r--r-- 1 runner runner  987 Oct 22 16:52 hn-best-detail-112521.json
--rw-r--r-- 1 runner runner 1.1K Oct 22 16:52 hn-best-detail-165216.json
--rw-r--r-- 1 runner runner 4.4K Oct 22 16:52 hn-new-035626.json
--rw-r--r-- 1 runner runner 4.4K Oct 22 16:52 hn-new-112521.json
--rw-r--r-- 1 runner runner 4.4K Oct 22 16:52 hn-new-165216.json
--rw-r--r-- 1 runner runner  994 Oct 22 16:52 hn-new-detail-035626.json
--rw-r--r-- 1 runner runner 1.1K Oct 22 16:52 hn-new-detail-112521.json
--rw-r--r-- 1 runner runner  920 Oct 22 16:52 hn-new-detail-165216.json
--rw-r--r-- 1 runner runner 4.4K Oct 22 16:52 hn-top-035626.json
--rw-r--r-- 1 runner runner 4.4K Oct 22 16:52 hn-top-112521.json
--rw-r--r-- 1 runner runner 4.4K Oct 22 16:52 hn-top-165216.json
--rw-r--r-- 1 runner runner 1.1K Oct 22 16:52 hn-top-detail-035626.json
--rw-r--r-- 1 runner runner 1.1K Oct 22 16:52 hn-top-detail-112521.json
--rw-r--r-- 1 runner runner  896 Oct 22 16:52 hn-top-detail-165216.json
--rw-r--r-- 1 runner runner 139K Oct 22 16:52 reddit-MachineLearning-035626.rss
--rw-r--r-- 1 runner runner 139K Oct 22 16:52 reddit-MachineLearning-112521.rss
--rw-r--r-- 1 runner runner 143K Oct 22 16:52 reddit-MachineLearning-165216.rss
--rw-r--r-- 1 runner runner    0 Oct 22 16:52 reddit-artificial-035626.rss
--rw-r--r-- 1 runner runner    0 Oct 22 16:52 reddit-artificial-112521.rss
--rw-r--r-- 1 runner runner    0 Oct 22 16:52 reddit-artificial-165216.rss
+total 888K
+-rw-r--r-- 1 runner runner   31 Oct 22 21:20 SUMMARY.md
+-rw-r--r-- 1 runner runner 1.8K Oct 22 21:19 hn-best-035626.json
+-rw-r--r-- 1 runner runner 1.8K Oct 22 21:19 hn-best-112521.json
+-rw-r--r-- 1 runner runner 1.8K Oct 22 21:19 hn-best-165216.json
+-rw-r--r-- 1 runner runner 1.8K Oct 22 21:20 hn-best-211953.json
+-rw-r--r-- 1 runner runner  946 Oct 22 21:19 hn-best-detail-035626.json
+-rw-r--r-- 1 runner runner  987 Oct 22 21:19 hn-best-detail-112521.json
+-rw-r--r-- 1 runner runner 1.1K Oct 22 21:19 hn-best-detail-165216.json
+-rw-r--r-- 1 runner runner 1.1K Oct 22 21:20 hn-best-detail-211953.json
+-rw-r--r-- 1 runner runner 4.4K Oct 22 21:19 hn-new-035626.json
+-rw-r--r-- 1 runner runner 4.4K Oct 22 21:19 hn-new-112521.json
+-rw-r--r-- 1 runner runner 4.4K Oct 22 21:19 hn-new-165216.json
+-rw-r--r-- 1 runner runner 4.4K Oct 22 21:20 hn-new-211953.json
+-rw-r--r-- 1 runner runner  994 Oct 22 21:19 hn-new-detail-035626.json
+-rw-r--r-- 1 runner runner 1.1K Oct 22 21:19 hn-new-detail-112521.json
+-rw-r--r-- 1 runner runner  920 Oct 22 21:19 hn-new-detail-165216.json
+-rw-r--r-- 1 runner runner 1.1K Oct 22 21:20 hn-new-detail-211953.json
+-rw-r--r-- 1 runner runner 4.4K Oct 22 21:19 hn-top-035626.json
+-rw-r--r-- 1 runner runner 4.4K Oct 22 21:19 hn-top-112521.json
+-rw-r--r-- 1 runner runner 4.4K Oct 22 21:19 hn-top-165216.json
+-rw-r--r-- 1 runner runner 4.4K Oct 22 21:20 hn-top-211953.json
+-rw-r--r-- 1 runner runner 1.1K Oct 22 21:19 hn-top-detail-035626.json
+-rw-r--r-- 1 runner runner 1.1K Oct 22 21:19 hn-top-detail-112521.json
+-rw-r--r-- 1 runner runner  896 Oct 22 21:19 hn-top-detail-165216.json
+-rw-r--r-- 1 runner runner  970 Oct 22 21:20 hn-top-detail-211953.json
+-rw-r--r-- 1 runner runner 139K Oct 22 21:19 reddit-MachineLearning-035626.rss
+-rw-r--r-- 1 runner runner 139K Oct 22 21:19 reddit-MachineLearning-112521.rss
+-rw-r--r-- 1 runner runner 143K Oct 22 21:19 reddit-MachineLearning-165216.rss
+-rw-r--r-- 1 runner runner 144K Oct 22 21:19 reddit-MachineLearning-211953.rss
+-rw-r--r-- 1 runner runner    0 Oct 22 21:19 reddit-artificial-035626.rss
+-rw-r--r-- 1 runner runner    0 Oct 22 21:19 reddit-artificial-112521.rss
+-rw-r--r-- 1 runner runner    0 Oct 22 21:19 reddit-artificial-165216.rss
+-rw-r--r-- 1 runner runner 186K Oct 22 21:20 reddit-artificial-211953.rss

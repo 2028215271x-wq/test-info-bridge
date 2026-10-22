@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50195959,
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "url": "https://quad9.net/news/blog/au-revoir-france/",
+    "score": 749,
+    "descendants": 286
+  },
+  {
+    "id": 50198675,
+    "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "score": 192,
+    "descendants": 97
+  },
+  {
+    "id": 50197404,
+    "title": "Getting ready to operate GNU Taler in Germany",
+    "url": "https://www.taler.net/en/news/2026-13.html",
+    "score": 157,
+    "descendants": 53
+  },
+  {
+    "id": 50196718,
+    "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "score": 246,
+    "descendants": 83
+  },
+  {
+    "id": 50199290,
+    "title": "Show HN: UI micro interactions prompts for AI",
+    "url": "https://www.typeui.sh/micro-interactions",
+    "score": 53,
+    "descendants": 22
+  }
+]
