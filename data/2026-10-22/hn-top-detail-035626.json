@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50189232,
+    "title": "mitmproxy adds --emudhra option",
+    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "score": 315,
+    "descendants": 83
+  },
+  {
+    "id": 50190168,
+    "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+    "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+    "score": 81,
+    "descendants": 32
+  },
+  {
+    "id": 50190455,
+    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "score": 41,
+    "descendants": 21
+  },
+  {
+    "id": 50188948,
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "url": "https://eliastaylor.com/noexploit/",
+    "score": 258,
+    "descendants": 130
+  },
+  {
+    "id": 50188228,
+    "title": "Security Disclosure",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "score": 360,
+    "descendants": 208
+  }
+]
