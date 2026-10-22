@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50172041,
+    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+    "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+    "score": 1539,
+    "descendants": 655
+  },
+  {
+    "id": 50180873,
+    "title": "PHP 8.2.35",
+    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "score": 1061,
+    "descendants": 554
+  },
+  {
+    "id": 50170593,
+    "title": "Show HN: SimCity, but with Permits",
+    "url": "https://permit.petercai.com/",
+    "score": 922,
+    "descendants": 416
+  },
+  {
+    "id": 50177916,
+    "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+    "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "score": 910,
+    "descendants": 445
+  },
+  {
+    "id": 50182987,
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "score": 776,
+    "descendants": 387
+  }
+]
