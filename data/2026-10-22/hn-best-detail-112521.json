@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50172041,
+    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+    "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+    "score": 1527,
+    "descendants": 655
+  },
+  {
+    "id": 50166579,
+    "title": "eMudhra intermediate CA compromise",
+    "url": "https://emudhra.we-have-a-problem.com/",
+    "score": 1230,
+    "descendants": 487
+  },
+  {
+    "id": 50180873,
+    "title": "PHP 8.2.35",
+    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "score": 1041,
+    "descendants": 547
+  },
+  {
+    "id": 50170593,
+    "title": "Show HN: SimCity, but with Permits",
+    "url": "https://permit.petercai.com/",
+    "score": 914,
+    "descendants": 413
+  },
+  {
+    "id": 50177916,
+    "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+    "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "score": 894,
+    "descendants": 429
+  }
+]
