@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50202285,
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "url": "https://edjefferson.com/localwiki/",
+    "score": 480,
+    "descendants": 116
+  },
+  {
+    "id": 50202681,
+    "title": "Docker is weird",
+    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "score": 534,
+    "descendants": 234
+  },
+  {
+    "id": 50206361,
+    "title": "The Rise and Fall of Jev",
+    "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+    "score": 27,
+    "descendants": 17
+  },
+  {
+    "id": 50203161,
+    "title": "The foolishness of \"natural language programming\" (1978)",
+    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "score": 201,
+    "descendants": 114
+  },
+  {
+    "id": 50201445,
+    "title": "How does Fable 5.1 hide messages in images?",
+    "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+    "score": 105,
+    "descendants": 34
+  }
+]

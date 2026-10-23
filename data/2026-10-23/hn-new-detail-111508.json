@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50207196,
+    "title": "Tell HN: Steamcmd doesn't work on Apple Silicon",
+    "url": "",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50207185,
+    "title": "Go Time Patterns for Agent Scheduling",
+    "url": "https://cheikhhseck.medium.com/10-go-time-patterns-for-agent-scheduling-8e0b64dffb5e",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50207180,
+    "title": "Brotli vulnerability affects curl and Git",
+    "url": "https://github.com/advisories/GHSA-9v8h-qqgm-4m35",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50207175,
+    "title": "Show HN: LeakLock \u2013 Gitleaks for your live site(finds keys with no known format)",
+    "url": "https://github.com/sgroy10/Leaklock",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50207151,
+    "title": "Alaska's Senate Race Could Be Decided by Salmon",
+    "url": "https://www.newyorker.com/news/the-political-scene/alaskas-senate-race-could-be-decided-by-salmon",
+    "score": 1,
+    "descendants": 0
+  }
+]
