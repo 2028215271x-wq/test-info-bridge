@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50212065,
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "score": 510,
+    "descendants": 310
+  },
+  {
+    "id": 50207910,
+    "title": "Apple Music 404 Not Found",
+    "url": "https://music.apple.com/this-url-doesnt-exist",
+    "score": 304,
+    "descendants": 115
+  },
+  {
+    "id": 50211474,
+    "title": "Today, we hacked what we'd set out to hack: the iPhone",
+    "url": "https://blog.calif.io/p/iphone",
+    "score": 585,
+    "descendants": 398
+  },
+  {
+    "id": 50213925,
+    "title": "Dessa: the most authentic full-duplex speech model ever built",
+    "url": "https://block.xyz/dessa",
+    "score": 61,
+    "descendants": 12
+  },
+  {
+    "id": 50214323,
+    "title": "We are all living inside of an obscure sci-fi film from 1970",
+    "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+    "score": 20,
+    "descendants": 6
+  }
+]
