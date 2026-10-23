@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50202681,
+    "title": "Docker is weird",
+    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "score": 212,
+    "descendants": 112
+  },
+  {
+    "id": 50202217,
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "score": 189,
+    "descendants": 104
+  },
+  {
+    "id": 50195959,
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "url": "https://quad9.net/news/blog/au-revoir-france/",
+    "score": 1047,
+    "descendants": 376
+  },
+  {
+    "id": 50162431,
+    "title": "The Secret Life of Circuits is now in stock everywhere",
+    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+    "score": 45,
+    "descendants": 14
+  },
+  {
+    "id": 50173516,
+    "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+    "score": 35,
+    "descendants": 11
+  }
+]

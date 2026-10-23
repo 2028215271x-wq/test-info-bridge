@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50204349,
+    "title": "3D Printed Photobioreactor [video]",
+    "url": "https://www.youtube.com/watch?v=SLckTj_tJg4",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50204348,
+    "title": "Trump Officials Asked Agency to Obtain and Hack a Voting Machine",
+    "url": "https://www.ibtimes.co.uk/trump-appointees-cisa-hack-voting-machine-1826479",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50204334,
+    "title": "Keycloak: Unauthenticated account takeover via reset-credentials flow bypass",
+    "url": "https://access.redhat.com/security/cve/cve-2026-18963",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50204322,
+    "title": "UUIDv7 doesn't have the properties you think it does",
+    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50204313,
+    "title": "History of Civilization, the Game Franchise",
+    "url": "https://www.polygon.com/civilization-games-oral-history/",
+    "score": 1,
+    "descendants": 0
+  }
+]
