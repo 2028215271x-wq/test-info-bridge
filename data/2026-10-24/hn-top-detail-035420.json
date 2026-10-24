@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50212065,
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "score": 776,
+    "descendants": 478
+  },
+  {
+    "id": 50217500,
+    "title": "Twelve years of distributed SQLite",
+    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+    "score": 38,
+    "descendants": 1
+  },
+  {
+    "id": 50207910,
+    "title": "Apple Music 404 Not Found",
+    "url": "https://music.apple.com/this-url-doesnt-exist",
+    "score": 640,
+    "descendants": 208
+  },
+  {
+    "id": 50215530,
+    "title": "CVE Tracker",
+    "url": "https://cve.0xosprey.com/",
+    "score": 124,
+    "descendants": 53
+  },
+  {
+    "id": 50202285,
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "url": "https://edjefferson.com/localwiki/",
+    "score": 1294,
+    "descendants": 226
+  }
+]
