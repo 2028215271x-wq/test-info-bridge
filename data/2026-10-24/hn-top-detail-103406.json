@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50219666,
+    "title": "I Don't Understand Quantum Physics",
+    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+    "score": 33,
+    "descendants": 13
+  },
+  {
+    "id": 50218430,
+    "title": "OBS Studio 33",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+    "score": 166,
+    "descendants": 51
+  },
+  {
+    "id": 50212065,
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "score": 923,
+    "descendants": 542
+  },
+  {
+    "id": 50186450,
+    "title": "Physicists trap a single antimatter particle for a month",
+    "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+    "score": 55,
+    "descendants": 19
+  },
+  {
+    "id": 50219186,
+    "title": "ThinkRail from JetBrains",
+    "url": "https://thinkrail.ai/",
+    "score": 30,
+    "descendants": 21
+  }
+]
