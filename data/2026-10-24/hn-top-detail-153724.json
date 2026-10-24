@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50221676,
+    "title": "Google illegally cut down 250K trees in Finland for data center",
+    "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+    "score": 153,
+    "descendants": 67
+  },
+  {
+    "id": 50192975,
+    "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+    "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+    "score": 39,
+    "descendants": 4
+  },
+  {
+    "id": 50218430,
+    "title": "OBS Studio 33",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+    "score": 328,
+    "descendants": 103
+  },
+  {
+    "id": 50217495,
+    "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+    "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+    "score": 398,
+    "descendants": 127
+  },
+  {
+    "id": 50219177,
+    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+    "score": 128,
+    "descendants": 66
+  }
+]
