@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50202285,
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "url": "https://edjefferson.com/localwiki/",
+    "score": 1513,
+    "descendants": 240
+  },
+  {
+    "id": 50211474,
+    "title": "Today, we hacked what we'd set out to hack: the iPhone",
+    "url": "https://blog.calif.io/p/iphone",
+    "score": 1063,
+    "descendants": 660
+  },
+  {
+    "id": 50212065,
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "score": 1053,
+    "descendants": 643
+  },
+  {
+    "id": 50207910,
+    "title": "Apple Music 404 Not Found",
+    "url": "https://music.apple.com/this-url-doesnt-exist",
+    "score": 901,
+    "descendants": 265
+  },
+  {
+    "id": 50202681,
+    "title": "Docker is weird",
+    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "score": 859,
+    "descendants": 367
+  }
+]
