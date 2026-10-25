@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50234474,
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "score": 175,
+    "descendants": 26
+  },
+  {
+    "id": 50235316,
+    "title": "Eunice is almost here (William Gibson, Agency)",
+    "url": "https://armincat.com/articles/eunice-is-almost-here",
+    "score": 17,
+    "descendants": 13
+  },
+  {
+    "id": 50233779,
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "score": 266,
+    "descendants": 126
+  },
+  {
+    "id": 50233929,
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "url": "https://talkweb.eu/openweb/4558/",
+    "score": 254,
+    "descendants": 122
+  },
+  {
+    "id": 50233294,
+    "title": "JetBrains Thinkrail",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "score": 83,
+    "descendants": 34
+  }
+]

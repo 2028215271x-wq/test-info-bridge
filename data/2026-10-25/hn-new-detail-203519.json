@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50235794,
+    "title": "Ask HN: How fast is your CI these days?",
+    "url": "",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50235788,
+    "title": "The Factory Outside Phoenix That Could Save American Manufacturing",
+    "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50235780,
+    "title": "The State of Context Engineering",
+    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50235773,
+    "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering (2023)",
+    "url": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50235759,
+    "title": "Show HN: MTA.rip: a train visualizer that shows congestion",
+    "url": "https://mta.rip/?station=127&route=1&view=trackmap",
+    "score": 2,
+    "descendants": 0
+  }
+]
