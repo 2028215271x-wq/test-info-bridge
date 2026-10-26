@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50251344,
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "score": 98,
+    "descendants": 17
+  },
+  {
+    "id": 50248371,
+    "title": "Type Server Protocol",
+    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "score": 163,
+    "descendants": 121
+  },
+  {
+    "id": 50245138,
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "score": 494,
+    "descendants": 75
+  },
+  {
+    "id": 50251127,
+    "title": "CorridorKey 2.0",
+    "url": "https://corridorkey.com/",
+    "score": 47,
+    "descendants": 6
+  },
+  {
+    "id": 50245831,
+    "title": "CSS-Tricks has a new owner",
+    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "score": 328,
+    "descendants": 74
+  }
+]
