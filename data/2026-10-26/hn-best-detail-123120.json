@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50225695,
+    "title": "We should be more ambitious with the software we build",
+    "url": "https://danluu.com/ambitious/",
+    "score": 821,
+    "descendants": 723
+  },
+  {
+    "id": 50224463,
+    "title": "No signs of AI payoff outside the tech sector",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "score": 629,
+    "descendants": 661
+  },
+  {
+    "id": 50224916,
+    "title": "Show HN: Steal My Bitcoin",
+    "url": "https://stealmybitcoin.com/",
+    "score": 609,
+    "descendants": 442
+  },
+  {
+    "id": 50233779,
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "score": 586,
+    "descendants": 250
+  },
+  {
+    "id": 50224100,
+    "title": "The Goose Programming Language",
+    "url": "https://aardappel.github.io/goose/",
+    "score": 581,
+    "descendants": 359
+  }
+]
