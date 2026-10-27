@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50242939,
+    "title": "Anthropic S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "score": 1526,
+    "descendants": 1486
+  },
+  {
+    "id": 50245524,
+    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+    "score": 829,
+    "descendants": 744
+  },
+  {
+    "id": 50234474,
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "score": 676,
+    "descendants": 108
+  },
+  {
+    "id": 50233779,
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "score": 656,
+    "descendants": 269
+  },
+  {
+    "id": 50251344,
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "score": 622,
+    "descendants": 269
+  }
+]

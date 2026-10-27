@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50251344,
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "score": 622,
+    "descendants": 269
+  },
+  {
+    "id": 50251661,
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "score": 420,
+    "descendants": 159
+  },
+  {
+    "id": 50254300,
+    "title": "Incremental rust builds up to 92x faster than cargo/rustc",
+    "url": "https://github.com/indexable-inc/blaze",
+    "score": 27,
+    "descendants": 7
+  },
+  {
+    "id": 50245138,
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "score": 611,
+    "descendants": 86
+  },
+  {
+    "id": 50248055,
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "score": 342,
+    "descendants": 206
+  }
+]
