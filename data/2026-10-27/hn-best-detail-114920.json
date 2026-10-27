@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50242939,
+    "title": "Anthropic S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "score": 1631,
+    "descendants": 1555
+  },
+  {
+    "id": 50245524,
+    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+    "score": 964,
+    "descendants": 949
+  },
+  {
+    "id": 50251344,
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "score": 959,
+    "descendants": 493
+  },
+  {
+    "id": 50245138,
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "score": 733,
+    "descendants": 101
+  },
+  {
+    "id": 50234474,
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "score": 676,
+    "descendants": 109
+  }
+]
