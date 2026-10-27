@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50261319,
+    "title": "Genie 4",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "score": 581,
+    "descendants": 352
+  },
+  {
+    "id": 50261998,
+    "title": "Ghostty 1.4",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "score": 541,
+    "descendants": 160
+  },
+  {
+    "id": 50264857,
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "score": 110,
+    "descendants": 56
+  },
+  {
+    "id": 50265609,
+    "title": "Early progress on accelerating drug development with Claude",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "score": 43,
+    "descendants": 21
+  },
+  {
+    "id": 50264853,
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "score": 82,
+    "descendants": 58
+  }
+]
