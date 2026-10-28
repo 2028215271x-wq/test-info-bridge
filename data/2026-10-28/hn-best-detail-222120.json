@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50261998,
+    "title": "Ghostty 1.4",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "score": 1276,
+    "descendants": 407
+  },
+  {
+    "id": 50251344,
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "score": 1143,
+    "descendants": 690
+  },
+  {
+    "id": 50259604,
+    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+    "score": 1065,
+    "descendants": 427
+  },
+  {
+    "id": 50272749,
+    "title": "Evidence of a spying operation by ICE against left-wing social movements",
+    "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+    "score": 1054,
+    "descendants": 854
+  },
+  {
+    "id": 50261319,
+    "title": "Genie 4",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "score": 1016,
+    "descendants": 575
+  }
+]
