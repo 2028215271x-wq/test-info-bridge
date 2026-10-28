@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50268380,
+    "title": "Git for US Legislation",
+    "url": "https://lexifina.com/blog/git-for-the-us-code",
+    "score": 123,
+    "descendants": 50
+  },
+  {
+    "id": 50261319,
+    "title": "Genie 4",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "score": 798,
+    "descendants": 488
+  },
+  {
+    "id": 50234796,
+    "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+    "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+    "score": 129,
+    "descendants": 23
+  },
+  {
+    "id": 50261998,
+    "title": "Ghostty 1.4",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "score": 861,
+    "descendants": 271
+  },
+  {
+    "id": 50264857,
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "score": 236,
+    "descendants": 119
+  }
+]
