@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50271640,
+    "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+    "url": "https://emudhra.we-have-a-problem.com/apple.html",
+    "score": 96,
+    "descendants": 32
+  },
+  {
+    "id": 50208960,
+    "title": "Start Doing Graph Theory",
+    "url": "https://vertex.degree/",
+    "score": 168,
+    "descendants": 19
+  },
+  {
+    "id": 50268380,
+    "title": "Git for the US Code",
+    "url": "https://lexifina.com/blog/git-for-the-us-code",
+    "score": 309,
+    "descendants": 155
+  },
+  {
+    "id": 50261319,
+    "title": "Genie 4",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "score": 926,
+    "descendants": 534
+  },
+  {
+    "id": 50261998,
+    "title": "Ghostty 1.4",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "score": 1092,
+    "descendants": 346
+  }
+]
