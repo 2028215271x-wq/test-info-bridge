@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50287775,
+    "title": "If IPv4 Were Land",
+    "url": "https://iptrust.co/blog/if-ipv4-were-land",
+    "score": 20,
+    "descendants": 1
+  },
+  {
+    "id": 50282838,
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "score": 554,
+    "descendants": 111
+  },
+  {
+    "id": 50276998,
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "url": "https://nullpt.rs/fingerprinting-bioweapons",
+    "score": 1346,
+    "descendants": 249
+  },
+  {
+    "id": 50287001,
+    "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+    "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+    "score": 89,
+    "descendants": 42
+  },
+  {
+    "id": 50243757,
+    "title": "Getting debug access on a Brother printer over Telnet",
+    "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+    "score": 86,
+    "descendants": 27
+  }
+]
