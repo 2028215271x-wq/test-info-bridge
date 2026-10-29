@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50296470,
+    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "score": 251,
+    "descendants": 126
+  },
+  {
+    "id": 50289418,
+    "title": "We're releasing the weights of Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "score": 1075,
+    "descendants": 311
+  },
+  {
+    "id": 50296486,
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "score": 47,
+    "descendants": 18
+  },
+  {
+    "id": 50294702,
+    "title": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "score": 1812,
+    "descendants": 354
+  },
+  {
+    "id": 50295450,
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "url": "https://github.com/SheepSeb/tinyworldformer",
+    "score": 56,
+    "descendants": 5
+  }
+]

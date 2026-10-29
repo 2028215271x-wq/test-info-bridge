@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50294702,
+    "title": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "score": 1812,
+    "descendants": 354
+  },
+  {
+    "id": 50276998,
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "url": "https://nullpt.rs/fingerprinting-bioweapons",
+    "score": 1535,
+    "descendants": 290
+  },
+  {
+    "id": 50271640,
+    "title": "Apple's git still trusts the compromised eMudhra certificates",
+    "url": "https://emudhra.we-have-a-problem.com/apple.html",
+    "score": 1183,
+    "descendants": 407
+  },
+  {
+    "id": 50272749,
+    "title": "Evidence of a spying operation by ICE against left-wing social movements",
+    "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+    "score": 1175,
+    "descendants": 987
+  },
+  {
+    "id": 50289418,
+    "title": "We're releasing the weights of Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "score": 1075,
+    "descendants": 311
+  }
+]
