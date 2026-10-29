@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50282838,
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "score": 231,
+    "descendants": 54
+  },
+  {
+    "id": 50276998,
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "url": "https://nullpt.rs/fingerprinting-bioweapons",
+    "score": 971,
+    "descendants": 201
+  },
+  {
+    "id": 50282544,
+    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "score": 123,
+    "descendants": 47
+  },
+  {
+    "id": 50284255,
+    "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
+    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "score": 126,
+    "descendants": 25
+  },
+  {
+    "id": 50280974,
+    "title": "A Health Update",
+    "url": "https://furbo.org/2026/10/28/a-health-update/",
+    "score": 161,
+    "descendants": 25
+  }
+]
