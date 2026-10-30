@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50301462,
+    "title": "elect.horse",
+    "url": "https://elect.horse/",
+    "score": 124,
+    "descendants": 31
+  },
+  {
+    "id": 50302334,
+    "title": "Backdoors in official Claude Code extensions",
+    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+    "score": 220,
+    "descendants": 52
+  },
+  {
+    "id": 50296470,
+    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "score": 1493,
+    "descendants": 967
+  },
+  {
+    "id": 50289418,
+    "title": "We're releasing the weights of Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "score": 1544,
+    "descendants": 406
+  },
+  {
+    "id": 50301854,
+    "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
+    "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+    "score": 19,
+    "descendants": 0
+  }
+]
