@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50294702,
+    "title": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "score": 3226,
+    "descendants": 735
+  },
+  {
+    "id": 50296470,
+    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "score": 1717,
+    "descendants": 1206
+  },
+  {
+    "id": 50289418,
+    "title": "We're releasing the weights of Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "score": 1666,
+    "descendants": 433
+  },
+  {
+    "id": 50282454,
+    "title": "StackOverflow now gets fewer than 1000 questions a month",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+    "score": 816,
+    "descendants": 731
+  },
+  {
+    "id": 50282838,
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "score": 694,
+    "descendants": 145
+  }
+]

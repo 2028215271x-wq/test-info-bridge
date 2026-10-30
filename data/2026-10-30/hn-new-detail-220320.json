@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50310735,
+    "title": "Jason Schreier of Bloomberg: \"Gears of War: E-Day cost $500M to Xbox\" [video]",
+    "url": "https://www.youtube.com/watch?v=Dx0b2Xbnnrc",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50310732,
+    "title": "The biggest feud in artificial intelligence",
+    "url": "https://www.afr.com/technology/inside-the-biggest-feud-in-artificial-intelligence-20261026-p618lx",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50310723,
+    "title": "Show HN: Fail2Ban Notifier",
+    "url": "https://github.com/eyeskiller/fail2ban-notifier",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50310699,
+    "title": "New book makes fiery claims about Jared Kushner's finances in Trump's first term",
+    "url": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
+    "score": 3,
+    "descendants": 1
+  },
+  {
+    "id": 50310696,
+    "title": "I built a honeypot for LLMs, will a agent take the bait?",
+    "url": "https://victorribeiro.com/bots/",
+    "score": 1,
+    "descendants": 0
+  }
+]
