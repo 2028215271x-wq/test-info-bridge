@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50319510,
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "score": 139,
+    "descendants": 78
+  },
+  {
+    "id": 50319143,
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "score": 131,
+    "descendants": 64
+  },
+  {
+    "id": 50318720,
+    "title": "It's the Memory Latency, Stupid",
+    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+    "score": 50,
+    "descendants": 8
+  },
+  {
+    "id": 50319061,
+    "title": "The Duty of a Scholar",
+    "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+    "score": 54,
+    "descendants": 11
+  },
+  {
+    "id": 50318871,
+    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+    "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+    "score": 110,
+    "descendants": 109
+  }
+]
