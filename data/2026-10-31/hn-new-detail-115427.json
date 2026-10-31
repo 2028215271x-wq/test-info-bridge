@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50315217,
+    "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+    "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50315203,
+    "title": "The Case for Synthesized Data Compression",
+    "url": "https://utndatasystems.github.io/blog/2026/synthesized-compression/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50315197,
+    "title": "Hack Could Leave Popular Fan Fiction Site AO3 Offline for Weeks",
+    "url": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50315177,
+    "title": "Fail2Ban UI \u2013 Manage Fail2Ban across multiple Linux hosts from one dashboard",
+    "url": "https://github.com/swissmakers/fail2ban-ui",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50315160,
+    "title": "Doomception: Doom inside Doom inside Doom, and round again",
+    "url": "https://kodoque1.github.io/doom_ace/",
+    "score": 1,
+    "descendants": 1
+  }
+]

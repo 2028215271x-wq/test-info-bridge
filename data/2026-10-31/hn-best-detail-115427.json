@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50294702,
+    "title": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "score": 3268,
+    "descendants": 747
+  },
+  {
+    "id": 50296470,
+    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "score": 1741,
+    "descendants": 1233
+  },
+  {
+    "id": 50289418,
+    "title": "We're releasing the weights of Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "score": 1695,
+    "descendants": 436
+  },
+  {
+    "id": 50300683,
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "score": 909,
+    "descendants": 534
+  },
+  {
+    "id": 50302334,
+    "title": "Backdoors in official Claude Code extensions",
+    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+    "score": 655,
+    "descendants": 17
+  }
+]
