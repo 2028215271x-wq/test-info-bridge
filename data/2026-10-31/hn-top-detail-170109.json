@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50316531,
+    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "score": 93,
+    "descendants": 35
+  },
+  {
+    "id": 50317363,
+    "title": "Casio Watches of the 1980s",
+    "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+    "score": 42,
+    "descendants": 9
+  },
+  {
+    "id": 50314666,
+    "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+    "url": "https://piefed.world/post/1503394",
+    "score": 192,
+    "descendants": 128
+  },
+  {
+    "id": 50314699,
+    "title": "We Took over ChatGPT Accounts",
+    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "score": 203,
+    "descendants": 103
+  },
+  {
+    "id": 50317484,
+    "title": "A/SIDE \u2013 Private photo sharing and encrypted messages",
+    "url": "https://a-side.social/",
+    "score": 5,
+    "descendants": 3
+  }
+]
