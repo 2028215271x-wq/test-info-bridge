@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50330005,
+    "title": "Apple captures 50% of consumer revenue of the top half of the S&P 500",
+    "url": "https://asymco.com/2026/11/01/the-last-consumer-company/",
+    "score": 38,
+    "descendants": 6
+  },
+  {
+    "id": 50326821,
+    "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "score": 645,
+    "descendants": 148
+  },
+  {
+    "id": 50319510,
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "score": 2095,
+    "descendants": 512
+  },
+  {
+    "id": 50299811,
+    "title": "Nibnib: Image compression with extreme decompression speed",
+    "url": "https://github.com/raphlinus/nibnib",
+    "score": 34,
+    "descendants": 5
+  },
+  {
+    "id": 50328251,
+    "title": "Mathematics has changed. Let's act like it",
+    "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+    "score": 138,
+    "descendants": 161
+  }
+]
