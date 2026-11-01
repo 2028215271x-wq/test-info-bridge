@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50319510,
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "score": 1487,
+    "descendants": 402
+  },
+  {
+    "id": 50314654,
+    "title": "Serbia just elected the world's brainiest parliament",
+    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "score": 870,
+    "descendants": 485
+  },
+  {
+    "id": 50302814,
+    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+    "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+    "score": 661,
+    "descendants": 522
+  },
+  {
+    "id": 50305693,
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "score": 655,
+    "descendants": 476
+  },
+  {
+    "id": 50303172,
+    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "score": 582,
+    "descendants": 425
+  }
+]
