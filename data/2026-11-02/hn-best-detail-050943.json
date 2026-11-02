@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50319510,
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "score": 2406,
+    "descendants": 550
+  },
+  {
+    "id": 50326821,
+    "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "score": 1119,
+    "descendants": 203
+  },
+  {
+    "id": 50314654,
+    "title": "Serbia just elected the world's brainiest parliament",
+    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "score": 903,
+    "descendants": 501
+  },
+  {
+    "id": 50320963,
+    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "score": 787,
+    "descendants": 203
+  },
+  {
+    "id": 50319143,
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "score": 708,
+    "descendants": 328
+  }
+]

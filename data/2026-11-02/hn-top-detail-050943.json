@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50326821,
+    "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "score": 1119,
+    "descendants": 203
+  },
+  {
+    "id": 50332163,
+    "title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+    "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+    "score": 51,
+    "descendants": 4
+  },
+  {
+    "id": 50312408,
+    "title": "Postgres 19 is late because so many more bugs are being found now",
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "score": 197,
+    "descendants": 121
+  },
+  {
+    "id": 50319510,
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "score": 2406,
+    "descendants": 550
+  },
+  {
+    "id": 50331784,
+    "title": "Trigger.dev customer environment variables exposed",
+    "url": "https://trigger.dev/blog/security-incident-nov-2026",
+    "score": 41,
+    "descendants": 11
+  }
+]
