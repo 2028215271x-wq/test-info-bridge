@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50319510,
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "score": 2730,
+    "descendants": 603
+  },
+  {
+    "id": 50326821,
+    "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "score": 1689,
+    "descendants": 280
+  },
+  {
+    "id": 50320963,
+    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "score": 845,
+    "descendants": 216
+  },
+  {
+    "id": 50319143,
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "score": 727,
+    "descendants": 330
+  },
+  {
+    "id": 50324388,
+    "title": "Restrooms along the Norwegian Scenic Routes",
+    "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+    "score": 700,
+    "descendants": 428
+  }
+]

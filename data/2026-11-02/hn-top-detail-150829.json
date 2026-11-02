@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50337608,
+    "title": "WTF Ubuntu?",
+    "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+    "score": 38,
+    "descendants": 1
+  },
+  {
+    "id": 50334704,
+    "title": "Show HN: I've updated my Linux System Call website and API",
+    "url": "https://syscall.sh/",
+    "score": 120,
+    "descendants": 37
+  },
+  {
+    "id": 50326821,
+    "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "score": 1689,
+    "descendants": 280
+  },
+  {
+    "id": 50312408,
+    "title": "Postgres 19 is late because so many more bugs are being found now",
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "score": 676,
+    "descendants": 412
+  },
+  {
+    "id": 50319510,
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "score": 2730,
+    "descendants": 603
+  }
+]
