@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50351111,
+    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+    "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+    "score": 201,
+    "descendants": 35
+  },
+  {
+    "id": 50341174,
+    "title": "Astra can read and write weights to improve Qwen",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "score": 2843,
+    "descendants": 860
+  },
+  {
+    "id": 50327088,
+    "title": "Life with Down Syndrome",
+    "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
+    "score": 52,
+    "descendants": 13
+  },
+  {
+    "id": 50351319,
+    "title": "Charles Tandy, the mastermind behind Radio Shack",
+    "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+    "score": 9,
+    "descendants": 1
+  },
+  {
+    "id": 50349276,
+    "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+    "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+    "score": 131,
+    "descendants": 61
+  }
+]
