@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50358582,
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "score": 98,
+    "descendants": 10
+  },
+  {
+    "id": 50358702,
+    "title": "The Internals of PostgreSQL",
+    "url": "https://www.interdb.jp/pg/index.html",
+    "score": 33,
+    "descendants": 1
+  },
+  {
+    "id": 50358562,
+    "title": "Safari introduces Adaptive Dark Mode in 27.3",
+    "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+    "score": 152,
+    "descendants": 99
+  },
+  {
+    "id": 50339288,
+    "title": "Jailbreaking my car's navigation system just so I can change the time",
+    "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+    "score": 544,
+    "descendants": 213
+  },
+  {
+    "id": 50354358,
+    "title": "Stringman, an $800 open-source room scale gripper robot",
+    "url": "https://neufangled.com/",
+    "score": 281,
+    "descendants": 114
+  }
+]
