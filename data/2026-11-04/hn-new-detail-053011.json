@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50361778,
+    "title": "YC's Workatastartup \u2013 New UI",
+    "url": "",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50361765,
+    "title": "PostgreSQL Internals [pdf]",
+    "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50361762,
+    "title": "A boilerplate for Node.js apps / TypeScript",
+    "url": "https://github.com/watscho/express-mongodb-rest-api-boilerplate",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50361760,
+    "title": "Wild Ventures",
+    "url": "https://game.weibelventures.com/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50361742,
+    "title": "Nikke PC Launcher Compromise",
+    "url": "https://gist.github.com/MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5",
+    "score": 1,
+    "descendants": 1
+  }
+]

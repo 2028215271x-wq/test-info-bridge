@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50341174,
+    "title": "Astra can read and write weights to improve Qwen",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "score": 2927,
+    "descendants": 879
+  },
+  {
+    "id": 50337608,
+    "title": "WTF Ubuntu?",
+    "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+    "score": 1607,
+    "descendants": 671
+  },
+  {
+    "id": 50354960,
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "score": 1135,
+    "descendants": 371
+  },
+  {
+    "id": 50351111,
+    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+    "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+    "score": 942,
+    "descendants": 196
+  },
+  {
+    "id": 50340088,
+    "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+    "url": "",
+    "score": 814,
+    "descendants": 387
+  }
+]

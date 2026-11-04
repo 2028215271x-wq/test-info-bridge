@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50360164,
+    "title": "C++26 Disapproved",
+    "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+    "score": 168,
+    "descendants": 72
+  },
+  {
+    "id": 50361154,
+    "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+    "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+    "score": 36,
+    "descendants": 0
+  },
+  {
+    "id": 50358702,
+    "title": "The Internals of PostgreSQL",
+    "url": "https://www.interdb.jp/pg/index.html",
+    "score": 196,
+    "descendants": 13
+  },
+  {
+    "id": 50339288,
+    "title": "Jailbreaking my car's navigation system just so I can change the time",
+    "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+    "score": 694,
+    "descendants": 289
+  },
+  {
+    "id": 50354358,
+    "title": "Stringman, an $800 open-source room scale gripper robot",
+    "url": "https://neufangled.com/",
+    "score": 479,
+    "descendants": 166
+  }
+]
