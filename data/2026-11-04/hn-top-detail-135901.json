@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50364336,
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "score": 263,
+    "descendants": 146
+  },
+  {
+    "id": 50362905,
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "score": 238,
+    "descendants": 137
+  },
+  {
+    "id": 50363378,
+    "title": "Incident with Pull Requests, Git Operations and Issues",
+    "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+    "score": 136,
+    "descendants": 69
+  },
+  {
+    "id": 50363019,
+    "title": "Verification Is Not Knowledge: Science needs more than answers",
+    "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+    "score": 106,
+    "descendants": 60
+  },
+  {
+    "id": 50363461,
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "url": "",
+    "score": 206,
+    "descendants": 54
+  }
+]
