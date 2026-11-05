@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50378228,
+    "title": "Sshole",
+    "url": "https://sshhole.com",
+    "score": 564,
+    "descendants": 146
+  },
+  {
+    "id": 50379249,
+    "title": "MCP Explained",
+    "url": "https://mcp-explained.com/",
+    "score": 7,
+    "descendants": 1
+  },
+  {
+    "id": 50377976,
+    "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+    "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+    "score": 59,
+    "descendants": 3
+  },
+  {
+    "id": 50377078,
+    "title": "Baidu released ERNIE 5.5 Flash Base",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "score": 110,
+    "descendants": 59
+  },
+  {
+    "id": 50371246,
+    "title": "Residential proxies detected on White House network",
+    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "score": 1177,
+    "descendants": 379
+  }
+]
