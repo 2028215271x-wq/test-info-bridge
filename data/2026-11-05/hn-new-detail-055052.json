@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50375653,
+    "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+    "url": "https://www.altera.com/newsroom/agilex-2x",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50375625,
+    "title": "How software engineering is changing: a tale of two eras",
+    "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50375620,
+    "title": "The API client microcosm of the VC shit economy",
+    "url": "https://blog.outmanos.com/posts/the-api-client-cycle/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50375616,
+    "title": "Show HN: Atlas Streak",
+    "url": "https://crux.quest/atlas/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50375602,
+    "title": "Big Tech claims voters' AI backlash is \"anti-Trump\" not \"anti-tech\"",
+    "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+    "score": 1,
+    "descendants": 1
+  }
+]
