@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50399569,
+    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+    "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50399560,
+    "title": "Drone warfare in space: Autonomous laser cubesat swarms could defend satellites",
+    "url": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50399534,
+    "title": "Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+    "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50399516,
+    "title": "Open Source Neuron Hunt on AI Research Collaboration Platform",
+    "url": "https://app.station-house.net",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50399514,
+    "title": "Self-powered toothbrush makes electricity to kill cavity-causing bacteria",
+    "url": "https://www.livescience.com/health/this-self-powered-toothbrush-makes-electricity-to-kill-cavity-causing-bacteria",
+    "score": 2,
+    "descendants": 0
+  }
+]

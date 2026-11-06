@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50397429,
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "score": 229,
+    "descendants": 50
+  },
+  {
+    "id": 50397994,
+    "title": "AI is dramatically accelerating AI research",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "score": 113,
+    "descendants": 66
+  },
+  {
+    "id": 50397219,
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "score": 122,
+    "descendants": 64
+  },
+  {
+    "id": 50388001,
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "score": 241,
+    "descendants": 195
+  },
+  {
+    "id": 50391456,
+    "title": "Tesla to wind down Cybertruck production",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "score": 747,
+    "descendants": 1567
+  }
+]

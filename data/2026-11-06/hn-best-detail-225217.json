@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50378228,
+    "title": "sshole",
+    "url": "https://sshhole.com",
+    "score": 2902,
+    "descendants": 719
+  },
+  {
+    "id": 50385272,
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 1543,
+    "descendants": 487
+  },
+  {
+    "id": 50391456,
+    "title": "Tesla to wind down Cybertruck production",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "score": 747,
+    "descendants": 1567
+  },
+  {
+    "id": 50383740,
+    "title": "Search for everyone",
+    "url": "https://kagi.com/changelog#11820",
+    "score": 742,
+    "descendants": 408
+  },
+  {
+    "id": 50384233,
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "score": 698,
+    "descendants": 271
+  }
+]
