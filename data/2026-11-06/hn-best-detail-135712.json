@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50378228,
+    "title": "sshole",
+    "url": "https://sshhole.com",
+    "score": 2795,
+    "descendants": 679
+  },
+  {
+    "id": 50385272,
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 1309,
+    "descendants": 412
+  },
+  {
+    "id": 50371246,
+    "title": "Residential proxies detected on White House network",
+    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "score": 1259,
+    "descendants": 432
+  },
+  {
+    "id": 50383740,
+    "title": "Search for everyone",
+    "url": "https://kagi.com/changelog#11820",
+    "score": 704,
+    "descendants": 379
+  },
+  {
+    "id": 50365755,
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+    "score": 652,
+    "descendants": 382
+  }
+]

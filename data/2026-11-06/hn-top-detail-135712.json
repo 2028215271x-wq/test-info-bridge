@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50390124,
+    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+    "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+    "score": 321,
+    "descendants": 204
+  },
+  {
+    "id": 50389333,
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "url": "https://github.com/ppmpreetham/BUI",
+    "score": 376,
+    "descendants": 152
+  },
+  {
+    "id": 50385272,
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 1309,
+    "descendants": 412
+  },
+  {
+    "id": 50392118,
+    "title": "Gemini Omni 1.2 Flash",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "score": 11,
+    "descendants": 4
+  },
+  {
+    "id": 50391145,
+    "title": "We've built an open-source feature flag server for 11 years",
+    "url": "https://github.com/Unleash/unleash",
+    "score": 35,
+    "descendants": 18
+  }
+]
