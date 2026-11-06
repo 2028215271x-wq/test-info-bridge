@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50388641,
+    "title": "Run local LLMs on multiple Android, iOS phones",
+    "url": "https://github.com/orailnoor/cross-platform-llm-client",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50388624,
+    "title": "The Telephone's Tangled History of Intimacy and Control",
+    "url": "https://www.newyorker.com/magazine/2026/11/09/the-telephone-james-gleick-book-review",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50388610,
+    "title": "A YouTuber at a Demoparty",
+    "url": "https://www.youtube.com/watch?v=PeZNLvD4mds",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50388599,
+    "title": "Cyberattack hits French blood banks but no samples compromised",
+    "url": "https://www.euronews.com/2026/11/04/cyberattack-hits-french-blood-banks-but-no-samples-compromised-officials-say",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50388598,
+    "title": "Japan's Nikkei Poised to Enter Bear Market as AI Selloff Deepens",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff",
+    "score": 2,
+    "descendants": 0
+  }
+]
