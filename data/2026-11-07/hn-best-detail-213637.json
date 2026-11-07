@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50385272,
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 1589,
+    "descendants": 514
+  },
+  {
+    "id": 50391456,
+    "title": "Tesla to wind down Cybertruck production",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "score": 1118,
+    "descendants": 2011
+  },
+  {
+    "id": 50399933,
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "score": 984,
+    "descendants": 173
+  },
+  {
+    "id": 50389333,
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "url": "https://github.com/ppmpreetham/BUI",
+    "score": 713,
+    "descendants": 288
+  },
+  {
+    "id": 50384233,
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "score": 713,
+    "descendants": 281
+  }
+]
