@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50378228,
+    "title": "sshole",
+    "url": "https://sshhole.com",
+    "score": 2935,
+    "descendants": 737
+  },
+  {
+    "id": 50385272,
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 1577,
+    "descendants": 504
+  },
+  {
+    "id": 50391456,
+    "title": "Tesla to wind down Cybertruck production",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "score": 1040,
+    "descendants": 1892
+  },
+  {
+    "id": 50383740,
+    "title": "Search for everyone",
+    "url": "https://kagi.com/changelog#11820",
+    "score": 749,
+    "descendants": 409
+  },
+  {
+    "id": 50399933,
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "score": 725,
+    "descendants": 118
+  }
+]

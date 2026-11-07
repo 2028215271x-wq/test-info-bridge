@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50403214,
+    "title": "Upload Your RAM",
+    "url": "https://uploadyourram.org",
+    "score": 134,
+    "descendants": 82
+  },
+  {
+    "id": 50399933,
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "score": 725,
+    "descendants": 118
+  },
+  {
+    "id": 50403052,
+    "title": "Need for Speed Underground 2 online in the browser",
+    "url": "https://nfsu2.xyz/",
+    "score": 88,
+    "descendants": 29
+  },
+  {
+    "id": 50403097,
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "score": 166,
+    "descendants": 80
+  },
+  {
+    "id": 50397429,
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "score": 507,
+    "descendants": 121
+  }
+]
