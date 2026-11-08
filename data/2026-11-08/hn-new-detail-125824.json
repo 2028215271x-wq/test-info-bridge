@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50412861,
+    "title": "EVi, a pre-LLM fork of Vim",
+    "url": "https://evi-editor.codeberg.page/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50412856,
+    "title": "Scaling Citus without limits: announcing Query Routers",
+    "url": "https://stackgres.io/blog/scaling-citus-beyond-one-coordinator-announcing-query-routers-stackgres/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50412830,
+    "title": "How to prove equations using diagrams, part 1",
+    "url": "https://www.epatters.org/post/e-graphs-1/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50412828,
+    "title": "Building Maintainable PHP Applications: Patterns and Principles",
+    "url": "https://codyssey.dev/courses/building-maintainable-php-applications-patterns-and-principles",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50412775,
+    "title": "High level API for local LLMs in Node",
+    "url": "https://github.com/CREATORS-INDUSTRIES/llm",
+    "score": 1,
+    "descendants": 0
+  }
+]

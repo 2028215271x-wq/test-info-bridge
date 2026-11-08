@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50412318,
+    "title": "Person of Interest",
+    "url": "https://krthr.co/person-of-interest/",
+    "score": 84,
+    "descendants": 46
+  },
+  {
+    "id": 50412152,
+    "title": "Petered (what happens after the Peter Principle)",
+    "url": "https://aworkinglibrary.com/writing/petered",
+    "score": 46,
+    "descendants": 20
+  },
+  {
+    "id": 50411961,
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "score": 27,
+    "descendants": 10
+  },
+  {
+    "id": 50410107,
+    "title": "Goodbye Claude, Hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "score": 397,
+    "descendants": 251
+  },
+  {
+    "id": 50412072,
+    "title": "JIT bitmap text rendering for microcontrollers",
+    "url": "https://linebender.org/blog/jit-bitmap-text/",
+    "score": 20,
+    "descendants": 3
+  }
+]
