@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50415628,
+    "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "score": 433,
+    "descendants": 266
+  },
+  {
+    "id": 50415172,
+    "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+    "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+    "score": 167,
+    "descendants": 56
+  },
+  {
+    "id": 50416053,
+    "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "url": "https://duxlabs.dev/",
+    "score": 87,
+    "descendants": 32
+  },
+  {
+    "id": 50368481,
+    "title": "Declarative Dragging",
+    "url": "https://declarative-dragging.github.io/",
+    "score": 171,
+    "descendants": 14
+  },
+  {
+    "id": 50416158,
+    "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "score": 119,
+    "descendants": 99
+  }
+]

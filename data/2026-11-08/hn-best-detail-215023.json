@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50403052,
+    "title": "Need for Speed Underground 2 online in the browser",
+    "url": "https://nfsu2.xyz/",
+    "score": 1107,
+    "descendants": 279
+  },
+  {
+    "id": 50399933,
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "score": 1068,
+    "descendants": 193
+  },
+  {
+    "id": 50403097,
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "score": 839,
+    "descendants": 439
+  },
+  {
+    "id": 50406670,
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "url": "https://blog.bosscher.ch/posts/openstick/",
+    "score": 757,
+    "descendants": 129
+  },
+  {
+    "id": 50410107,
+    "title": "Goodbye Claude, hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "score": 643,
+    "descendants": 410
+  }
+]
