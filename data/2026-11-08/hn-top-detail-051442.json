@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50410107,
+    "title": "Goodbye Claude, Hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "score": 28,
+    "descendants": 17
+  },
+  {
+    "id": 50406670,
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "url": "https://blog.bosscher.ch/posts/openstick/",
+    "score": 458,
+    "descendants": 96
+  },
+  {
+    "id": 50407882,
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "score": 274,
+    "descendants": 182
+  },
+  {
+    "id": 50408713,
+    "title": "Making any integer with four 2s (2025)",
+    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "score": 89,
+    "descendants": 25
+  },
+  {
+    "id": 50409855,
+    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+    "url": "https://github.com/crmne/zapfast",
+    "score": 22,
+    "descendants": 12
+  }
+]
