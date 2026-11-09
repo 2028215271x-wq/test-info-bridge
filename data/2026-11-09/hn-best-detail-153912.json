@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50418016,
+    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+    "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+    "score": 852,
+    "descendants": 1031
+  },
+  {
+    "id": 50415628,
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "score": 842,
+    "descendants": 456
+  },
+  {
+    "id": 50406670,
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "url": "https://blog.bosscher.ch/posts/openstick/",
+    "score": 806,
+    "descendants": 136
+  },
+  {
+    "id": 50410107,
+    "title": "Goodbye Claude, hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "score": 789,
+    "descendants": 480
+  },
+  {
+    "id": 50418176,
+    "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+    "url": "https://ketchup3d.github.io/app/",
+    "score": 644,
+    "descendants": 190
+  }
+]

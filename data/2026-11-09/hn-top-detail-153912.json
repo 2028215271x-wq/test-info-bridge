@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50424581,
+    "title": "Fold Epic Paper Airplanes",
+    "url": "https://www.foldableflight.com",
+    "score": 322,
+    "descendants": 64
+  },
+  {
+    "id": 50424704,
+    "title": "Humans will never again create a project like Wikipedia",
+    "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+    "score": 311,
+    "descendants": 247
+  },
+  {
+    "id": 50426207,
+    "title": "Zebkit \u2013 Chromium as an embeddable library",
+    "url": "https://github.com/ikey4u/zebkit",
+    "score": 36,
+    "descendants": 19
+  },
+  {
+    "id": 50424157,
+    "title": "What is malloc doing, anyway?",
+    "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+    "score": 86,
+    "descendants": 18
+  },
+  {
+    "id": 50423569,
+    "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
+    "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+    "score": 75,
+    "descendants": 11
+  }
+]

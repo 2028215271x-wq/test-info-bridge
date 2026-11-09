@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50427075,
+    "title": "Chrome 153 has a native MP4 tab recorder",
+    "url": "https://github.com/paulirish/chrome-capture",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50427046,
+    "title": "Dark Forestry",
+    "url": "https://henry.codes/writing/dark-forestry/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50427028,
+    "title": "Show HN Offline free app to speak arabic",
+    "url": "https://play.google.com/store/apps/details?id=com.bubblebees.saudisurvival&hl=en_US",
+    "score": 2,
+    "descendants": 1
+  },
+  {
+    "id": 50426990,
+    "title": "Show HN: One TUI to Manage MCP Servers for Claude Code and Codex",
+    "url": "https://toolshed.run",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50426981,
+    "title": "Monday.com is Down",
+    "url": "https://twitter.com/mondaysupport/status/2119812295928975444",
+    "score": 2,
+    "descendants": 0
+  }
+]
