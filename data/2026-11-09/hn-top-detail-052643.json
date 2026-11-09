@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50420035,
+    "title": "RIP, Harvest",
+    "url": "https://aphyr.com/posts/427-rip-harvest",
+    "score": 191,
+    "descendants": 59
+  },
+  {
+    "id": 50420857,
+    "title": "A Critique of GPUI",
+    "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+    "score": 34,
+    "descendants": 8
+  },
+  {
+    "id": 50418176,
+    "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+    "url": "https://ketchup3d.github.io/app/",
+    "score": 334,
+    "descendants": 92
+  },
+  {
+    "id": 50419215,
+    "title": "Unlocking any car from X brand in most of the world",
+    "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+    "score": 176,
+    "descendants": 64
+  },
+  {
+    "id": 50418182,
+    "title": "Chimera Vocal Synth",
+    "url": "https://chimera-vocal-synth.vercel.app/",
+    "score": 151,
+    "descendants": 22
+  }
+]
