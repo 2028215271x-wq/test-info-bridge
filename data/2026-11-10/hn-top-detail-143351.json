@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50439193,
+    "title": "AlphaProof Code",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "score": 230,
+    "descendants": 92
+  },
+  {
+    "id": 50436640,
+    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+    "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+    "score": 463,
+    "descendants": 170
+  },
+  {
+    "id": 50412554,
+    "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+    "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+    "score": 22,
+    "descendants": 0
+  },
+  {
+    "id": 50439695,
+    "title": "Ableton Live 13",
+    "url": "https://www.ableton.com/en/live/",
+    "score": 76,
+    "descendants": 81
+  },
+  {
+    "id": 50429068,
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "score": 721,
+    "descendants": 884
+  }
+]
