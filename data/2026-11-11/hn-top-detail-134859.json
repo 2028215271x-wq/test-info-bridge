@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50452455,
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "url": "https://pietromiotti.com/latest/maya-site/?maya",
+    "score": 203,
+    "descendants": 80
+  },
+  {
+    "id": 50452655,
+    "title": "Can a Linear Program Do Weight-Space Programming?",
+    "url": "https://nathan.rs/posts/weight-space-lp/",
+    "score": 47,
+    "descendants": 8
+  },
+  {
+    "id": 50451903,
+    "title": "Using voltage glitching to unleash the A100 in my mining card",
+    "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "score": 62,
+    "descendants": 19
+  },
+  {
+    "id": 50449748,
+    "title": "Protecting SSH Keys with macOS Secure Enclave",
+    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+    "score": 281,
+    "descendants": 102
+  },
+  {
+    "id": 50452496,
+    "title": "Next-Level Benchmarking Overfitting \u2013 Thomas Neumann",
+    "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "score": 18,
+    "descendants": 1
+  }
+]
