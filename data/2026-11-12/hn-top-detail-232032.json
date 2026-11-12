@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50467087,
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "score": 2686,
+    "descendants": 2572
+  },
+  {
+    "id": 50472038,
+    "title": "Rust 1.100",
+    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "score": 283,
+    "descendants": 136
+  },
+  {
+    "id": 50472260,
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "score": 224,
+    "descendants": 57
+  },
+  {
+    "id": 50474361,
+    "title": "Foundation Models framework",
+    "url": "https://developer.apple.com/foundation-models-framework/",
+    "score": 78,
+    "descendants": 9
+  },
+  {
+    "id": 50472490,
+    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "score": 164,
+    "descendants": 73
+  }
+]
