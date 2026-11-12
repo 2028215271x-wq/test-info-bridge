@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50467087,
+    "title": "NVIDIA Announces CEO Transition",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "score": 674,
+    "descendants": 490
+  },
+  {
+    "id": 50465352,
+    "title": "Why Writing Correct Software Is Hard",
+    "url": "https://pron.github.io/posts/correctness-and-complexity",
+    "score": 189,
+    "descendants": 79
+  },
+  {
+    "id": 50467132,
+    "title": "Jensen Huang resigns as Nvidia CEO immediately",
+    "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+    "score": 185,
+    "descendants": 72
+  },
+  {
+    "id": 50467618,
+    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+    "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "score": 14,
+    "descendants": 0
+  },
+  {
+    "id": 50467460,
+    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "score": 11,
+    "descendants": 0
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50468236,
+    "title": "I built this for maldoc triage",
+    "url": "https://github.com/debugactiveprocess/MaldocTrace",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50468190,
+    "title": "Karuma \u2013 Open UCP and Schema.org readiness scanner for e-commerce",
+    "url": "https://karuma.dev/en",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50468173,
+    "title": "Everything Is a Remix (and I'm a Remixer Too)",
+    "url": "https://canro91.github.io/2026/11/11/Remix/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50468121,
+    "title": "Show HN: Turri \u2013 a coding agent with the power of regenerative software",
+    "url": "https://github.com/turri-oss/turri",
+    "score": 4,
+    "descendants": 0
+  },
+  {
+    "id": 50468101,
+    "title": "Flying without know how the plane works",
+    "url": "https://friendlyai.dev/blog/freeing-your-ai-from-your-computer/",
+    "score": 5,
+    "descendants": 1
+  }
+]
