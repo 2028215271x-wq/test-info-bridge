@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50482379,
+    "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+    "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+    "score": 179,
+    "descendants": 114
+  },
+  {
+    "id": 50467087,
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "score": 3741,
+    "descendants": 3247
+  },
+  {
+    "id": 50483480,
+    "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
+    "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+    "score": 61,
+    "descendants": 20
+  },
+  {
+    "id": 50481187,
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "score": 329,
+    "descendants": 290
+  },
+  {
+    "id": 50478515,
+    "title": "IceWM",
+    "url": "https://ice-wm.org/",
+    "score": 268,
+    "descendants": 136
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50467087,
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "score": 3741,
+    "descendants": 3247
+  },
+  {
+    "id": 50459703,
+    "title": "Nvidia is preparing to oust Jensen Huang",
+    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "score": 1220,
+    "descendants": 1641
+  },
+  {
+    "id": 50471731,
+    "title": "Service degradation on Microsoft 365",
+    "url": "https://status.cloud.microsoft/",
+    "score": 1044,
+    "descendants": 874
+  },
+  {
+    "id": 50456631,
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "score": 980,
+    "descendants": 265
+  },
+  {
+    "id": 50465829,
+    "title": "Anthropic IPO",
+    "url": "https://ipo.anthropic.com/us/",
+    "score": 970,
+    "descendants": 879
+  }
+]
