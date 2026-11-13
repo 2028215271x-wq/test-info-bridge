@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50467087,
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "score": 3231,
+    "descendants": 2986
+  },
+  {
+    "id": 50450488,
+    "title": "Tim Peters has died",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "score": 1404,
+    "descendants": 184
+  },
+  {
+    "id": 50459703,
+    "title": "Nvidia is preparing to oust Jensen Huang",
+    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "score": 1215,
+    "descendants": 1639
+  },
+  {
+    "id": 50452455,
+    "title": "My AI agents found an unmapped Maya site?",
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "score": 1029,
+    "descendants": 391
+  },
+  {
+    "id": 50456631,
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "score": 968,
+    "descendants": 264
+  }
+]

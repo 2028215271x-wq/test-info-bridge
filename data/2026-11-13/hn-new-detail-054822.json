@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50478847,
+    "title": "Pyscriptc: An AOT compiler for Python to distribute your app in one file",
+    "url": "https://pyscriptc.dev/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50478830,
+    "title": "BEA \u2013 Slim down Switch games you've extracted, no keys needed",
+    "url": "https://github.com/matheus-aragao-cavalcante/BEA-Backport-Engineering-Anything",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50478811,
+    "title": "Gemini for Healthcare",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50478787,
+    "title": "Aircraft Defects",
+    "url": "https://aircraftdefects.com/",
+    "score": 2,
+    "descendants": 0
+  },
+  {
+    "id": 50478757,
+    "title": "Post-AI Computer Science \u2013 Volume 5",
+    "url": "https://thingspool.net/shards-of-sanity/page-5.html",
+    "score": 1,
+    "descendants": 1
+  }
+]
