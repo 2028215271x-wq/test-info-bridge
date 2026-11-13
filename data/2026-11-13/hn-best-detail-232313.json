@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50467087,
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "score": 4006,
+    "descendants": 3410
+  },
+  {
+    "id": 50459703,
+    "title": "Nvidia is preparing to oust Jensen Huang",
+    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "score": 1222,
+    "descendants": 1642
+  },
+  {
+    "id": 50471731,
+    "title": "Service degradation on Microsoft 365",
+    "url": "https://status.cloud.microsoft/",
+    "score": 1155,
+    "descendants": 975
+  },
+  {
+    "id": 50465829,
+    "title": "Anthropic IPO",
+    "url": "https://ipo.anthropic.com/us/",
+    "score": 992,
+    "descendants": 901
+  },
+  {
+    "id": 50489641,
+    "title": "FAA Issues National Ground Stop",
+    "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+    "score": 970,
+    "descendants": 572
+  }
+]
