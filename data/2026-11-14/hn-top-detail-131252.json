@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50440709,
+    "title": "Why get an expensive Pi when I have an old phone?",
+    "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+    "score": 168,
+    "descendants": 117
+  },
+  {
+    "id": 50493062,
+    "title": "Ggml v1.0.0",
+    "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "score": 310,
+    "descendants": 48
+  },
+  {
+    "id": 50493904,
+    "title": "Monkey Island: all 13 versions side by side",
+    "url": "https://monkeyisland.pages.dev/",
+    "score": 229,
+    "descendants": 73
+  },
+  {
+    "id": 50493251,
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "score": 733,
+    "descendants": 426
+  },
+  {
+    "id": 50491980,
+    "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+    "url": "https://unsloth.ai/docs/models/qwen3.8",
+    "score": 182,
+    "descendants": 51
+  }
+]

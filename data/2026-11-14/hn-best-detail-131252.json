@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50467087,
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "score": 4031,
+    "descendants": 3436
+  },
+  {
+    "id": 50489641,
+    "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
+    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+    "score": 1574,
+    "descendants": 1201
+  },
+  {
+    "id": 50471731,
+    "title": "Service degradation on Microsoft 365",
+    "url": "https://status.cloud.microsoft/",
+    "score": 1165,
+    "descendants": 986
+  },
+  {
+    "id": 50486482,
+    "title": "LibreOffice actually works 365 days a year",
+    "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+    "score": 896,
+    "descendants": 277
+  },
+  {
+    "id": 50472038,
+    "title": "Rust 1.100",
+    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "score": 884,
+    "descendants": 316
+  }
+]
