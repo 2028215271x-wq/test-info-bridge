@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50510799,
+    "title": "Your Agent Will Pick the Hackable One",
+    "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+    "score": 45,
+    "descendants": 24
+  },
+  {
+    "id": 50509308,
+    "title": "A short explainer on how El Ni\u00f1o works [video]",
+    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "score": 123,
+    "descendants": 38
+  },
+  {
+    "id": 50509837,
+    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "url": "https://bruceroettgers.eu/blog/protomaps/",
+    "score": 59,
+    "descendants": 12
+  },
+  {
+    "id": 50509023,
+    "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+    "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+    "score": 111,
+    "descendants": 85
+  },
+  {
+    "id": 50506719,
+    "title": "The MacBook Pro's OLED PWM problem",
+    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "score": 372,
+    "descendants": 200
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50500963,
+    "title": "SpaceX catches the Starship to end Flight 15",
+    "url": "https://www.spacex.com/launches/starship-flight-15",
+    "score": 1614,
+    "descendants": 1187
+  },
+  {
+    "id": 50493251,
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "score": 1097,
+    "descendants": 646
+  },
+  {
+    "id": 50507303,
+    "title": "All AI-generated code should be Open Source",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "score": 1000,
+    "descendants": 554
+  },
+  {
+    "id": 50499017,
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "url": "https://www.crissyfield.de/research/lovable-en/",
+    "score": 970,
+    "descendants": 368
+  },
+  {
+    "id": 50496602,
+    "title": "Tech companies are trying to shift the concept of privacy again",
+    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "score": 593,
+    "descendants": 209
+  }
+]
