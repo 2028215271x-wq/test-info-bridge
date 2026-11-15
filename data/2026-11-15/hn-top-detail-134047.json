@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50500963,
+    "title": "SpaceX catches the Starship to end Flight 15",
+    "url": "https://www.spacex.com/launches/starship-flight-15",
+    "score": 1364,
+    "descendants": 914
+  },
+  {
+    "id": 50505271,
+    "title": "Why did some Apollo missions carry a grenade launcher?",
+    "url": "https://space.stackexchange.com/questions/37775",
+    "score": 88,
+    "descendants": 55
+  },
+  {
+    "id": 50499017,
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "url": "https://www.crissyfield.de/research/lovable-en/",
+    "score": 884,
+    "descendants": 338
+  },
+  {
+    "id": 50502988,
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "score": 276,
+    "descendants": 102
+  },
+  {
+    "id": 50481056,
+    "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+    "url": "https://tsoracle.rs/",
+    "score": 18,
+    "descendants": 2
+  }
+]
