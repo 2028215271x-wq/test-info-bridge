@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50500963,
+    "title": "SpaceX catches the Starship to end Flight 15",
+    "url": "https://www.spacex.com/launches/starship-flight-15",
+    "score": 1720,
+    "descendants": 1302
+  },
+  {
+    "id": 50507303,
+    "title": "All AI-generated code should be Open Source",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "score": 1200,
+    "descendants": 641
+  },
+  {
+    "id": 50499017,
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "url": "https://www.crissyfield.de/research/lovable-en/",
+    "score": 995,
+    "descendants": 373
+  },
+  {
+    "id": 50513215,
+    "title": "Qwen4-Max",
+    "url": "https://qwen.ai/blog?id=qwen4-max",
+    "score": 708,
+    "descendants": 346
+  },
+  {
+    "id": 50509411,
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "score": 593,
+    "descendants": 258
+  }
+]
