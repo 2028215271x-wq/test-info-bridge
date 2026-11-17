@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50532898,
+    "title": "EGL_EXT_swap_tearing_hint Has Landed",
+    "url": "https://oro.gay/posts/egl-ext-swap-tearing-hint-has-landed/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50532890,
+    "title": "Show HN: Fardesk \u2013 fast iPhone app to manage your Claude sessions",
+    "url": "https://github.com/franzenzenhofer/fardesk-open-source",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50532884,
+    "title": "Show HN: I mapped LA's new speed cameras so you can count them on your route",
+    "url": "https://la-speed-cameras-nine.vercel.app",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50532881,
+    "title": "Run Windows XP/7's shell as the Linux desktop on Wine",
+    "url": "https://github.com/mikuta0407/win4wine",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50532868,
+    "title": "Show HN: Feasible, web analytics in one Go binary with SQLite per account",
+    "url": "https://github.com/Feasible-Analytics/app.feasible.lol",
+    "score": 1,
+    "descendants": 0
+  }
+]
