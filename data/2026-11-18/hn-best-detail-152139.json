@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50522980,
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "url": "https://www.cs.cmu.edu/learn/",
+    "score": 2336,
+    "descendants": 317
+  },
+  {
+    "id": 50535230,
+    "title": "GPT\u20116.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "score": 1324,
+    "descendants": 825
+  },
+  {
+    "id": 50530163,
+    "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+    "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+    "score": 1264,
+    "descendants": 628
+  },
+  {
+    "id": 50538240,
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/",
+    "score": 1083,
+    "descendants": 287
+  },
+  {
+    "id": 50521045,
+    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "score": 830,
+    "descendants": 707
+  }
+]
