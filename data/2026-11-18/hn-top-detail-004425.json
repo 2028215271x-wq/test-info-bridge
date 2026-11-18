@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50538240,
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/",
+    "score": 453,
+    "descendants": 116
+  },
+  {
+    "id": 50535230,
+    "title": "GPT\u20116.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "score": 1058,
+    "descendants": 668
+  },
+  {
+    "id": 50538994,
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "score": 218,
+    "descendants": 56
+  },
+  {
+    "id": 50539747,
+    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "score": 40,
+    "descendants": 7
+  },
+  {
+    "id": 50534631,
+    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+    "score": 372,
+    "descendants": 179
+  }
+]
