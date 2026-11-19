@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50547374,
+    "title": "Unauthenticated remote code execution in Nginx",
+    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "score": 1062,
+    "descendants": 483
+  },
+  {
+    "id": 50548021,
+    "title": "Seven new models at scalable price-performance",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "score": 414,
+    "descendants": 286
+  },
+  {
+    "id": 50547620,
+    "title": "Inside Deutsche Bank",
+    "url": "https://www.inside-db.com/",
+    "score": 524,
+    "descendants": 185
+  },
+  {
+    "id": 50547777,
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "score": 319,
+    "descendants": 145
+  },
+  {
+    "id": 50551046,
+    "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+    "url": "https://www.radixark.com/blog/daisyrose-27b",
+    "score": 112,
+    "descendants": 32
+  }
+]

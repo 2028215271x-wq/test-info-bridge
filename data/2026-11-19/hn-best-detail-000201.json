@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50535230,
+    "title": "GPT\u20116.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "score": 1336,
+    "descendants": 850
+  },
+  {
+    "id": 50530163,
+    "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+    "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+    "score": 1282,
+    "descendants": 642
+  },
+  {
+    "id": 50538240,
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/",
+    "score": 1151,
+    "descendants": 320
+  },
+  {
+    "id": 50547374,
+    "title": "Unauthenticated remote code execution in Nginx",
+    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "score": 1062,
+    "descendants": 483
+  },
+  {
+    "id": 50538994,
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "score": 880,
+    "descendants": 427
+  }
+]
