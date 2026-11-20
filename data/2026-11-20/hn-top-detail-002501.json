@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50562754,
+    "title": "Anthropic\u2019s Nasdaq debut",
+    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "score": 847,
+    "descendants": 1640
+  },
+  {
+    "id": 50563066,
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+    "score": 500,
+    "descendants": 70
+  },
+  {
+    "id": 50567209,
+    "title": "Synology Security Advisory",
+    "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+    "score": 77,
+    "descendants": 46
+  },
+  {
+    "id": 50563148,
+    "title": "Claude solves two open problems in the physics of black holes",
+    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "score": 353,
+    "descendants": 158
+  },
+  {
+    "id": 50568130,
+    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "url": "https://git-aarvin.github.io/mei/",
+    "score": 10,
+    "descendants": 1
+  }
+]
