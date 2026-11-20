@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50547374,
+    "title": "Unauthenticated remote code execution in Nginx",
+    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "score": 1502,
+    "descendants": 639
+  },
+  {
+    "id": 50562754,
+    "title": "Anthropic\u2019s Nasdaq debut",
+    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "score": 1108,
+    "descendants": 2218
+  },
+  {
+    "id": 50552424,
+    "title": "Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "score": 1040,
+    "descendants": 773
+  },
+  {
+    "id": 50563066,
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+    "score": 838,
+    "descendants": 143
+  },
+  {
+    "id": 50554045,
+    "title": "We need smart people who give a shit",
+    "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+    "score": 816,
+    "descendants": 404
+  }
+]
