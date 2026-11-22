@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50596133,
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "score": 755,
+    "descendants": 454
+  },
+  {
+    "id": 50533945,
+    "title": "A real Linux kernel, compiled to WebAssembly",
+    "url": "https://github.com/pithings/unkernel",
+    "score": 138,
+    "descendants": 46
+  },
+  {
+    "id": 50582069,
+    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "score": 1150,
+    "descendants": 244
+  },
+  {
+    "id": 50589618,
+    "title": "Lean verification of the Riemann Hypothesis",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "score": 1111,
+    "descendants": 926
+  },
+  {
+    "id": 50566495,
+    "title": "Self-hosted library branch over public web OPDS",
+    "url": "https://joinmayberry.com/",
+    "score": 47,
+    "descendants": 12
+  }
+]
