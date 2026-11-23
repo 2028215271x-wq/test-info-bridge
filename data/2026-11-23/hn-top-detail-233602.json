@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50611576,
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "score": 1892,
+    "descendants": 2991
+  },
+  {
+    "id": 50620349,
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "score": 60,
+    "descendants": 27
+  },
+  {
+    "id": 50614249,
+    "title": "Ladybird is now in alpha",
+    "url": "https://ladybird.org/posts/alpha/",
+    "score": 1269,
+    "descendants": 310
+  },
+  {
+    "id": 50620250,
+    "title": "Levent Alp\u00f6ge comments on his Riemann Hypothesis proof",
+    "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
+    "score": 34,
+    "descendants": 25
+  },
+  {
+    "id": 50620102,
+    "title": "VP \u2260 VNP over Every Field",
+    "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "score": 135,
+    "descendants": 91
+  }
+]
