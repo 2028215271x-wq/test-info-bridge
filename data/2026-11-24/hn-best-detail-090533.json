@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50611576,
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "score": 2528,
+    "descendants": 3456
+  },
+  {
+    "id": 50614249,
+    "title": "Ladybird is now in alpha",
+    "url": "https://ladybird.org/posts/alpha/",
+    "score": 1889,
+    "descendants": 437
+  },
+  {
+    "id": 50611588,
+    "title": "Jensen Huang Reinstated as Nvidia CEO",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+    "score": 1708,
+    "descendants": 4
+  },
+  {
+    "id": 50615308,
+    "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+    "url": "https://twitter.com/ylecun/status/2124550037912920090",
+    "score": 1629,
+    "descendants": 916
+  },
+  {
+    "id": 50609685,
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+    "url": "https://z.ai/blog/glm-5.4",
+    "score": 1117,
+    "descendants": 362
+  }
+]

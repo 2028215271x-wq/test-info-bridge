@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50624497,
+    "title": "2035 Came Early",
+    "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+    "score": 90,
+    "descendants": 9
+  },
+  {
+    "id": 50614249,
+    "title": "Ladybird is now in alpha",
+    "url": "https://ladybird.org/posts/alpha/",
+    "score": 1889,
+    "descendants": 437
+  },
+  {
+    "id": 50620349,
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "score": 439,
+    "descendants": 233
+  },
+  {
+    "id": 50624061,
+    "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+    "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+    "score": 57,
+    "descendants": 21
+  },
+  {
+    "id": 50623515,
+    "title": "Drone Maps of Salvage Yards",
+    "url": "https://salvageyarddrone.wordpress.com/",
+    "score": 75,
+    "descendants": 27
+  }
+]
