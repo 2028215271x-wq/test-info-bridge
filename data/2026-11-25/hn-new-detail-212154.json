@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50647728,
+    "title": "Libzstd Security Update",
+    "url": "https://lists.debian.org/debian-security-announce/2026/msg00579.html",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50647725,
+    "title": "I didn't like Kumo UI's NPM package so I ported it to Shadcn",
+    "url": "https://kumo-shadcn.thomasricci.dev/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50647719,
+    "title": "Now that software is solved, am I working on the right things?",
+    "url": "https://dramdass.com/blog/hn-now-that-software-is-solved/",
+    "score": 1,
+    "descendants": 2
+  },
+  {
+    "id": 50647716,
+    "title": "Identifying Molecules with Mass Spec Skills for Antigravity",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50647712,
+    "title": "Opioid Withdrawal Is a Heartless Bitch",
+    "url": "https://psychotechnology.substack.com/p/opioid-withdrawal-is-a-heartless",
+    "score": 1,
+    "descendants": 0
+  }
+]
