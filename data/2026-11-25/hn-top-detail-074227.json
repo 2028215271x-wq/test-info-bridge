@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50637220,
+    "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "score": 510,
+    "descendants": 251
+  },
+  {
+    "id": 50638032,
+    "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+    "url": "https://buttons.joshwcomeau.com/",
+    "score": 245,
+    "descendants": 26
+  },
+  {
+    "id": 50637686,
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "score": 173,
+    "descendants": 66
+  },
+  {
+    "id": 50637874,
+    "title": "I've been drinking wine in my kitchen",
+    "url": "https://scottaaronson.blog/?p=10362",
+    "score": 144,
+    "descendants": 113
+  },
+  {
+    "id": 50633922,
+    "title": "Ternary Bonsai 2.5 27B",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "score": 426,
+    "descendants": 135
+  }
+]
