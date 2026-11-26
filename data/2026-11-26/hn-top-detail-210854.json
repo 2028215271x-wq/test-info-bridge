@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50657265,
+    "title": "AMD Specific Patches for Llama.cpp",
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "score": 189,
+    "descendants": 50
+  },
+  {
+    "id": 50657645,
+    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "score": 130,
+    "descendants": 55
+  },
+  {
+    "id": 50657530,
+    "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+    "url": "https://github.com/antonpictures/youtube-punisher",
+    "score": 121,
+    "descendants": 180
+  },
+  {
+    "id": 50658191,
+    "title": "Show HN: Fuck_data_brokers.py",
+    "url": "https://github.com/gary23w/f-ck_data_brokers",
+    "score": 75,
+    "descendants": 10
+  },
+  {
+    "id": 50658997,
+    "title": "The USA as a Civilizations-esque map",
+    "url": "https://karpathy.ai/usaciv/",
+    "score": 50,
+    "descendants": 34
+  }
+]
