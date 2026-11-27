@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50663595,
+    "title": "The group chat where your AI talks behind your back",
+    "url": "https://construct22.com/",
+    "score": 30,
+    "descendants": 8
+  },
+  {
+    "id": 50663089,
+    "title": "The need for a formally verifiable mainstream programming language",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "score": 85,
+    "descendants": 55
+  },
+  {
+    "id": 50660180,
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "score": 576,
+    "descendants": 300
+  },
+  {
+    "id": 50661646,
+    "title": "Hard Drive pricing has gotten bad",
+    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "score": 285,
+    "descendants": 186
+  },
+  {
+    "id": 50657530,
+    "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+    "url": "https://github.com/antonpictures/youtube-punisher",
+    "score": 358,
+    "descendants": 425
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 50663896,
+    "title": "Effective Climate Change Solutions for a Sustainable Future",
+    "url": "https://www.kali.org/",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50663882,
+    "title": "JetBrains finds agents may cheat with open source",
+    "url": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50663870,
+    "title": "Keeping Watch \u2013 What's in a Day's Work at Canada's Northernmost Fire Tower?",
+    "url": "https://www.trinamoyles.com/field-notes/keeping-watch-dawson-fire-tower",
+    "score": 1,
+    "descendants": 0
+  },
+  {
+    "id": 50663843,
+    "title": "PostHog's MCP SDK asks agents to explain why they call each tool",
+    "url": "https://posthog.com/docs/mcp-analytics/intent",
+    "score": 1,
+    "descendants": 1
+  },
+  {
+    "id": 50663842,
+    "title": "HumanFish: Predicting Who Wins a Human Chess Game",
+    "url": "https://humanfish.vercel.app/methodology",
+    "score": 1,
+    "descendants": 0
+  }
+]
